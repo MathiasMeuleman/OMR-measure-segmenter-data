@@ -1,0 +1,42 @@
+Beethoven: Symphony No. 3 
+@ MVT: N Finale 
+@ MVT: P 1 <> Flute 1
+@ MVT: P 2 <> Flute 2 
+@ MVT: P 3 <1,2> Flutes        
+@ MVT: P 4 <> Oboe 1 
+@ MVT: P 5 <> Oboe 2 
+@ MVT: P 6 <4,5> Oboes           
+@ MVT: P 7 <> Clarinet 1 
+@ MVT: P 8 <> Clarinet 2 
+@ MVT: P 9 <7,8> Clarinets 
+@ MVT: P 10 <> Bassoon 1 
+@ MVT: P 11 <> Bassoon 2 
+@ MVT: P 12 <10,11> Bassoons 
+@ MVT: P 13 <> Horn 1 
+@ MVT: P 14 <> Horn 2 
+@ MVT: P 15 <13,14> Horn 1 & 2 
+@ MVT: P 16 <> Horn 3     
+@ MVT: P 17 <> Trumpet 1 
+@ MVT: P 18 <> Trumpet 2 
+@ MVT: P 19 <17,18> Trumpets 
+@ MVT: P 20 <> Timpani 
+@ MVT: P 21 <> Violin I 
+@ MVT: P 22 <> Violin II 
+@ MVT: P 23 <> Viola
+@ MVT: P 24 <> Cello 
+@ MVT: P 25 <> Contrabass 
+@ MVT: P 26 <24,25> Cello & Contrabass 
+@ MVT: L 1 <1,2,3> Flutes
+@ MVT: L 2 <4,5,6> Oboes 
+@ MVT: L 3 <7,8,9> Clarinets 
+@ MVT: L 4 <10,11,12> Bassoons 
+@ MVT: L 5 <13,14,15> Horns 1 & 2 
+@ MVT: L 6 <16> Horn 3 
+@ MVT: L 7 <17,18,19> Trumpets       
+@ MVT: L 8 <20> Timpani 
+@ MVT: L 9 <21> Violin I 
+@ MVT: L 10 <22> Violin II 
+@ MVT: L 11 <23> Viola
+@ MVT: L 12 <24> Cello 
+@ MVT: L 13 <25> Contrabass 
+@ MVT: L 14 <26> Cello & Contrabass 

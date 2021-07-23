@@ -1,0 +1,168 @@
+
+
+       str startlib.150,rec.150,rec2.150 
+       str slib.150(10),tlib.150 
+       str infile.150,music.500000,outfile.150 
+       str newcop.14 
+
+       int size,h 
+
+
+       startlib = "d:\md2\beet\B&H" 
+
+       open [1,1] startlib 
+       loop 
+         getf [1] rec 
+         rec = rec // pad(13) 
+         rec = rec{1,13} 
+         if rec{1} = " " 
+           goto E1 
+         end 
+         putc ~rec 
+         slib(1) = startlib // "/" // rec 
+         open [2,1] slib(1) 
+         loop 
+           getf [2] rec 
+           rec = rec // pad(13) 
+           rec = rec{1,13} 
+           rec = trm(rec) 
+           if rec{1} = " " 
+             goto E2 
+           end 
+           putc  ~rec 
+ 
+           slib(2) = slib(1) // "/" // rec 
+           open [3,1] slib(2) 
+           loop 
+             getf [3] rec 
+             rec = rec // pad(13) 
+             rec = rec{1,13} 
+             rec = trm(rec) 
+             if rec{1} = " " 
+               goto E3 
+             end 
+             if rec{1,7} = "DISTRIB" 
+               slib(3) = slib(2) // "/" // rec 
+               open [4,1] slib(3) 
+               loop 
+                 getf [4] rec 
+                 rec = rec // pad(13) 
+                 rec = rec{1,13} 
+                 rec = trm(rec) 
+                 if rec{1} = " " 
+                   goto E4 
+                 end 
+                 if rec{1,4} = "MIDI" 
+                   slib(4) = slib(3) // "/" // rec 
+                   open [5,1] slib(4) 
+                   rec2 = rec 
+                   loop 
+                     getf [5] rec 
+                     rec = rec // pad(13) 
+                     rec = rec{1,13} 
+                     if rec{1} = " " 
+                       goto E5 
+                     end 
+                     if rec2 <> "" 
+                       putc   ~rec2 
+                       rec2 = "" 
+                     end 
+                     rec = rec{1,8} 
+                     rec = trm(rec) 
+                     rec = rec // ".MID" 
+                     putc     ~rec 
+                     infile = slib(4) // "/" // rec 
+                     open [6,5] infile 
+                     size = sze 
+                     len(music) = sze 
+                     read [6,1] music 
+                     close [6] 
+ 
+&dA &d@                    if music con "Lic.# " 
+&dA &d@                      newcop = music{mpt+13} 
+&dA &d@                    end 
+&dA 
+&dA &d@                    if music con "(C) 199" 
+&dA &d@                      h = mpt 
+&dA &d@                      putc ~music{h,14}   ...  
+&dA &d@                      if newcop = "P" 
+&dA &d@                        newcop = "P (C)&(P) " // music{h+4,4} 
+&dA &d@                      else 
+&dA &d@                        newcop = "(C) & (P) " // music{h+4,4} 
+&dA &d@                      end 
+&dA &d@                      music{h,14} = newcop 
+&dA &d@                    end 
+ 
+                     if music con "P (C)&(P) " or music con "(C) & (P) " 
+                       putc      ~music{mpt,14}   ...  
+                     end 
+ 
+&dA &d@                    if music con "Lic.# " 
+&dA &d@                      putc ~music{mpt,14}   ...  
+&dA &d@                      music{mpt,14} = "CCARH,Stanford" 
+&dA &d@                    end 
+&dA 
+&dA &d@                    if music con "CCARH,Stanford"
+&dA &d@                      putc      ~music{mpt,14}
+&dA &d@                    end 
+&dA 
+&dA &d@                    h = ors(music{46}) 
+&dA &d@                    h -= 6 
+&dA &d@                    music{46} = chr(h)  
+&dA 
+&dA &d@                    if h < 0x40 
+&dA &d@                      music{45} = chr(2) 
+&dA &d@                    end 
+ 
+                     h = ors(music{45,2}) 
+ 
+                     if music{h,14} <> "CCARH,Stanford" 
+                       putc ERROR in location 
+                     else 
+                       putc      ~music{h,14} 
+                     end 
+ 
+ 
+
+
+&dA 
+&dA &d@                    outfile = infile 
+&dA &d@                    open [7,6] outfile 
+&dA &d@                    write [7] music 
+&dA &d@                    close [7] 
+&dA 
+&dA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   repeat 
+E5: 
+                   close [5] 
+                 end 
+               repeat 
+E4: 
+               close [4] 
+             end 
+           repeat 
+E3: 
+           close [3] 
+         repeat 
+E2: 
+         close [2] 
+         putc 
+       repeat 
+E1: 
+       close [1] 
+       putc Done!  
+       getc 
+       run 

@@ -1,0 +1,362 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04e/s02}
+TIMESTAMP: MAY/19/2010 [md5sum:802f353bb10a080a6a7794b7b337bb81]
+09/30/03 Fran Bennion
+WK#:125       MV#:4e
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 5 (Chorus Andante maestoso)
+Oboi 1, 2
+0 0
+Group memberships: score scrcon
+score: part 2 of 21
+scrcon: part 2 of 21
+&
+Modified 09/30/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:1   Q:3   T:3/2  C:4   I:2
+P   C0:t3a1r1z31Ob_1-2
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+@  SCORECON instrument number:03
+*               D +     Andante maestoso. (\0& = 72.)
+P    C17:y-30  C25:f0
+rest   6      3 h
+measure 1
+P    C0:x1
+rest  18      3
+measure 2
+rest  18      3
+measure 3
+rest  18      3
+measure 4
+rest  18      3
+measure 5
+rest  18      3
+measure 6
+rest  18      3
+measure 7
+rest  18      3
+measure 8
+rest   6      1 h
+rest   6      1 h
+G5     6-     1 h     d        -Z
+P   C33:Y71x-3
+back  18
+irest  6      2 h
+irest  6      2 h
+B4     6-     2 h     d        -
+measure 9
+G5    12      1 w     d
+G5     6      1 h     d         .
+back  18
+B4    12      2 w     d
+B4     6      2 h     d
+measure 10
+F#5    6      1 h     d         .
+D5     6      1 h     u
+E5     6-     1 h     d        -
+back  18
+A4     6      2 h     d
+F#4    6      2 h     u         .
+G4     6-     2 h     d        -
+measure 11
+E5    12      1 w     d
+E5     6      1 h     d         .
+back  18
+G4    12      2 w     d
+G4     6      2 h     d
+measure 12
+D5     6      1 h     d         .
+B4     6      1 h     u
+rest   6      1 h
+P    C1:Y0
+back  18
+G4     6      2 h     d
+G4     6      2 h     u         .
+B4     6-     2 h     d        -Z
+P    C33:Y69
+measure 13
+C5    12      1 w     u
+C5     6      1 h     u
+back  18
+B4     6      2 h     d
+A4     6      2 h     d
+A4     6      2 h     d
+measure 14
+B4     6      1 h     u
+G4    12      1 w     u         Z
+P    C33:Y63
+back  18
+F#4    6      2 h     d
+E4    12      2 w     d
+measure 15
+*               D +     zu 2
+P   C17:Y-15x-7     C25:f32
+E5    12      3 w     d         ff
+P    C33:Y63
+E5     6      3 h     d
+measure 16
+D5    18      3 w.    d
+measure 17
+rest  18      3
+measure 18
+rest  18      3
+measure 19
+rest  18      3
+measure 20
+rest  18      3
+measure 21
+rest  18      3
+measure 22
+rest  18      3
+measure 23
+rest  18      3
+mdouble 24
+$    K:-1
+rest   6      1 h
+rest   6      1 h
+C5     6-     1 h     d        -f
+P    C33:Y66
+back  18
+irest  6      2 h
+irest  6      2 h
+A4     6-     2 h     d        -
+measure 25
+C5     6      1 h     d
+D5     9      1 h.    d
+C5     3      1 q     d
+back  18
+A4     6      2 h     d
+Bf4    9      2 h.f   d         +
+A4     3      2 q     d
+measure 26
+rest   3      3 q
+*               D +     zu 2
+P   C17:Y-20x-17     C25:f32
+F5     3-     3 q n   d        -
+F5     9      3 h.n   d
+F5     3      3 q     d
+measure 27
+F5    12      3 w n   d
+F5     6      3 h     d
+measure 28
+F5    18      3 w.n   d
+measure 29
+D5    12      3 w     d         Z
+P    C33:Y63
+C5     6      3 h     d
+measure 30
+C5     6      3 h     d        (
+A4     6      3 h     u        )
+G4     6      3 h     u
+measure 31
+F5    12      3 w n   d
+E5     6      3 h     d
+measure 32
+E5     6      1 h     d         .
+D5     6      1 h     d         .
+D5     3      1 q     u         p
+P   C33:Y62x3
+rest   3      1 q
+back  18
+E5     6      2 h     d
+D5     6      2 h     d
+Bf4    3      2 q f   d          +
+irest  3      2 q
+mdouble 33
+$    K:-2
+*               D +     Adagio ma non troppo, ma divoto. (\0& = 60.)
+P    C17:y-30  C25:f0
+rest  18      3
+measure 34
+rest  18      3
+measure 35
+rest  18      3
+measure 36
+rest  18      3
+measure 37
+rest  18      3
+measure 38
+rest  18      3
+measure 39
+rest  18      3
+measure 40
+rest  18      3
+measure 41
+rest  18      3
+measure 42
+rest  18      3
+measure 43
+rest  18      3
+measure 44
+rest  18      3
+measure 45
+rest  18      3
+measure 46
+rest  18      3
+measure 47
+rest  18      3
+measure 48
+rest  18      3
+measure 49
+rest   6      1 h
+G5     9      1 h.    d         ff
+P    C33:Y63x4
+G5     3      1 q     d
+back  18
+irest  6      2 h
+G4     9      2 h.    d
+Ef5    3      2 q f   d         +
+measure 50
+G5    12      1 w     d
+G5     6      1 h     d
+back  18
+Ef5   12      2 w f   d
+Ef5    6      2 h     d
+measure 51
+G5     6      1 h     d
+G5    12      1 w     d
+back  18
+Ef5    6      2 h f   d
+Ef5   12      2 w     d
+measure 52
+G5    12      1 w     d
+G5     6      1 h     d
+back  18
+Ef5   12      2 w f   d
+Ef5    6      2 h     d
+measure 53
+rest  18      3
+measure 54
+rest   6      1 h
+P   C1:Y0
+Bf5   12-     1 w f   u        -pp
+P    C33:Y-30x-20
+back  18
+rest  18      2
+P   C1:Y40
+measure 55
+Bf5   18-     1 w.    u        -
+back  18
+G5    18-     2 w.    d        -pp
+P    C33:Y46
+measure 56
+Bf5    6      1 h     d
+Bf5    2      1 q f3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+back  18
+G5     6      2 h     d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+measure 57
+Bf5    2      1 q f3  d        (.*pp
+P    C35:Y58
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+back  18
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+measure 58
+*               D       sempre pp
+P  C25:f33  C32:f1  C17:Y63
+Bf5    2      1 q f3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+back  18
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+measure 59
+Bf5    2      1 q f3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+back  18
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+measure 60
+Bf5    2      1 q f3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d         .
+Bf5    2      1 q  3  d        ).!
+P    C34:y-13
+Bf5    2      1 q  3  d        (.*
+Bf5    2      1 q  3  d        ).
+Bf5    2      1 q  3  d         F!
+P    C34:y-20
+back  18
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+G5     2      2 q  3  d
+mdouble 61
+$    K:2  T:6/4
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:2915222c5c12fed48b8c435a0475b110]
+@REASON: additions and refinements to Beethoven data

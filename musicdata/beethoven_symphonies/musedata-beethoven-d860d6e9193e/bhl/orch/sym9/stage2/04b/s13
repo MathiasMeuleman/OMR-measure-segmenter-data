@@ -1,0 +1,155 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04b/s13}
+TIMESTAMP: MAY/19/2010 [md5sum:b16b1201534882d16e5eb633a6854ebf]
+10/27/03 Fran Bennion
+WK#:125       MV#:4b
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 2 (Recitativo.)
+BARITONO// SOLO.
+0 0 B
+Group memberships: score scrcon
+score: part 13 of 14
+scrcon: part 13 of 14
+&
+Modified 09/28/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:-1   Q:2   T:3/4  C:22  I:2
+P   C0:p80v143a1r1z31Brt./Solo
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+@  SCORECON instrument number:24
+*               D +     Presto.
+P    C17:y-10  C25:f0
+rest   6      3
+measure 2
+rest   6      3
+measure 3
+rest   6      3
+measure 4
+rest   6      3
+measure 5
+rest   6      3
+measure 6
+rest   6      3
+measure 7
+rest   6      3
+measure 8
+rest   6      3
+measure 9
+*               D +     Recitativo
+P    C17:y-25Y-30  C25:f37
+rest   2      3 q
+rest   2      3 q
+A3     2      3 q     d                    O
+measure 10
+gA3    6      1 e     u         (
+E4     6-     1 h.#   u        -)          Freun-
+back   6
+C#4    6-     2 h.    d        -
+measure 11
+E4     2      1 q     u        (           -
+P   C32:o
+D4     1      1 e     d  [                 -
+C#4    1      1 e #   d  =                 -
+D4     1      1 e     d  =                 -
+E4     1      1 e     d  ]     )
+back   6
+C#4    2      2 q     d
+D4     1      2 e     d  [                 -
+C#4    1      2 e #   d  =                 -
+D4     1      2 e     d  =                 -
+E4     1      2 e     d  ]
+measure 12
+E4     2      3 q     d                    -
+G3     2      3 q     d                    de,
+rest   1      3 e
+G3     1      3 e     d                    nicht
+measure 13
+Bf3    4      3 h     d        (           die-
+A3     1      3 e     d        )           -
+E3     1      3 e     d                    se
+measure 14
+F3     2      3 q     d                    T\o3-
+F3     2      3 q     d                    ne!
+rest   2      3 q
+measure 15
+rest   6      3
+measure 16
+rest   6      3
+measure 17
+G#3    4      3 h #   d                    son-
+G#3    2      3 q     d                    dern
+measure 18
+rest   2      3 q
+D4     3      3 q.    d                    lasst
+B3     1      3 e n   d                    uns
+measure 19
+B3     2      3 q n   d        (           au-
+G#3    1      3 e #   d  [                 -
+A3     1      3 e     d  =                 -
+B3     1      3 e     d  =                 -
+C#4    1      3 e #   d  ]                 -
+measure 20
+E4     1      3 e     d  [                 -
+D4     1      3 e     d  =                 -
+C#4    1      3 e #   d  =                 -
+D4     1      3 e     d  ]     )           -
+B3     1      3 e n   d  [     (           ge-
+G#3    1      3 e #   d  ]     )           -
+measure 21
+E3     1      3 e     d                    neh-
+D3     1      3 e     d                    me-
+D3     2      3 q     d                    re
+F#3    1      3 e #   d  [                 an-
+E3     1      3 e     d  ]                 -
+measure 22
+D3     2      3 q     d                    stim-
+C#3    2      3 q #   u                    men,
+rest   2      3 q
+mdouble 23
+$    K:2
+rest   2      3 q
+rest   2      3 q
+A3     2      3 q     d                    und
+measure 24
+D4     3      3 q.    d        (           freu-
+E4     1      3 e     d  [                 -
+F#4    1      3 e #   d  =                 -
+E4     1      3 e     d  ]     )           -
+measure 25
+E4     1      3 e     d  [     (           -
+D4     1      3 e     d  ]     )           -
+D4     1      3 e     d  [     (           -
+C#4    1      3 e #   d  =                 -
+D4     1      3 e     d  =                 -
+A3     1      3 e     d  ]     )           -
+measure 26
+G3     1      3 e     d  [     (           -
+F#3    1      3 e #   d  ]     )           -
+F#3    1      3 e     d  [     (           -
+E3     1      3 e     d  =                 -
+D3     1      3 e     d  =                 -
+C3     1      3 e     d  ]     )           -
+measure 27
+C3     1      3 e     u  [     (           -
+B2     1      3 e n   u  ]     )           -
+G3     4-     3 h     d        -           -
+measure 28
+*               D +     ad lib.
+P  C25:f36  C17:Y-35
+G3     3      3 q.    d        (F          -
+E3     1      3 e     d  [                 -
+C#3    1      3 e #   d  ]     )+          -
+D3     1      3 e     d                    den-
+measure 29
+D3     1      3 e     d                    vol-
+A2     1      3 e     u                    le-
+A2     2      3 q     u                    re.
+rest   2      3 q
+mdouble
+$    T:1/1
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:01ed94a341f867df51c2b0d9883980d8]
+@REASON: additions and refinements to Beethoven data

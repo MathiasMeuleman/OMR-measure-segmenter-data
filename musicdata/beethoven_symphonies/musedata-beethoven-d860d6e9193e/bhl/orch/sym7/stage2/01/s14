@@ -1,0 +1,3076 @@
+(C) 2000, 2002, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym7/stage2/01/s14}
+TIMESTAMP: MAY/19/2010 [md5sum:fdb3b7cd7071140cf0b8b6aac5eca0b9]
+07/31/00 Fran Bennion
+WK#:92        MV#:1
+Breitkopf & H\a3rtel, Series 1 No. 7, Leipzig
+Beethoven Symphony No. 7 in A Major, Op. 92
+First Movement
+Contrabasso
+0 0
+Group memberships: score scrcon
+score: part 14 of 15
+scrcon: part 14 of 15
+&
+Modified 07/08/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:3   Q:4   T:1/1  C:22  X:-40  D:Poco sostenuto
+P   C0:p90t3a1r1z31Cb__
+P   C0:y1
+@  SCORECON transposition:10
+@  SCORECON instrument number:13
+A2     4        q     u         .f
+P    C34:Y69
+rest   4        q
+rest   8        h
+measure 2
+rest  16
+measure 3
+G#2    4        q     u         .f
+P    C34:Y74
+rest   4        q
+rest   8        h
+measure 4
+rest  16
+measure 5
+G2     4        q n   u         .f
+P    C34:Y74
+rest   4        q
+rest   8        h
+measure 6
+rest  16
+measure 7
+F#2    4        q     u         .f
+P    C34:Y79
+rest   4        q
+F#3    4        q     d         p
+P    C33:Y60
+rest   4        q
+measure 8
+F3     4        q n   d
+rest   4        q
+E3     4        q     d
+rest   4        q
+measure 9
+*               D       dimin.
+P  C25:f36  C17:Y68
+F3     4        q n   d
+rest   4        q
+rest   4        q
+F3     1        s     d  [[
+F3     1        s     d  ==
+F3     1        s     d  ==
+F3     1        s     d  ]]
+measure 10
+E3     1        s     d  [[     pp
+P   C33:Y72   C26:A
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ]]
+E3     1        s     d  [[
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ]]
+measure 11
+E3     4        q     d
+rest   4        q
+rest   8        h
+measure 12
+E3     1        s     d  [[
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ]]
+E3     1        s     d  [[
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ]]
+measure 13
+E3     4        q     d
+rest   4        q
+rest   8        h
+measure 14
+*               DH      cresc.
+P  C25:f36  C17:Y72  C18:Y72
+E3     1        s     d  [[
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ]]
+E3     1        s     d  [[
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ]]
+P    C26:b
+*               J
+measure 15
+A2     1        s     u  [[     ff
+P   C33:Y69
+A2     1        s     u  ==
+B2     1        s     u  ==
+C#3    1        s     u  ]]
+D3     1        s     d  [[
+E3     1        s     d  ==
+F#3    1        s     d  ==
+G#3    1        s     d  ]]
+A3     1        s     d  [[
+B3     1        s     d  ==
+C#4    1        s     d  ==
+D4     1        s     d  ]]
+E4     1        s     d  [[
+F#4    1        s     d  ==
+G#4    1        s     d  ==
+A4     1        s     d  ]]
+measure 16
+A2     4        q     u
+rest   4        q
+rest   8        h
+measure 17
+G#2    1        s     u  [[
+G#2    1        s     u  ==
+A2     1        s     u  ==
+B2     1        s     u  ]]
+C#3    1        s     d  [[
+D3     1        s     d  ==
+E3     1        s     d  ==
+F#3    1        s     d  ]]
+G#3    1        s     d  [[
+A3     1        s     d  ==
+B3     1        s     d  ==
+C#4    1        s     d  ]]
+D4     1        s     d  [[
+E4     1        s     d  ==
+F#4    1        s     d  ==
+G#4    1        s     d  ]]
+measure 18
+G2     4        q n   u
+rest   4        q
+rest   8        h
+measure 19
+F#2    1        s     u  [[
+F#2    1        s     u  ==
+G2     1        s n   u  ==
+A2     1        s     u  ]]
+B2     1        s     u  [[
+C#3    1        s     u  ==
+D3     1        s     u  ==
+E3     1        s     u  ]]
+F#3    1        s     d  [[
+G3     1        s n   d  ==
+A3     1        s     d  ==
+B3     1        s     d  ]]
+C#4    1        s     d  [[
+D4     1        s     d  ==
+E4     1        s     d  ==
+F#4    1        s     d  ]]
+measure 20
+F2     4        q n   u
+rest   4        q
+rest   8        h
+measure 21
+F2     1        s n   u  [[
+F2     1        s     u  ==
+G2     1        s n   u  ==
+A2     1        s     u  ]]
+B2     1        s     u  [[
+C3     1        s n   u  ==
+D3     1        s     u  ==
+E3     1        s     u  ]]
+F3     1        s n   d  [[
+G3     1        s n   d  ==
+A3     1        s     d  ==
+B3     1        s     d  ]]
+C4     1        s n   d  [[
+D4     1        s     d  ==
+E4     1        s     d  ==
+F4     1        s n   d  ]]
+measure 22
+*               D       dimin.
+P  C25:f36  C17:Y81
+E2     4        q     u
+rest   4        q
+C3     1        s n   u  [[
+P    C26:A
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+E3     1        s     d  [[
+E3     1        s     d  ==
+E3     1        s     d  ==
+E3     1        s     d  ]]
+P    C26:b
+measure 23
+G3     4        q n   d         p
+P    C33:Y58
+rest   4        q
+rest   8        h
+measure 24
+rest  16
+measure 25
+rest  16
+measure 26
+rest  16
+measure 27
+rest  16
+measure 28
+rest  16
+measure 29
+B2     1        s     u  [[     pp
+P    C33:Y59   C26:A
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ]]
+B2     2        e     u
+rest   2        e
+rest   4        q
+measure 30
+P   C0:y0
+C3     1        s n   u  [[
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+C3     2        e     u
+rest   2        e
+rest   4        q
+measure 31
+B2     1        s     u  [[
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ==
+B2     1        s     u  ]]
+B2     2        e     u
+rest   2        e
+rest   4        q
+measure 32
+C3     1        s n   u  [[
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+*               DH      cresc.
+P  C25:f36  C17:Y76x-8  C18:Y72x-8
+E3     2        e     d
+rest   2        e
+rest   4        q
+measure 33
+P   C0:y1
+F2     1        s n   u  [[
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ]]
+F#2    2        e #   u
+rest   2        e
+F#2    1        s     u  [[
+F#2    1        s     u  ==
+F#2    1        s     u  ==
+F#2    1        s     u  ]]
+P    C26:b
+G2     2        e n   u
+rest   2        e
+*               J
+measure 34
+G#2    1        s #   u  [[     ff+
+P   C33:Y68
+G#2    1        s     u  ==
+A2     1        s     u  ==
+B2     1        s     u  ]]
+C#3    1        s #   d  [[     +
+D3     1        s     d  ==
+E3     1        s     d  ==
+F#3    1        s #   d  ]]     +
+G#3    1        s #   d  [[     +
+A3     1        s     d  ==
+B3     1        s     d  ==
+C#4    1        s #   d  ]]     +
+D4     1        s     d  [[
+E4     1        s     d  ==
+F#4    1        s     d  ==
+G#4    1        s     d  ]]
+measure 35
+G#2    4        q     u
+rest   4        q
+rest   8        h
+measure 36
+A#2    1        s #   u  [[     ff
+P    C33:Y64
+A#2    1        s     u  ==
+B2     1        s     u  ==
+C#3    1        s     u  ]]
+D3     1        s     d  [[
+E3     1        s     d  ==
+F#3    1        s     d  ==
+G#3    1        s     d  ]]
+A#3    1        s #   d  [[
+B3     1        s     d  ==
+C#4    1        s     d  ==
+D4     1        s     d  ]]
+E4     1        s     d  [[
+E3     1        s     d  ==
+F#3    1        s     d  ==
+G#3    1        s     d  ]]
+measure 37
+A#3    4        q #   d
+rest   4        q
+rest   8        h
+measure 38
+B2     1        s     u  [[     ff
+P    C33:Y63
+B2     1        s     u  ==
+C#3    1        s     u  ==
+D#3    1        s #   u  ]]
+E3     1        s     d  [[
+F#3    1        s     d  ==
+G3     1        s n   d  ==
+A3     1        s n   d  ]]     +
+B3     1        s     d  [[
+B3     1        s     d  ==
+C#4    1        s     d  ==
+D#4    1        s #   d  ]]
+E4     1        s     d  [[
+F#3    1        s     d  ==
+G3     1        s     d  ==
+A3     1        s     d  ]]
+measure 39
+B3     4        q     d
+rest   4        q
+rest   8        h
+measure 40
+C2     1        s n   u  [[     ff
+P    C33:Y86
+C2     1        s     u  ==
+D2     1        s n   u  ==     +
+E2     1        s     u  ]]
+F2     1        s n   u  [[
+G2     1        s n   u  ==
+A2     1        s     u  ==
+B2     1        s     u  ]]
+C3     1        s n   d  [[
+D3     1        s     d  ==
+E3     1        s     d  ==
+F3     1        s n   d  ]]
+G3     1        s n   d  [[
+A3     1        s     d  ==
+B3     1        s     d  ==
+C4     1        s n   d  ]]
+measure 41
+*               D       dimin.
+P  C25:f36  C17:Y85x5
+C2     4        q n   u
+rest   4        q
+C3     1        s n   u  [[
+P    C26:A
+C3     1        s     u  ==
+C3     1        s     u  ==
+C3     1        s     u  ]]
+C4     1        s n   d  [[
+C4     1        s     d  ==
+C4     1        s     d  ==
+C4     1        s     d  ]]
+measure 42
+C4     4        q n   d         p
+P    C33:Y58
+rest   4        q
+rest   8        h
+measure 43
+*               D +     pizz.
+P  C25:f32  C17:Y-17x-5
+F3     4        q n   d
+rest   4        q
+A3     4        q     d
+rest   4        q
+measure 44
+C4     4        q n   d
+rest   4        q
+rest   8        h
+measure 45
+F3     4        q n   d
+rest   4        q
+A3     4        q     d
+rest   4        q
+measure 46
+Bf2    4        q f   u
+rest   4        q
+Bf3    4        q f   d
+rest   4        q
+measure 47
+C3     4        q n   u
+rest   4        q
+C3     4        q     u
+rest   4        q
+measure 48
+*               D +     arco.
+P  C25:f32  C17:x-5Y-10
+E2     1        s     u  [[     pp
+P    C33:Y71
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ]]
+E2     2        e     u
+rest   2        e
+rest   4        q
+measure 49
+*               DH      cresc.
+P  C25:f36  C18:Y75  C17:Y70
+F2     1        s n   u  [[
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ]]
+F2     2        e     u
+rest   2        e
+rest   4        q
+measure 50
+F2     1        s n   u  [[
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ]]
+F2     2        e     u
+rest   2        e
+rest   4        q
+measure 51
+F2     1        s n   u  [[
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ]]
+F2     2        e     u
+rest   2        e
+F2     1        s     u  [[
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ]]
+F2     2        e     u
+rest   2        e
+measure 52
+F2     1        s n   u  [[
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ]]
+F2     2        e     u
+rest   2        e
+F2     1        s     u  [[
+F2     1        s     u  ==
+F2     1        s     u  ==
+F2     1        s     u  ]]
+P    C26:b
+F2     2        e     u
+rest   2        e
+*               J
+measure 53
+E4     1        s     d  [[     ffp
+P   C33:Y77
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ]]
+E2     1        s     u  [[
+P    C26:a
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ]]
+E2     2        e     u
+rest   2        e
+rest   4        q
+measure 54
+P   C0:y0
+rest  16
+measure 55
+E4     1        s     d  [[     fp
+P    C33:Y72
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ]]
+E2     1        s     u  [[
+P    C26:a
+E2     1        s     u  ==
+E2     1        s     u  ==
+E2     1        s     u  ]]
+E2     2        e     u
+rest   2        e
+rest   4        q
+measure 56
+rest  16
+measure 57
+rest  16
+measure 58
+P   C0:y1
+rest  16
+measure 59
+rest  16
+measure 60
+rest  16
+measure 61
+rest  16
+measure 62
+rest  16
+mheavy3 63                      |:
+$     Q:12   T:6/8    D:Vivace
+rest  36
+measure 64
+rest  36
+measure 65
+rest  36
+measure 66
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+A2     3        s     u         p
+P    C33:Y59
+measure 67
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 68
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+A2     3        s     u
+measure 69
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 70
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+A2     3        s     u
+measure 71
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 72
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+A2     3        s     u
+measure 73
+A2     6        e     u
+rest   6        e
+C#3    6        e     u
+E3     6        e     d
+rest   6        e
+E3     6        e     d
+measure 74
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 75
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+A2     3        s     u
+measure 76
+A2    12        q     u
+rest   6        e
+rest  12        q
+E3     6        e     d
+measure 77
+F#3    6        e     d  [     (Zp
+P    C33:Y71
+E3     6        e     d  =     )
+C#3    6        e     d  ]      .
+A2    12        q     u
+rest   6        e
+measure 78
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+A2     3        s     u
+measure 79
+A2    12        q     u
+rest   6        e
+rest  12        q
+E3     6        e     d
+measure 80
+F#3    6        e     d  [     (Zp
+P    C33:Y79
+E3     6        e     d  =     )
+C#3    6        e     d  ]      .
+A2    12        q     u
+rest   6        e
+measure 81
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+E3     3        s     d
+measure 82
+*               GE  15  f
+P   C17:Y71  C18:Y71
+E3    18-       q.    d        -
+*               F   0
+E3    12        q     d         p
+P   C33:Y71x16
+rest   6        e
+measure 83
+rest  12        q
+rest   6        e
+rest   6        e
+rest   9        e.
+E3     3        s     d
+measure 84
+E3    18-       q.    d        -f
+P    C33:Y66
+E3     9        e.    u  [
+C#3    3        s     u  =\     .
+A2     6        e     u  ]      .
+measure 85
+E3    18-       q.    d        -Z
+P    C33:Y65
+E3     9        e.    u  [
+C#3    3        s     u  =\
+A#2    6        e #   u  ]
+measure 86
+E3     6        e     d  [      Z
+P    C33:Y76
+rest   3        s
+P    C1:Y25
+D3     3        s     d  =\
+B2     6        e     d  ]
+G#3    6        e     d  [      Z
+P    C33:Y70
+rest   3        s
+E3     3        s     d  =\
+D3     6        e     d  ]
+measure 87
+B3     6        e     d  [      Z
+P    C33:Y66
+rest   3        s
+P    C1:Y10
+G#3    3        s     d  =\
+E3     6        e     d  ]
+D4     6        e     d  [      Z
+P    C33:Y63
+rest   3        s
+P    C1:Y0
+B3     3        s     d  =\
+G#3    6        e     d  ]
+measure 88
+E3    18        q.    d         F
+rest  12        q
+rest   6        e
+measure 89
+A2     9        e.    u  [      ff
+P    C33:Y63
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 90
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 91
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 92
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 93
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 94
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 95
+A2     9        e.    u  [
+A2     3        s     u  =\
+C#3    6        e     u  ]
+E3     9        e.    u  [
+E3     3        s     u  =\
+E2     6        e     u  ]
+measure 96
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     9        e.    u  [
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 97
+A2    12        q     u
+rest   6        e
+rest  12        q
+A2     6        e     u
+measure 98
+A2    12        q     u
+A2     6        e     u
+A2     9        e.    u  [
+C#3    3        s     u  =\     .
+E3     6        e     u  ]      .
+measure 99
+G3     6        e n   d  [     (
+F#3    6        e     d  =     )
+D3     6        e     d  ]      .
+A2    12        q     u
+A2     6        e     u
+measure 100
+A2    12        q     u
+A2     6        e     u
+A2     9        e.    u  [
+C#3    3        s     u  =\     .
+E3     6        e     u  ]      .p
+P    C34:Y58
+measure 101
+*               D       cresc.
+P  C25:f36  C17:Y65
+A3     6        e     d  [     (
+C#4    6        e     d  =     )
+E4     6        e     d  ]      .
+A2     9        e.    u  [
+C#3    3        s     u  =\     .
+E3     6        e     u  ]      .
+measure 102
+A3     6        e     d  [     (
+D4     6        e     d  =     )
+F#4    6        e     d  ]      .
+A2     9        e.    u  [
+D3     3        s     u  =\     .
+F#3    6        e     u  ]      .
+measure 103
+A3     6        e     d  [     (
+B3     6        e     d  =     )
+D4     6        e     d  ]      .
+A2     9        e.    u  [
+B2     3        s     u  =\     .
+D3     6        e     u  ]      .
+measure 104
+A3     6        e     d  [     (
+C#4    6        e     d  =     )
+E4     6        e     d  ]      .
+A2     9        e.    u  [
+C#3    3        s     u  =\     .
+E3     6        e     u  ]      .
+measure 105
+*               D       stacc.
+P  C25:f36  C17:Y65
+A3     6        e     d  [      .
+C#4    6        e     d  =      .
+E4     6        e     d  ]      .
+A2     6        e     u  [      .
+C#3    6        e     u  =      .
+E3     6        e     u  ]      .
+measure 106
+A3     6        e     d  [      .
+D4     6        e     d  =      .
+F#4    6        e     d  ]      .
+A2     6        e     u  [      .
+D3     6        e     u  =      .
+F#3    6        e     u  ]      .
+measure 107
+A3     6        e     d  [      .
+B3     6        e     d  =      .
+D4     6        e     d  ]      .
+A2     6        e     u  [      .
+B2     6        e     u  =      .
+D3     6        e     u  ]      .
+measure 108
+A3     6        e     d  [      .
+C#4    6        e     d  =      .
+E4     6        e     d  ]      .
+A2     6        e     u  [      .
+C#3    6        e     u  =      .
+E3     6        e     u  ]      .
+measure 109
+C#3    3        s     d  [[     ff
+P    C33:Y83
+C#4    3        s     d  ==
+C#4    3        s     d  ==
+C#4    3        s     d  ==
+C#4    3        s     d  ==
+C#4    3        s     d  ]]
+C#4    3        s     d  [[
+P    C26:A
+C#4    3        s     d  ==
+C#4    3        s     d  ==
+C#4    3        s     d  ==
+C#4    3        s     d  ==
+C#4    3        s     d  ]]
+measure 110
+B3     3        s     d  [[
+B3     3        s     d  ==
+B3     3        s     d  ==
+B3     3        s     d  ==
+B3     3        s     d  ==
+B3     3        s     d  ]]
+P    C26:b
+B3     3        s     d  [[
+B3     3        s     d  ==
+B3     3        s     d  ==     p
+P    C33:Y58
+B3     3        s     d  ==
+B3     3        s     d  ==
+B3     3        s     d  ]]
+measure 111
+A3     3        s     d  [[
+P    C26:A
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ]]
+A3     3        s     d  [[
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ]]
+measure 112
+G#3   12        q     d
+rest   6        e
+G#3   12        q     d
+rest   6        e
+measure 113
+G#3   12        q     d
+rest   6        e
+G#3   12        q     d
+rest   6        e
+measure 114
+G#3   12        q     d
+rest   6        e
+G#3   12        q     d
+rest   6        e
+measure 115
+*               D       cresc.
+P  C25:f36  C17:Y65
+C#3    3        s     u  [[
+C#3    3        s     u  ==
+C#3    3        s     u  ==
+C#3    3        s     u  ==
+C#3    3        s     u  ==
+C#3    3        s     u  ]]
+E3     3        s     d  [[
+E3     3        s     d  ==
+E3     3        s     d  ==
+E3     3        s     d  ==
+E3     3        s     d  ==
+E3     3        s     d  ]]
+P    C26:b
+measure 116
+Ef3   12        q f   d         f
+P    C33:Y66
+rest   6        e
+Ef3   12        q     d         p
+P    C33:Y64
+rest   6        e
+measure 117
+Ef3   12        q f   d
+rest   6        e
+Ef3   12        q     d
+rest   6        e
+measure 118
+D#3   12        q #   d
+rest   6        e
+D#3   12        q     d
+rest   6        e
+measure 119
+*               D       cresc.
+P  C25:f36  C17:Y65
+G#3   36        h.    d
+measure 120
+F#2   12        q     u         f
+P    C33:Y71
+F#2    6        e     u
+F#3   12        q     d
+F#3    6        e     d
+measure 121
+F#3    6        e     d        (
+E3    12-       q     d        -)
+E3    18        q.    d
+measure 122
+D#2   12        q #   u
+D#2    6        e     u
+D#3   12        q #   d
+D#3    6        e     d
+measure 123
+D#3    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   12        q     u
+C3     6        e n   u
+measure 124
+B2    12        q     u         .
+rest   6        e
+B2    12        q     u         .
+rest   6        e
+measure 125
+B2    12        q     u         .
+rest   6        e
+B2    12        q     u         .
+rest   6        e
+measure 126
+B2    12        q     u         .
+rest   6        e
+B2    12        q     u         .
+rest   6        e
+measure 127
+B2    12        q     u         .
+rest   6        e
+B2    12        q     u         .
+rest   6        e
+measure 128
+*               GE  15  Z
+P   C17:Y73  C18:Y73
+C#3   18-       q.    u        -(
+P    C33:y5
+C#3   12        q     u
+C3     6        e n   u        )
+*               F   0
+measure 129
+B2    18-       q.    u        -(p
+P   C34:Y68    C33:u   C33:y5
+B2    12        q     u
+C#3    3        s #   u  [[     +
+D#3    3        s #   u  ]]
+measure 130
+E3    12        q     d        )
+rest   6        e
+rest  12        q
+rest   6        e
+measure 131
+rest  36
+measure 132
+*               D       dolce
+P  C25:f36  C17:Y69
+E3    18        q.    d        (
+G#3   18        q.    d
+measure 133
+B3    18        q.    d
+B2    18        q.    u        )
+measure 134
+E3    18        q.    d         f
+P    C33:Y66
+E3     9        e.    d  [
+E3     3        s     d  =\
+E3     6        e     d  ]
+measure 135
+E3     9        e.    d  [
+E3     3        s     d  =\
+E3     6        e     d  ]
+E3     9        e.    d  [
+E3     3        s     d  =\
+D3     6        e n   d  ]      +
+measure 136
+C3     9        e.n   d  [
+C4     3        s n   d  =\
+G3     6        e n   d  ]
+E3     9        e.    d  [
+E3     3        s     d  =\
+C3     6        e     d  ]
+measure 137
+G2     9        e.n   u  [
+G2     3        s     u  =\
+E2     6        e     u  ]
+C2     9        e.n   u  [
+C3     3        s n   u  =\
+G2     6        e     u  ]
+measure 138
+C3    12        q n   u
+rest   6        e
+rest   9        e.
+*               D       dimin.
+P  C25:f36  C17:Y76x-13
+G2     3        s n   u  [/
+G2     6        e     u  ]
+measure 139
+C3    12        q n   u
+rest   6        e
+rest   9        e.
+G2     3        s n   u  [/
+G2     6        e     u  ]
+measure 140
+C3    12        q n   u         p
+P    C33:Y59
+rest   6        e
+rest  12        q
+rest   6        e
+measure 141
+C3    12        q n   u         pp
+P    C33:Y59
+rest   6        e
+rest  12        q
+rest   6        e
+measure 142
+rest   6        e
+rest   6        e
+D#2    3        s #   u  [[    (pp
+P    C33:Y90x-9
+E2     3        s     u  ]]
+F#2   12        q     u        ).
+rest   6        e
+measure 143
+rest  36
+measure 144
+rest   6        e
+rest   6        e
+D#2    3        s #   u  [[    (
+E2     3        s     u  ]]
+F#2   12        q     u        ).
+rest   6        e
+measure 145
+rest  36
+measure 146
+rest   6        e
+rest   6        e
+*               DH      cresc. poco a poco
+P  C25:f36  C17:Y93x-5  C18:Y89x-5
+D#2    3        s #   u  [[    (
+E2     3        s     u  ]]
+F#2    6        e     u        )
+rest   6        e
+E2     3        s     u  [[    (
+F#2    3        s     u  ]]
+measure 147
+G#2    6        e     u        )
+rest   6        e
+E2     3        s     u  [[    (
+F#2    3        s     u  ]]
+G#2    6        e     u        )
+rest   6        e
+F#2    3        s     u  [[    (
+G#2    3        s     u  ]]
+measure 148
+A2     6        e     u        )
+rest   6        e
+F#2    3        s     u  [[    (
+G#2    3        s     u  ]]
+A2     6        e     u        )
+rest   6        e
+G#2    3        s     u  [[    (
+A2     3        s     u  ]]
+measure 149
+B2     6        e     u        )
+rest   6        e
+G#2    3        s     u  [[    (
+A2     3        s     u  ]]
+B2     6        e     u        )
+rest   6        e
+A2     3        s     u  [[    (
+B2     3        s     u  ]]
+measure 150
+C#3    6        e     u        )
+rest   6        e
+A2     3        s     u  [[    (
+B2     3        s     u  ]]
+C#3    6        e     u        )
+rest   6        e
+B2     3        s     u  [[    (
+C#3    3        s     u  ]]
+measure 151
+D#3    6        e #   u        )
+rest   6        e
+B2     3        s     u  [[    (
+C#3    3        s     u  ]]
+D#3    6        e     u        )
+rest   6        e
+C#3    3        s     u  [[    (
+D#3    3        s     u  ]]
+measure 152
+*               JG      ff
+P   C18:Y79
+E3     9        e.    d  [     )
+E4     3        s     d  =\
+B3     6        e     d  ]
+G#3    9        e.    d  [
+G#3    3        s     d  =\
+E3     6        e     d  ]
+measure 153
+B2     9        e.    u  [
+B2     3        s     u  =\
+G#2    6        e     u  ]
+E2    12        q     u
+rest   6        e
+measure 154
+A4     9        e.    d  [
+A4     3        s     d  =\
+F#4    6        e     d  ]
+C#4    9        e.    d  [
+C#4    3        s     d  =\
+A3     6        e     d  ]
+measure 155
+F#3    9        e.    d  [
+F#3    3        s     d  =\
+C#3    6        e     d  ]
+A2    12        q     u
+rest   6        e
+measure 156
+P   C0:y0
+rest  36
+measure 157
+rest  36
+measure 158
+E3     9        e.    d  [      ff
+P    C33:Y72
+E4     3        s     d  =\
+B3     6        e     d  ]
+G#3    9        e.    d  [
+G#3    3        s     d  =\
+E3     6        e     d  ]
+measure 159
+P   C0:y1
+B2     9        e.    u  [
+B2     3        s     u  =\
+G#2    6        e     u  ]
+E2    12        q     u
+rest   6        e
+measure 160
+A4     9        e.    d  [
+A4     3        s     d  =\
+F#4    6        e     d  ]
+C#4    9        e.    d  [
+C#4    3        s     d  =\
+A3     6        e     d  ]
+measure 161
+F#3    9        e.    d  [
+F#3    3        s     d  =\
+C#3    6        e     d  ]
+A2    12        q     u
+rest   6        e
+measure 162
+A2    36        h.    u         pp
+P    C33:Y60
+measure 163
+*               D       cresc.
+P  C25:f36  C17:Y65
+B2    36        h.    u
+measure 164
+E3    12        q     d         ff
+P    C33:Y66
+rest   6        e
+G#3   12        q     d
+rest   6        e
+measure 165
+B3    12        q     d
+rest   6        e
+rest   9        e.
+B3     3        s     d  [/
+B3     6        e     d  ]
+measure 166
+B3    18-       q.    d        -Z
+P    C33:Y63
+B3     9        e.    d  [
+A3     3        s     d  =\     .
+G#3    6        e     d  ]      .
+measure 167
+gG#3   4        t     u
+A3    18-       q.    d        -Z
+P    C33:Y63
+A3     9        e.    d  [
+C#3    3        s     d  =\     .
+D#3    6        e #   d  ]      .
+measure 168
+E3    12        q     d
+rest   6        e
+rest   9        e.
+B3     3        s     d  [/
+B3     6        e     d  ]
+measure 169
+*               D +     ten.
+P  C25:f36  C17:Y-20x-5
+B3    12        q     d         Z
+P    C33:Y63
+G#3    6        e     d
+gG#3   4        t     u
+A3     9        e.    d  [
+C#3    3        s     d  =\     .
+D#3    6        e #   d  ]      .
+measure 170
+E3    12        q     d
+rest   6        e
+rest   9        e.
+B3     3        s     d  [/
+B3     6        e     d  ]
+measure 171
+gD#3   4        t     u
+E3    12        q     d         .ff
+P    C34:Y66
+rest   6        e
+gE2    4        t     u
+F#2   12        q     u         .
+rest   6        e
+measure 172
+gF#2   4        t     u
+G#2   12        q     u         .
+rest   6        e
+gG#2   4        t     u
+A2    12        q     u         .
+rest   6        e
+measure 173
+gA2    4        t     u
+B2    12        q     u         .
+rest   6        e
+gB2    4        t     u
+C#3   12        q     u         .
+rest   6        e
+measure 174
+gC#3   4        t     u
+D3    12        q     d         .
+rest   6        e
+D#3   12        q #   d         .
+rest   6        e
+measure 175
+rest  36
+measure 176
+rest  36
+mheavy2 177                     :|
+gD#2   4        t     u
+E2    12        q     u         .ff
+P    C34:Y84
+rest   6        e
+gE2    4        t     u
+F2    12        q n   u         .
+rest   6        e
+measure 178
+gF2    4        t     u
+F#2   12        q #   u         +.
+rest   6        e
+gF#2   4        t     u
+G2    12        q n   u         .
+rest   6        e
+measure 179
+rest  36
+measure 180
+rest  36
+measure 181
+rest  36
+measure 182
+rest  36
+measure 183
+rest  36
+measure 184
+rest  12        q
+rest   6        e
+G2     9        e.n   u  [      pp
+P   C33:Y65
+G2     3        s     u  =\
+G2     6        e     u  ]
+measure 185
+G2    18-       q.n   u        -
+G2     9        e.    u  [
+F2     3        s n   u  =\     .
+E2     6        e     u  ]      .
+measure 186
+F2     9        e.n   u  [      .
+G2     3        s n   u  =\     .
+A2     6        e     u  ]      .
+B2     9        e.    u  [      .
+C3     3        s n   u  =\     .
+D3     6        e     u  ]      .
+measure 187
+E3     9        e.    d  [
+F3     3        s n   d  =\
+G3     6        e n   d  ]
+A3     9        e.    d  [
+B3     3        s     d  =\
+C4     6        e n   d  ]
+measure 188
+D4     9        e.    d  [
+C4     3        s n   d  =\
+B3     6        e     d  ]
+A3     9        e.    d  [
+G3     3        s n   d  =\
+F3     6        e n   d  ]
+measure 189
+E3     9        e.    d  [
+D3     3        s     d  =\
+C3     6        e n   d  ]
+C3    12        q     u
+rest   6        e
+measure 190
+B2     9        e.    u  [
+A2     3        s     u  =\
+G2     6        e n   u  ]
+G2    12        q     u
+rest   6        e
+measure 191
+C3    12        q n   u
+rest   6        e
+rest   9        e.
+C3     3        s     u  [/
+C3     6        e     u  ]
+measure 192
+C3    12        q n   u
+rest   6        e
+rest   9        e.
+C3     3        s     u  [/
+C3     6        e     u  ]
+measure 193
+C3    12        q n   u
+rest   6        e
+rest   9        e.
+C3     3        s     u  [/
+C3     6        e     u  ]
+measure 194
+C3    12        q n   u
+rest   6        e
+rest   9        e.
+C3     3        s     u  [/
+C3     6        e     u  ]
+measure 195
+*               DH      cresc.
+P  C25:f36  C17:Y68  C18:Y63
+C3     9        e.n   u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+C3     9        e.    u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+measure 196
+C3     9        e.n   u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+C3     9        e.    u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+measure 197
+C3     9        e.n   u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+C3     9        e.    u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+measure 198
+C3     9        e.n   u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+C3     9        e.    u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+measure 199
+C3     9        e.n   u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+C3     9        e.    u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+measure 200
+C3     9        e.n   u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+C3     9        e.    u  [
+C3     3        s     u  =\
+C3     6        e     u  ]
+*               J
+measure 201
+C3    12        q n   u         f
+P   C33:Y63
+rest   6        e
+C4     9        e.n   d  [
+C4     3        s     d  =\     .
+G3     6        e n   d  ]      .
+measure 202
+G3    18-       q.n   d        -
+G3     9        e.    d  [
+G3     3        s     d  =\     .
+E3     6        e     d  ]      .
+measure 203
+E3    12        q     d
+rest   3        s
+C4     3        s n   d
+G3    12        q n   d
+rest   3        s
+G3     3        s     d
+measure 204
+E3    12        q     d
+rest   3        s
+E3     3        s     d
+C3    12        q n   u
+rest   3        s
+C3     3        s     u
+measure 205
+G2    12        q n   u         ff
+P    C33:Y68
+rest   6        e
+rest  12        q
+rest   6        e
+measure 206
+rest  36
+measure 207
+G2    12        q n   u
+rest   6        e
+G2     9        e.    u  [
+F4     3        s n   d  =\
+D4     6        e     d  ]
+measure 208
+D4    18-       q.    d        -
+D4     9        e.    d  [
+D4     3        s     d  =\
+B3     6        e     d  ]
+measure 209
+B3    12        q     d
+rest   3        s
+F4     3        s n   d
+D4    12        q     d
+rest   3        s
+D4     3        s     d
+measure 210
+B3    12        q     d
+rest   3        s
+B3     3        s     d
+G3    12        q n   d
+rest   3        s
+G2     3        s n   u
+measure 211
+G#2   12        q #   u         +
+rest   6        e
+rest  12        q
+rest   6        e
+measure 212
+rest  36
+measure 213
+G#2   12        q     u
+rest   6        e
+G#3    9        e.    d  [
+E4     3        s     d  =\
+B3     6        e     d  ]
+measure 214
+B3    18-       q.    d        -
+B3     9        e.    d  [
+B3     3        s     d  =\
+G#3    6        e     d  ]
+measure 215
+G#3   12        q     d
+rest   3        s
+E4     3        s     d
+B3    12        q     d
+rest   3        s
+B3     3        s     d
+measure 216
+G#3   12        q     d
+rest   3        s
+G#3    3        s     d
+E3    12        q     d
+rest   3        s
+E3     3        s     d
+measure 217
+E3     9        e.    d  [      ff
+P    C33:Y73
+E3     3        s     d  =\
+E3     6        e     d  ]
+rest  12        q
+rest   6        e
+measure 218
+P   C0:y0
+C#3    9        e.    u  [      Z
+P    C33:Y63
+C#3    3        s     u  =\
+C#3    6        e     u  ]
+rest  12        q
+rest   6        e
+measure 219
+C#3    9        e.    u  [      Z
+P    C33:Y63
+C#3    3        s     u  =\
+C#3    6        e     u  ]
+rest  12        q
+rest   6        e
+measure 220
+P   C0:y1
+rest  36
+measure 221
+rest  36
+measure 222
+rest  36
+measure 223
+rest  36
+measure 224
+rest   9        e.
+D3     3        s     d  [/     pp
+P    C33:Y68
+E3     6        e     d  ]
+F3     6        e n   u  [
+rest   3        s
+A2     3        s     u  =\
+B2     6        e n   u  ]      +
+measure 225
+C3    12        q n   u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 226
+rest  36
+measure 227
+rest   9        e.
+A2     3        s     u  [/
+B2     6        e     u  ]
+C3     6        e n   d  [
+rest   3        s
+E3     3        s     d  =\
+F#3    6        e #   d  ]      +
+measure 228
+G3    12        q n   d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 229
+rest  36
+measure 230
+rest   9        e.
+E3     3        s     d  [/
+F#3    6        e #   d  ]      +
+G3     6        e n   d  [
+rest   3        s
+Bf2    3        s f   d  =\
+C3     6        e n   d  ]
+measure 231
+D3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 232
+rest  36
+measure 233
+rest   9        e.
+B2     3        s n   u  [/     +
+C#3    6        e #   u  ]      +
+D3     6        e     u  [
+rest   3        s
+F2     3        s n   u  =\
+G2     6        e n   u  ]
+measure 234
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 235
+rest   9        e.
+B2     3        s     u  [/
+C#3    6        e     u  ]
+D3     6        e     u  [
+rest   3        s
+F2     3        s n   u  =\
+G2     6        e n   u  ]
+measure 236
+A2     6        e     u  [
+rest   3        s
+*               DH      cresc. poco a poco
+P  C25:f36  C17:Y70x-8  C18:Y74x-8
+A2     3        s     u  =\
+B2     6        e     u  ]
+C#3    6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+C#3    6        e     u  ]
+measure 237
+D3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D3     6        e     u  ]
+E3     6        e     d  [
+rest   3        s
+D3     3        s     d  =\
+E3     6        e     d  ]
+measure 238
+F3    36-       h.n   d        -
+measure 239
+F3    36-       h.    d        -
+measure 240
+F3     6        e     d  [
+rest   3        s
+Bf2    3        s f   d  =\
+C3     6        e n   d  ]
+D3     6        e     d  [
+rest   3        s
+C3     3        s     d  =\
+D3     6        e     d  ]
+measure 241
+E3     6        e     d  [
+rest   3        s
+D3     3        s     d  =\
+E3     6        e     d  ]
+F3     6        e n   d  [
+rest   3        s
+E3     3        s     d  =\
+F3     6        e     d  ]
+measure 242
+G3    36-       h.n   d        -
+measure 243
+G3    36-       h.    d        -
+measure 244
+G3     6        e     d  [
+rest   3        s
+C3     3        s n   d  =\
+D3     6        e     d  ]
+E3     6        e     d  [
+rest   3        s
+D3     3        s     d  =\
+E3     6        e     d  ]
+measure 245
+F3     6        e n   d  [
+rest   3        s
+E3     3        s     d  =\
+F3     6        e     d  ]
+G3     6        e n   d  [
+rest   3        s
+F3     3        s     d  =\
+G3     6        e     d  ]
+measure 246
+A3    36-       h.    d        -
+measure 247
+A3    36-       h.    d        -
+measure 248
+A3     6        e     d  [
+rest   3        s
+D3     3        s     d  =\
+E3     6        e     d  ]
+F#3    6        e #   d  [      +
+rest   3        s
+E3     3        s     d  =\
+F#3    6        e     d  ]
+measure 249
+G3     6        e n   d  [
+rest   3        s
+P   C1:Y10
+F#3    3        s     d  =\
+G3     6        e     d  ]
+A3     6        e     d  [
+rest   3        s
+P   C1:Y10
+G3     3        s     d  =\
+A3     6        e     d  ]
+*               J
+measure 250
+Bf3    9        e.f   d  [      f
+P   C33:Y65
+Bf3    3        s     d  =\
+A3     6        e     d  ]
+Bf3   12        q     d
+rest   6        e
+measure 251
+B3     6        e n   d  [      +
+rest   3        s
+P    C1:Y0
+B3     3        s     d  =\
+A#3    6        e #   d  ]
+B3    12        q     d
+rest   6        e
+measure 252
+C4     6        e n   d  [
+rest   3        s
+P    C1:Y-10
+C4     3        s     d  =\
+B3     6        e     d  ]
+C4    12        q     d
+rest   6        e
+measure 253
+C#4    6        e #   d  [      +
+rest   3        s
+P    C1:Y-10
+C#4    3        s     d  =\
+B#3    6        e #   d  ]
+C#4   12        q     d
+rest   6        e
+measure 254
+D3     6        e     u  [      ff
+P    C33:Y63
+rest   3        s
+D3     3        s     u  =\
+C#3    6        e     u  ]
+D3     6        e     u  [
+rest   3        s
+D3     3        s     u  =\
+C#3    6        e     u  ]
+measure 255
+D3     6        e     u  [
+rest   3        s
+D3     3        s     u  =\
+C#3    6        e     u  ]
+D3     6        e     u  [
+rest   3        s
+D3     3        s     u  =\
+C#3    6        e     u  ]
+measure 256
+D3    36-       h.    d        -
+measure 257
+D3    18        q.    d
+D3     9        e.    u  [
+C3     3        s n   u  =\
+B2     6        e     u  ]
+measure 258
+C3     6        e n   u  [
+rest   3        s
+C3     3        s     u  =\
+B2     6        e     u  ]
+C3     6        e     u  [
+rest   3        s
+C3     3        s     u  =\
+B2     6        e     u  ]
+measure 259
+C3     6        e n   u  [
+rest   3        s
+C3     3        s     u  =\
+B2     6        e     u  ]
+C3     6        e     u  [
+rest   3        s
+C3     3        s     u  =\
+B2     6        e     u  ]
+measure 260
+C3    36-       h.n   u        -
+measure 261
+C3    18        q.    u
+C3     9        e.n   u  [
+B2     3        s     u  =\
+A2     6        e     u  ]
+measure 262
+B2     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+A#2    6        e #   u  ]
+B2     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+A#2    6        e     u  ]
+measure 263
+B2     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+A#2    6        e #   u  ]
+B2     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+A#2    6        e     u  ]
+measure 264
+B2    12        q     u
+rest   6        e
+rest   9        e.
+B3     3        s     d  [/
+C4     6        e n   d  ]
+measure 265
+D4    12        q     d
+rest   6        e
+rest   9        e.
+G#3    3        s #   d  [/     +
+A3     6        e     d  ]
+measure 266
+B3    12        q     d
+rest   6        e
+rest   9        e.
+D3     3        s     d  [/
+E3     6        e     d  ]
+measure 267
+F3    12        q n   d
+rest   6        e
+rest   9        e.
+G#2    3        s #   u  [/     +
+A2     6        e     u  ]
+measure 268
+B2     6        e     u  [
+rest   3        s
+G#2    3        s     u  =\
+A2     6        e     u  ]
+B2     6        e     u  [
+rest   3        s
+A2     3        s     u  =\
+B2     6        e     u  ]
+measure 269
+C3     6        e n   u  [
+rest   3        s
+A2     3        s     u  =\
+B2     6        e     u  ]
+C3     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+C#3    6        e #   u  ]
+measure 270
+D3     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+C#3    6        e     u  ]
+D3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D#3    6        e #   u  ]
+measure 271
+E3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D#3    6        e #   u  ]
+E3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D#3    6        e     u  ]
+measure 272
+E3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D3     6        e n   u  ]      +
+E3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D3     6        e     u  ]
+measure 273
+E3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D3     6        e     u  ]
+E3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D3     6        e     u  ]
+measure 274
+E3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 275
+rest  12        q
+rest   6        e
+*               DH      pi\u8 f
+P  C25:f33  C31:f1  C17:Y71  C18:Y71
+E3     3        s     d  [[    (
+F#3    3        s     d  ==
+G#3    3        s     d  ==
+A3     3        s     d  ]]
+B3     2        s  3  d  [[     *
+C#4    2        s  3  d  ==
+D4     2        s  3  d  ]]    )!
+measure 276
+E4    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 277
+rest  12        q
+rest   6        e
+E3     3        s     d  [[    (
+F#3    3        s     d  ==
+G#3    3        s     d  ==
+A3     3        s     d  ]]
+B3     2        s  3  d  [[     *
+C#4    2        s  3  d  ==
+D4     2        s  3  d  ]]    )!
+*               J
+measure 278
+E4     6        e     d  [      ff
+P   C33:Y67
+rest   3        s
+A2     3        s     u  =\
+A2     6        e     u  ]
+A2     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+C#3    6        e     u  ]
+measure 279
+B2     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D3     6        e     u  ]
+E3     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+D3     6        e     d  ]
+measure 280
+C#3    6        e     u  [
+rest   3        s
+E3     3        s     u  =\
+D3     6        e     u  ]
+C#3    6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+A2     6        e     u  ]
+measure 281
+G#2    6        e     u  [
+rest   3        s
+P    C1:Y30
+F#2    3        s     u  =\
+E2     6        e     u  ]
+D3     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+B2     6        e     u  ]
+measure 282
+A2     6        e     u  [
+rest   3        s
+A2     3        s     u  =\
+G#2    6        e     u  ]
+A2     6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+C#3    6        e     u  ]
+measure 283
+B2     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+D3     6        e     u  ]
+E3     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+D3     6        e     d  ]
+measure 284
+C#3    6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+A2     6        e     u  ]
+E3     6        e     u  [
+rest   3        s
+E2     3        s     u  =\
+E2     6        e     u  ]
+measure 285
+A2     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+E3     6        e     u  ]
+A3     6        e     d  [
+rest   3        s
+P    C1:Y-10
+C#4    3        s     d  =\
+E4     6        e     d  ]
+measure 286
+F#4    6        e     d  [
+rest   3        s
+P    C1:Y-10
+D4     3        s     d  =\
+A3     6        e     d  ]
+F#3    6        e     u  [
+rest   3        s
+D3     3        s     u  =\
+A2     6        e     u  ]
+measure 287
+A2     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+E3     6        e     u  ]
+A3     6        e     d  [
+rest   3        s
+P    C1:Y-10
+C#4    3        s     d  =\
+E4     6        e     d  ]
+measure 288
+A2     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+G3     6        e n   d  ]
+C#4    6        e     d  [
+rest   3        s
+P    C1:Y-10
+E4     3        s     d  =\
+G4     6        e n   d  ]
+measure 289
+F#4    6        e     d  [
+rest   3        s
+P    C1:Y-10
+D4     3        s     d  =\
+A3     6        e     d  ]
+F#3    6        e     u  [
+rest   3        s
+D3     3        s     u  =\
+A2     6        e     u  ]
+measure 290
+A2     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+E3     6        e     u  ]
+A3     6        e     d  [
+rest   3        s
+P    C1:Y-10
+C#4    3        s     d  =\
+E4     6        e     d  ]
+measure 291
+A2     6        e     u  [
+rest   3        s
+C#3    3        s     u  =\
+E3     6        e     u  ]
+A3     6        e     d  [
+rest   3        s
+P    C1:Y0
+B3     3        s     d  =\
+C#4    6        e     d  ]
+measure 292
+D4     6        e     d  [
+rest   3        s
+P    C1:Y0
+B3     3        s     d  =\
+G#3    6        e     d  ]
+C#4    6        e     d  [
+rest   3        s
+P    C1:Y10
+A3     3        s     d  =\
+E3     6        e     d  ]
+measure 293
+E3     6        e     d  [
+rest   3        s
+P    C1:Y10
+G#3    3        s     d  =\
+B3     6        e     d  ]
+E3     6        e     d  [
+rest   3        s
+P    C1:Y0
+A3     3        s     d  =\
+C#4    6        e     d  ]
+measure 294
+D4     6        e     d  [
+rest   3        s
+P    C1:Y0
+B3     3        s     d  =\
+G#3    6        e     d  ]
+C#4    6        e     d  [
+rest   3        s
+P    C1:Y10
+A3     3        s     d  =\
+E3     6        e     d  ]
+measure 295
+E3     6        e     d  [
+rest   3        s
+P    C1:Y10
+G#3    3        s     d  =\
+B3     6        e     d  ]
+E3     6        e     d  [
+rest   3        s
+P    C1:Y10
+A3     3        s     d  =\
+C#4    6        e     d  ]
+measure 296
+E3     6        e     d  [
+rest   3        s
+P    C1:Y10
+A3     3        s     d  =\
+C#4    6        e     d  ]
+E3     6        e     d  [
+rest   3        s
+P    C1:Y10
+A#3    3        s #   d  =\
+C#4    6        e     d  ]
+measure 297
+E3     6        e     d  [
+rest   3        s
+P    C1:Y10
+B3     3        s     d  =\
+D4     6        e     d  ]
+E3     6        e     d  [
+rest   3        s
+P    C1:Y10
+G#3    3        s     d  =\
+B3     6        e     d  ]
+measure 298
+B2     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+G#3    6        e     d  ]
+G#2    6        e     u  [
+rest   3        s
+B2     3        s     u  =\
+E3     6        e     u  ]
+measure 299
+E2    18        q.    u         F
+rest  12        q
+rest   6        e
+measure 300
+*               D +     pizz.
+P  C25:f32  C17:Y-12x-10
+A2    12        q     u
+rest   6        e               F
+rest  12        q
+rest   6        e
+measure 301
+P   C0:y0
+*               D +     pizz.
+P  C25:f32  C17:x-5Y-12
+D3    12        q     d         p
+P    C33:Y68
+rest   6        e
+rest  12        q
+rest   6        e
+measure 302
+rest  36
+measure 303
+D3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 304
+rest  36
+measure 305
+D3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 306
+rest  36
+measure 307
+D3    12        q     d
+F2     6        e n   u
+A2    12        q     u
+A2     6        e     u
+measure 308
+D3    12        q     d
+rest   6        e
+G2    12        q n   u
+rest   6        e
+measure 309
+G2    12        q n   u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 310
+D3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 311
+Bf2   12        q f   u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 312
+F3    12        q n   d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 313
+D3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 314
+A3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 315
+A3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 316
+A3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 317
+A3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 318
+A3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 319
+*               DH      cresc
+P  C25:f36  C17:Y73  C18:Y73
+A2    12        q     u
+rest   6        e
+A2    12        q     u
+rest   6        e
+measure 320
+A2    12        q     u
+rest   6        e
+A2    12        q     u
+rest   6        e
+measure 321
+A2    12        q     u
+rest   6        e
+A2    12        q     u
+rest   6        e
+measure 322
+A2    12        q     u
+rest   6        e
+A2    12        q     u
+rest   6        e
+*               J
+measure 323
+P   C0:y1
+*               D +     arco.
+P  C25:f32  C17:x-5Y-15
+A2     3        s     d  [[     ff
+P   C33:Y90
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ]]
+A3     3        s     d  [[
+P    C26:A
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ==
+A3     3        s     d  ]]
+measure 324
+G3     3        s n   d  [[
+G3     3        s     d  ==
+G3     3        s     d  ==
+G3     3        s     d  ==
+G3     3        s     d  ==
+G3     3        s     d  ]]
+G3     3        s     d  [[
+G3     3        s     d  ==
+G3     3        s     d  ==
+G3     3        s     d  ==
+G3     3        s     d  ==
+G3     3        s     d  ]]
+measure 325
+F3     3        s n   d  [[
+F3     3        s     d  ==
+F3     3        s     d  ==
+F3     3        s     d  ==
+F3     3        s     d  ==
+F3     3        s     d  ]]
+F3     3        s     d  [[
+F3     3        s     d  ==
+F3     3        s     d  ==
+F3     3        s     d  ==
+F3     3        s     d  ==
+F3     3        s     d  ]]
+P    C26:b
+measure 326
+E3    12        q     d         p
+P    C33:Y64
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 327
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 328
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 329
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 330
+*                D      cresc.
+P  C25:f36  C18:Y68
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 331
+A2    18-       q.    u        -f
+P    C33:Y68
+A2    12        q     u
+A2     6        e     u
+measure 332
+G#2   12        q     u
+G#2    6        e     u
+G#3   12        q     d
+G#3    6        e     d
+measure 333
+G#3    6        e     d        (
+F#3   12-       q     d        -)
+F#3   12        q     d
+F#2    6        e     u
+measure 334
+E2    12        q     u
+E2     6        e     u
+E3    12        q     d
+E3     6        e     d
+measure 335
+E3     6        e     d  [     (
+D3     6        e     d  =     )
+D3     6        e     d  ]      .
+D#3    6        e #   d  [
+D#3    6        e     d  =
+D#3    6        e     d  ]
+measure 336
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 337
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 338
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 339
+E3    12        q     d
+rest   6        e
+E3    12        q     d
+rest   6        e
+measure 340
+*               GE  15  Z
+P   C17:Y91  C18:Y91
+F#2   18-       q.    u        -(
+P    C33:y5
+F#2   12        q     u
+F2     6        e n   u        )
+*               F   0
+measure 341
+E2    18-       q.    u        -(p
+P   C34:Y86   C33:y5
+E2    12        q     u
+F#2    3        s #   u  [[     +
+G#2    3        s     u  ]]
+measure 342
+A2    12        q     u        )
+rest   6        e
+rest  12        q
+rest   6        e
+measure 343
+rest  36
+measure 344
+*               D       dolce
+P  C25:f36  C17:Y79x-5
+A2    18        q.    u        (
+C#3   18        q.    u
+measure 345
+E3    18        q.    d
+E2    18        q.    u        )
+measure 346
+A2    18        q.    u         ff
+P    C33:Y63
+A3     9        e.    d  [
+A3     3        s     d  =\
+A3     6        e     d  ]
+measure 347
+A3     9        e.    d  [
+A3     3        s     d  =\
+A3     6        e     d  ]
+A3     9        e.    d  [
+A3     3        s     d  =\
+G3     6        e n   d  ]
+measure 348
+F3     9        e.n   d  [
+F4     3        s n   d  =\
+C4     6        e n   d  ]
+A3     9        e.    d  [
+A3     3        s     d  =\
+F3     6        e     d  ]
+measure 349
+P   C0:y0
+C3     9        e.n   u  [
+C3     3        s     u  =\
+A2     6        e     u  ]
+F2     9        e.n   u  [
+F3     3        s     u  =\
+C3     6        e n   u  ]
+measure 350
+F3    12        q n   d
+rest   6        e
+rest   9        e.
+*               D       dimin.
+P  C25:f36  C17:Y66x-20
+C3     3        s n   u  [/
+C3     6        e     u  ]
+measure 351
+F3    12        q n   d
+rest   6        e
+rest   9        e.
+C3     3        s n   u  [/
+C3     6        e     u  ]
+measure 352
+F3    12        q n   d         p
+P    C33:Y61
+rest   6        e
+rest  12        q
+rest   6        e
+measure 353
+F3    12        q n   d         pp
+P    C33:Y61
+rest   6        e
+rest  12        q
+rest   6        e
+measure 354
+P   C0:y1
+rest   6        e
+rest   6        e
+G#2    3        s     u  [[    (pp
+P    C33:Y75x-9
+A2     3        s     u  ]]
+B2    12        q     u        ).
+rest   6        e
+measure 355
+rest  36
+measure 356
+rest   6        e
+rest   6        e
+G#2    3        s     u  [[    (
+A2     3        s     u  ]]
+B2    12        q     u        ).
+rest   6        e
+measure 357
+rest  36
+measure 358
+rest   6        e
+rest   6        e
+*               D       cresc. poco a poco
+P  C25:f36  C17:Y85x-4
+G#2    3        s     u  [[    (
+A2     3        s     u  ]]
+B2     6        e     u        ).
+rest   6        e
+A2     3        s     u  [[    (
+B2     3        s     u  ]]
+measure 359
+C#3    6        e     u        ).
+rest   6        e
+A2     3        s     u  [[    (
+B2     3        s     u  ]]
+C#3    6        e     u        ).
+rest   6        e
+B2     3        s     u  [[    (
+C#3    3        s     u  ]]
+measure 360
+D3     6        e     u        ).
+rest   6        e
+B2     3        s     u  [[    (
+C#3    3        s     u  ]]
+D3     6        e     u        ).
+rest   6        e
+C#3    3        s     u  [[    (
+P    C32:u
+D3     3        s     u  ]]
+measure 361
+E3     6        e     d        ).
+rest   6        e
+C#3    3        s     u  [[    (
+P    C32:u
+D3     3        s     u  ]]
+E3     6        e     d        ).
+rest   6        e
+D3     3        s     d  [[    (
+E3     3        s     d  ]]
+measure 362
+F#3    6        e     d        ).
+rest   6        e
+D3     3        s     d  [[    (
+E3     3        s     d  ]]
+F#3    6        e     d        ).
+rest   6        e
+E3     3        s     d  [[    (
+F#3    3        s     d  ]]
+measure 363
+G#3    6        e     d        ).
+rest   6        e
+E3     3        s     d  [[    (
+F#3    3        s     d  ]]
+G#3    6        e     d        ).
+rest   6        e
+F#3    3        s     d  [[    (
+G#3    3        s     d  ]]
+measure 364
+A3     9        e.    d  [     )ff
+P    C33:Y63
+A4     3        s     d  =\
+E4     6        e     d  ]
+C#4    9        e.    d  [
+C#4    3        s     d  =\
+A3     6        e     d  ]
+measure 365
+E3     9        e.    d  [
+E3     3        s     d  =\
+C#3    6        e     d  ]
+A2    12        q     u
+rest   6        e
+measure 366
+D2     9        e.    u  [
+D4     3        s     d  =\
+A3     6        e     d  ]
+F#3    9        e.    d  [
+F#3    3        s     d  =\
+D3     6        e     d  ]
+measure 367
+A2     9        e.    u  [
+A2     3        s     u  =\
+F#2    6        e     u  ]
+D2    12        q     u
+rest   6        e
+measure 368
+P   C0:y0
+rest  36
+measure 369
+rest  36
+measure 370
+P   C0:y1
+A2     9        e.    u  [      ff
+P    C33:Y63
+A4     3        s     d  =\
+E4     6        e     d  ]
+C#4    9        e.    d  [
+C#4    3        s     d  =\
+A3     6        e     d  ]
+measure 371
+E3     9        e.    u  [
+E3     3        s     u  =\
+C#3    6        e     u  ]
+A2    12        q     u
+rest   6        e
+measure 372
+D4     9        e.    d  [
+D4     3        s     d  =\
+A3     6        e     d  ]
+F#3    9        e.    d  [
+F#3    3        s     d  =\
+D3     6        e     d  ]
+measure 373
+A2     9        e.    u  [
+A2     3        s     u  =\
+F#2    6        e     u  ]
+D2    12        q     u
+rest   6        e
+measure 374
+D2    36        h.    u         pp
+P    C33:Y78
+measure 375
+*               D       cresc.
+P  C25:f36  C17:Y74
+E2    36        h.    u
+measure 376
+A2    12        q     u         ff
+P    C33:Y63
+rest   6        e
+C#3   12        q     u
+rest   6        e
+measure 377
+E3    12        q     d
+rest   6        e
+rest   9        e.
+E3     3        s     d  [/
+E3     6        e     d  ]
+measure 378
+E3    18-       q.    d        -Z
+P    C33:Y65
+E3     9        e.    d  [
+D3     3        s     d  =\     .
+C#3    6        e     d  ]      .
+measure 379
+gC#3   4        t     u
+D3    18-       q.    d        -Z
+P    C33:Y71
+D3     9        e.    u  [
+F#2    3        s     u  =\     .
+G#2    6        e     u  ]      .
+measure 380
+A2    12        q     u
+rest   6        e
+rest   9        e.
+E3     3        s     d  [/
+E3     6        e     d  ]
+measure 381
+*               D +     ten.
+P  C25:f36  C17:Y-12x-5
+E3    12        q     d         Z
+P    C33:Y65
+C#3    6        e     u
+gC#3   4        t     u
+D3     9        e.    u  [
+F#2    3        s     u  =\     .
+G#2    6        e     u  ]      .
+measure 382
+A2    12        q     u
+rest   6        e
+rest   9        e.
+E3     3        s     d  [/
+E3     6        e     d  ]
+measure 383
+gG#2   4        t     u
+A2    12        q     u         ff
+P    C33:Y63
+rest   6        e
+gA2    4        t     u
+B2    12        q     u
+rest   6        e
+measure 384
+gB2    4        t     u
+C#3   12        q     u
+rest   6        e
+gC#3   4        t     u
+D3    12        q     d
+rest   6        e
+measure 385
+gD3    4        t     u
+E3    12        q     d
+rest   6        e
+gE3    4        t     u
+F#3   12        q     d
+rest   6        e
+measure 386
+gF#3   4        t     u
+G#3   12        q     d
+rest   6        e
+gG#3   4        t     u
+A3    12        q     d
+rest   6        e
+measure 387
+rest  36
+measure 388
+rest  36
+measure 389
+gG3    4        t     u
+Af3   12        q f   d         p
+P    C33:Y58
+rest   6        e
+rest  12        q
+rest   6        e
+measure 390
+rest  36
+measure 391
+Af2    9        e.f   u  [      pp
+P    C33:Y60
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+Af2    9        e.    u  [
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+measure 392
+Af2    9        e.f   u  [
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+Af2    9        e.    u  [
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+measure 393
+Af2    9        e.f   u  [
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+Af2    9        e.    u  [
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+measure 394
+Af2    9        e.f   u  [
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+Af2    9        e.    u  [
+Af2    3        s     u  =\
+Af2    6        e     u  ]
+measure 395
+G2     9        e.n   u  [
+G2     3        s     u  =\
+G2     6        e     u  ]
+G2     9        e.    u  [
+G2     3        s     u  =\
+G2     6        e     u  ]
+measure 396
+*               D       sempre pp
+P  C25:f33  C32:f1  C17:Y71
+G2     9        e.n   u  [
+G2     3        s     u  =\
+G2     6        e     u  ]
+G2     9        e.    u  [
+G2     3        s     u  =\
+G2     6        e     u  ]
+measure 397
+F2     9        e.n   u  [
+F2     3        s     u  =\
+F2     6        e     u  ]
+F2     9        e.    u  [
+F2     3        s     u  =\
+F2     6        e     u  ]
+measure 398
+F2     9        e.n   u  [
+F2     3        s     u  =\
+F2     6        e     u  ]
+F2     9        e.    u  [
+F2     3        s     u  =\
+F2     6        e     u  ]
+measure 399
+E2     9        e.    u  [
+E2     3        s     u  =\
+E2     6        e     u  ]
+E2     9        e.    u  [
+E2     3        s     u  =\
+E2     6        e     u  ]
+measure 400
+E2     9        e.    u  [
+E2     3        s     u  =\
+E2     6        e     u  ]
+E2     9        e.    u  [
+E2     3        s     u  =\
+E2     6        e     u  ]
+measure 401
+P   C0:y0
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 402
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 403
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 404
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 405
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 406
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 407
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 408
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 409
+*               DH      cresc.
+P  C25:f36  C17:Y72x-5  C18:Y71x-5
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 410
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 411
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 412
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 413
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 414
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 415
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 416
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 417
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 418
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+measure 419
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 420
+B#2    6        e #   u        (
+C#3   12-       q     u        -)
+C#3   18        q.    u
+*               J
+measure 421
+*               DH      pi\u8 cresc.
+P  C25:f36  C17:Y71  C18:Y71
+D3    18-       q.    u        -
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]     )
+measure 422
+D3     6        e     u  [     (
+C#3    6        e     u  =
+B#2    6        e #   u  ]
+D3     6        e     u  [
+C#3    6        e     u  =
+B#2    6        e     u  ]     )
+*               J
+measure 423
+C#3    9        e.    u  [      ff
+P   C33:Y63
+C#3    3        s     u  =\
+C#3    6        e     u  ]
+C#3    9        e.    u  [
+C#3    3        s     u  =\
+C#3    6        e     u  ]
+measure 424
+P   C0:y1
+C#3    9        e.    u  [
+C#3    3        s     u  =\
+C#3    6        e     u  ]
+C#3    9        e.    u  [
+C#3    3        s     u  =\
+C#3    6        e     u  ]
+measure 425
+D2     9        e.    u  [
+D3     3        s     u  =\
+D3     6        e     u  ]
+D3     9        e.    d  [
+D3     3        s     d  =\
+D3     6        e     d  ]
+measure 426
+D3     9        e.    d  [
+D3     3        s     d  =\
+D3     6        e     d  ]
+D3     9        e.    d  [
+D3     3        s     d  =\
+D3     6        e     d  ]
+measure 427
+E3    12        q     d
+rest   6        e
+rest   9        e.
+A3     3        s     d  [/     .
+E3     6        e     d  ]
+measure 428
+E3    12        q     d
+rest   6        e
+rest   9        e.
+E4     3        s     d  [/     .
+C#4    6        e     d  ]
+measure 429
+C#4   12        q     d         .
+rest   3        s
+A4     3        s     d
+E4    12        q     d         .
+rest   3        s
+E4     3        s     d
+measure 430
+C#4   12        q     d
+rest   3        s
+C#4    3        s     d
+A3    12        q     d
+rest   3        s
+A3     3        s     d
+measure 431
+P   C0:y0
+F#3   12        q     d
+rest   3        s
+F#3    3        s     d
+E3    12        q     d
+rest   3        s
+E3     3        s     d
+measure 432
+D#3   12        q #   d
+rest   6        e
+rest   9        e.
+D#3    3        s     d  [/
+D#3    6        e     d  ]
+measure 433
+D#3   12        q #   d
+rest   6        e
+rest   9        e.
+D#3    3        s     d  [/
+D#3    6        e     d  ]
+measure 434
+D3    12        q n   d         +
+rest   6        e
+rest   9        e.
+D3     3        s     d  [/
+D3     6        e     d  ]
+measure 435
+D3    12        q     d
+rest   6        e
+rest   9        e.
+D3     3        s     d  [/
+D3     6        e     d  ]
+measure 436
+C#3   12        q     u
+rest   6        e
+rest   9        e.
+D3     3        s     d  [/
+D3     6        e     d  ]
+measure 437
+E3    12        q     d
+rest   6        e
+rest   9        e.
+E#3    3        s #   d  [/
+E#3    6        e     d  ]
+measure 438
+F#3    6        e     d  [
+rest   3        s
+P    C1:Y20
+D3     3        s     d  =\
+D3     6        e     d  ]
+D3     6        e     d  [
+rest   3        s
+P    C1:Y20
+E3     3        s     d  =\
+E3     6        e     d  ]
+measure 439
+E3     6        e     d  [
+rest   3        s
+E#3    3        s #   d  =\
+E#3    6        e     d  ]
+E#3    6        e     d  [
+rest   3        s
+F#3    3        s     d  =\
+F#3    6        e     d  ]
+measure 440
+F#3    6        e     d  [
+rest   3        s
+D3     3        s     d  =\
+D3     6        e     d  ]
+D3     6        e     d  [
+rest   3        s
+P    C1:Y20
+E3     3        s     d  =\
+E3     6        e     d  ]
+measure 441
+E3     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+E3     6        e     d  ]
+E3     6        e     u  [
+rest   3        s
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 442
+P   C0:y1
+A2    12        q     u         ff
+P    C33:Y63
+rest   6        e
+rest  12        q
+rest   6        e
+measure 443
+E3     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+E3     6        e     d  ]
+E3     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+E3     6        e     d  ]
+measure 444
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 445
+E3     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+E3     6        e     d  ]
+E3     6        e     d  [
+rest   3        s
+E3     3        s     d  =\
+E3     6        e     d  ]
+measure 446
+A2     6        e     d  [
+rest   3        s
+A3     3        s     d  =\
+A3     6        e     d  ]
+A3     6        e     d  [
+rest   3        s
+P    C1:Y0
+A3     3        s     d  =\
+A3     6        e     d  ]
+measure 447
+A3     6        e     d  [
+rest   3        s
+A2     3        s     d  =\
+A2     6        e     d  ]
+A2     6        e     u  [
+rest   3        s
+A2     3        s     u  =\
+A2     6        e     u  ]
+measure 448
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+measure 449
+E3    12        q     d
+rest   6        e
+rest  12        q
+rest   6        e
+measure 450
+A2    12        q     u
+rest   6        e
+rest  12        q
+rest   6        e
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/26/2001 [md5sum:4ed20f4d43513c57ea55296a8af35f6d]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:00dbb64614a5003bdd14e8c305e45157]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:eb121fa42203c46819f2b821395be089]
+@REASON: additions and refinements to Beethoven data

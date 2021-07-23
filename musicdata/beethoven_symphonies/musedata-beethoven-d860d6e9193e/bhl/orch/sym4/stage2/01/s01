@@ -1,0 +1,1764 @@
+(C) 2001, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym4/stage2/01/s01}
+TIMESTAMP: MAY/19/2010 [md5sum:95dc4b309ac52d3828a5d8df2e085111]
+05/23/01 Fran Bennion
+WK#:60        MV#:1
+Breitkopf & H\a3rtel, Series 1 No. 4, Leipzig
+Beethoven Symphony No. 4 in Bb Major, Op. 60
+First Movement
+Flauto
+1 3
+Group memberships: score scrcon
+score: part 1 of 13
+scrcon: part 1 of 13
+&
+Modified 05/04/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+P    C0:F40d9
+$  K:-2   Q:12   T:0/0   C:4   D:Adagio.  (\0( = 66)
+P   C0:p100q8a1r1z31Fl
+Bf5   48-       w     d        -pp
+P    C33:Y60
+measure 2
+P   C0:x1
+Bf5   48-       w     d        -
+measure 3
+Bf5   48-       w     d        -
+measure 4
+Bf5   48-       w     d        -
+measure 5
+*               E   0
+P    C17:Y65
+*     18        F   25
+*     24        E   15
+P    C17:Y65x10
+Bf5   48        w     d
+*               F   0
+measure 6
+F5     6        e     d
+rest   6        e
+rest  12        q
+rest  24        h
+measure 7
+rest  48
+measure 8
+rest  48
+measure 9
+rest  48
+measure 10
+rest  24        h
+rest  12        q
+*               D       sempre pp
+P  C25:f33  C32:f1  C17:Y66x-18
+A5     6        e     d
+rest   6        e
+measure 11
+C6     6        e     d
+rest   6        e
+rest  12        q
+rest  12        q
+Ef6    6        e     d
+rest   6        e
+measure 12
+Gf6    6        e f   d
+rest   6        e
+Ef6    6        e     d
+rest   6        e
+C6     6        e     d
+rest   6        e
+A5     6        e     d
+rest   6        e
+measure 13
+*               D       dimin.
+P  C25:f36  C17:Y66x50
+Bf5   48-       w     d        -fp
+P    C33:Y64
+measure 14
+Bf5   48-       w     d        -pp
+P    C33:Y61
+measure 15
+Bf5   48-       w     d        -
+measure 16
+Bf5   48-       w     d        -
+measure 17
+*               E   0
+P    C17:Y66
+*     18        F   25
+*     24        E   15
+P    C17:Y66x10
+Bf5   48-       w     d        -
+*               F   0
+measure 18
+Bf5    6        e     d
+rest   6        e
+rest  12        q
+rest  24        h
+measure 19
+rest  48
+measure 20
+rest  48
+measure 21
+rest  48
+measure 22
+rest  24        h
+rest  12        q
+A#5    6        e #   d         pp
+P    C33:Y61
+rest   6        e
+measure 23
+C#6    6        e #   d
+rest   6        e
+rest  12        q
+rest  12        q
+E6     6        e n   d
+rest   6        e
+measure 24
+G6     6        e     d
+rest   6        e
+E6     6        e n   d
+rest   6        e
+C#6    6        e #   d
+rest   6        e
+A#5    6        e #   d
+rest   6        e
+measure 25
+B5    48-       w n   d        -fp
+P   C33:Y53
+measure 26
+B5    48        w     d
+measure 27
+C6    48        w     d
+measure 28
+C#6   48        w #   d
+measure 29
+D6    36        h.    d
+Bf5   12-       q     d        -Zp
+P   C33:Y53x-5
+measure 30
+Bf5   36        h.    d
+Bf5   12        q     d        (Zp
+P   C33:Y53x-5
+measure 31
+G#5   48        w #   d        )
+measure 32
+*               D       dimin.
+P  C25:f36  C17:Y67
+A5    48-       w     d        -
+measure 33
+A5    48-       w     d        -pp
+P    C33:Y60
+measure 34
+A5     6        e     d
+rest   6        e
+rest  12        q
+A5     6        e     d
+rest   6        e
+rest  12        q
+measure 35
+A5     6        e     d
+rest   6        e
+rest  12        q
+rest  24        h
+measure 36
+A5    24-       h     d        -ff
+P    C33:Y61
+A5    21        q:    d
+A5     3        s     d
+measure 37
+A5     6        e     d
+rest   6        e
+rest  12        q
+rest  24        h
+measure 38
+C6    24-       h     d        -
+C6    21        q:    d
+C6     3        s     d
+mdouble 39
+$     T:0/0   D:Allegro vivace   (\0% = 80)
+*               D       ff sempre
+P  C25:f1   C17:Y67   C27:f33
+C6    12        q     d         .
+rest  12        q
+rest  24        h
+measure 40
+C6    12        q     d         .
+rest  12        q
+rest  24        h
+measure 41
+C6    12        q     d         .
+rest  12        q
+C6    12        q     d         .
+rest  12        q
+measure 42
+C6    12        q     d         .
+rest  12        q
+C6    12        q     d         .
+rest  12        q
+measure 43
+D6     6        e     d         .
+rest   6        e
+rest  12        q
+rest  24        h
+measure 44
+rest  48
+mheavy3 45                      |:
+rest  48
+measure 46
+rest  48
+measure 47
+rest  48
+measure 48
+rest  48
+measure 49
+rest  48
+measure 50
+rest  48
+measure 51
+C6    12        q     d         ff.
+P    C33:Y60
+rest  12        q
+rest  24        h
+measure 52
+C6    12        q     d         .
+rest  12        q
+C6    12        q     d         .
+rest  12        q
+measure 53
+*               D       ff sempre
+P  C25:f1   C17:Y61   C27:f33
+D6    12        q     d         .
+rest  12        q
+rest  24        h
+measure 54
+D6     6        e     d
+rest   6        e
+F6     6        e     d
+rest   6        e
+Bf5    6        e     d
+rest   6        e
+D6     6        e     d
+rest   6        e
+measure 55
+G5     6        e     d
+rest   6        e
+Ef6    6        e     d
+rest   6        e
+C6     6        e     d
+rest   6        e
+Bf5    6        e     d
+rest   6        e
+measure 56
+A5     6        e     d
+rest   6        e
+F6     6        e     d
+rest   6        e
+Ef6    6        e     d
+rest   6        e
+C6     6        e     d
+rest   6        e
+measure 57
+Bf5    6        e     d
+rest   6        e
+G6    12        q     d        (
+F6    12        q     d
+Ef6   12        q     d
+measure 58
+D6    12        q     d
+C6    12        q     d
+Bf5   12        q     d
+C6    12        q     d        )
+measure 59
+Bf5   48-       w     d        -Z
+P    C33:Y61
+measure 60
+Bf5   48        w     d
+measure 61
+A5    12        q     d
+rest  12        q
+Ef6   12        q     d
+rest  12        q
+measure 62
+rest  24        h
+D6    12        q     d
+rest  12        q
+measure 63
+rest  24        h
+Ef6   12        q     d
+rest  12        q
+measure 64
+rest  24        h
+C6    12        q     d
+rest  12        q
+measure 65
+rest  48
+measure 66
+rest  48
+measure 67
+rest  48
+measure 68
+rest  48
+measure 69
+rest  48
+measure 70
+rest  48
+measure 71
+rest  48
+measure 72
+rest  48
+measure 73
+rest  48
+measure 74
+rest  48
+measure 75
+rest  48
+measure 76
+E6    48        w n   d         p
+P    C33:Y57
+measure 77
+*               DH      crescendo
+P  C25:f36  C17:Y66   C18:Y66
+Gf6   48-       w f   d        -
+measure 78
+Gf6   48        w     d
+measure 79
+*               J
+F6    48-       w     d        -
+measure 80
+F6    48        w     d
+measure 81
+Bf5   48-       w     d        -ff
+P    C33:Y61
+measure 82
+Bf5   48        w     d
+measure 83
+Ef6   48        w     d         Z
+P    C33:Y61
+measure 84
+F6    48        w     d         Z
+P    C33:Y61
+measure 85
+D6    48-       w     d        -Z
+P    C33:Y61
+measure 86
+D6    48        w     d
+measure 87
+G5    48        w     d         Z
+P    C33:Y61
+measure 88
+A5    48        w     d         Z
+P    C33:Y61
+measure 89
+Bf5   48        w     d         Z
+P    C33:Y61
+measure 90
+C#6   48        w #   d         Z
+P    C33:Y61
+measure 91
+D6    48        w     d         Z
+P    C33:Y61
+measure 92
+E6    12        q n   d
+C6    12        q n   d         +
+C6    12        q     d
+C6    12        q     d
+measure 93
+C6    12        q     d
+C6    12        q     d
+C6    12        q     d
+C6    12        q     d
+measure 94
+C6    12        q     d
+C6    12        q     d
+C6    12        q     d
+C6    12        q     d
+measure 95
+C6    12        q     d
+rest  12        q
+rest  24        h
+measure 96
+rest  48
+measure 97
+rest  48
+measure 98
+rest  48
+measure 99
+rest  12        q
+C6    24        h     d
+C6    12-       q     d        -
+measure 100
+C6    12        q     d
+C6    24        h     d
+C6    12-       q     d        -
+measure 101
+C6    12        q     d
+C6    24        h     d
+C6    12-       q     d        -
+measure 102
+C6    12        q     d
+D6    24        h     d        (Z
+P    C33:Y60
+C6    12        q     d        )
+measure 103
+C6    12        q     d
+rest  12        q
+rest  24        h
+measure 104
+rest  48
+measure 105
+rest  48
+measure 106
+rest  48
+measure 107
+rest  48
+measure 108
+rest  48
+measure 109
+rest  48
+measure 110
+rest  48
+measure 111
+F6     6        e     d  [     (p
+P    C33:Y59
+D6     6        e     d  =
+E6     6        e n   d  =
+C#6    6        e #   d  ]     )
+D6    12        q     d         .
+A5    12        q     d         .
+measure 112
+D6    12        q     d         .
+E6    12        q n   d         .
+F6    12        q     d         .
+G6    12        q     d         .
+measure 113
+*               D       sempre p
+P  C25:f33  C32:f1  C17:Y61
+A6    36        h.    d        (
+G6    12        q     d
+measure 114
+F6    36        h.    d
+D6    12        q     d
+measure 115
+C#6   36        h.#   d
+E6    12        q n   d        )
+measure 116
+gE6    6        e     u
+D6    12        q     d        (
+C#6   12        q #   d
+D6    12        q     d
+Bf5   12        q     d
+measure 117
+A5    12        q     d        )
+rest  12        q
+rest  24        h
+measure 118
+rest  48
+measure 119
+rest  48
+measure 120
+rest  48
+measure 121
+rest  48
+measure 122
+rest  48
+measure 123
+rest  48
+measure 124
+rest  48
+measure 125
+rest  48
+measure 126
+rest  48
+measure 127
+rest  48
+measure 128
+rest  48
+measure 129
+rest  48
+measure 130
+rest  48
+measure 131
+rest  48
+measure 132
+C6    24        h     d         f.
+P    C33:Y60
+C6    24        h     d         .
+measure 133
+C6    24        h     d         .
+C6    24        h     d         .
+measure 134
+C6    24        h     d         .
+C6    24        h     d         .
+measure 135
+C6    12        q     d
+rest  12        q
+rest  24        h
+measure 136
+D6    12        q     d
+rest  12        q
+rest  24        h
+measure 137
+A5    12        q     d
+rest  12        q
+rest  12        q
+A5    12        q     d
+measure 138
+G5    12        q     d
+G5    12        q     d
+G5    12        q     d
+G5    12        q     d
+measure 139
+C6    12        q     d
+rest  12        q
+D6    12        q     d
+rest  12        q
+measure 140
+A5    12        q     d
+rest  12        q
+G5    12        q     d
+rest  12        q
+measure 141
+F5    12        q     d         p
+P    C33:Y57
+rest  12        q
+rest  24        h
+measure 142
+rest  48
+measure 143
+rest  48
+measure 144
+rest  48
+measure 145
+rest  48
+measure 146
+rest  48
+measure 147
+rest  48
+measure 148
+rest  24        h
+rest  12        q
+Bf5   12        q     d         f
+P    C33:Y60
+measure 149
+A5    12        q     d        (
+Bf5   12        q     d        )
+C6    12        q     d         .
+C5    12        q     d         .
+measure 150
+F5    36        h.    d        (
+G5    12        q     d        )
+measure 151
+A5    12        q     d        (
+F5    12        q     d        )
+A5    12        q     d         .
+Bf5   12        q     d         .
+measure 152
+C6    36        h.    d        (
+D6    12        q     d        )
+measure 153
+E6    12        q n   d        (
+F6    12        q     d        )
+G6    12        q     d         .
+F6    12        q     d         .
+measure 154
+E6    36        h.n   d        (
+D6    12        q     d        )
+measure 155
+C6    12        q     d        (
+D6    12        q     d        )
+Bf5   12        q     d         .
+G5    12        q     d         .
+measure 156
+E5    48        w n   d
+measure 157
+rest  48
+measure 158
+rest  48
+measure 159
+rest  48
+measure 160
+rest  48
+measure 161
+C6    12        q     d         ff
+P    C33:Y60
+rest  12        q
+rest  12        q
+F5    12        q     d
+measure 162
+F5    12        q     d
+rest  12        q
+E5    12        q n   d
+rest  12        q
+measure 163
+rest  48
+measure 164
+rest  48
+measure 165
+C6    12        q     d         ff
+P    C33:Y60
+rest  12        q
+rest  12        q
+F5    12        q     d
+measure 166
+F5    12        q     d
+rest  12        q
+E5    12        q n   d
+rest  12        q
+measure 167
+rest  48
+measure 168
+rest  48
+measure 169
+D6    48        w     d         f
+P    C33:Y61
+measure 170
+C6    48        w     d         f
+P    C33:Y61
+measure 171
+C6    48        w     d         f
+P    C33:Y61
+measure 172
+C6    48        w     d         f
+P    C33:Y61
+measure 173
+F6    48-       w     d        -ff
+P    C33:Y61
+measure 174
+F6    48        w     d
+measure 175
+F6    48        w     d
+measure 176
+E6    48        w n   d
+measure 177
+F6    12        q     d
+rest  12        q
+rest  24        h
+measure 178
+rest  48
+measure 179
+rest  48
+measure 180
+rest  12        q
+C6    24        h     d         f
+P    C33:Y60
+C6    12        q     d         .
+measure 181
+A5    12        q     d         .
+rest  12        q
+rest  24        h
+measure 182
+rest  48
+measure 183
+rest  48
+measure 184
+P    C0:d12
+rest  12        q
+C6    24        h     d
+C6    12        q     d
+measure 185                     start-end1
+A5    12        q     d
+rest  12        q
+rest  24        h
+measure 186
+rest  12        q
+C6    24        h     d
+C6    12        q     d
+measure 187
+F5    48-       w     d        -ff
+P    C33:Y61
+measure 188
+F5    24-       h     d        -
+F5    21        q:    d
+F5     3        s     d
+measure 189
+A5    12        q     d
+rest  12        q
+rest  24        h
+measure 190
+rest  48
+measure 191
+A5    48-       w     d        -ff
+P    C33:Y61
+measure 192
+A5    24-       h     d        -
+A5    21        q:    d
+A5     3        s     d
+measure 193
+C6    12        q     d
+rest  12        q
+rest  24        h
+measure 194
+C6    12        q     d         .
+rest  12        q
+rest  24        h
+measure 195
+C6    12        q     d         .
+rest  12        q
+C6    12        q     d         .
+rest  12        q
+measure 196
+C6    12        q     d         .
+rest  12        q
+C6    12        q     d         .
+rest  12        q
+measure 197
+D6    12        q     d         .
+rest  12        q
+rest  24        h
+measure 198
+rest  48
+mheavy2 199                     stop-end1  start-end2  :|
+F5    12        q     d
+rest  12        q
+G5    12        q     d
+rest  12        q
+measure 200                     disc-end2
+A5    12        q     d
+rest  12        q
+Bf5   12        q     d
+rest  12        q
+measure 201
+C6    12        q     d
+rest  12        q
+rest  24        h
+measure 202
+rest  48
+measure 203
+rest  48
+measure 204
+rest  24        h
+rest  12        q
+rest   6        e
+F5     2        s  3  d  [[    (*
+G5     2        s  3  d  ==
+A5     2        s  3  d  ]]    )!
+measure 205
+Bf5   12        q     d
+rest  12        q
+rest  24        h
+measure 206
+rest  48
+measure 207
+rest  48
+measure 208
+rest  24        h
+rest  12        q
+rest   6        e
+E5     2        s n3  d  [[    (*
+F5     2        s  3  d  ==
+G5     2        s  3  d  ]]    )!
+measure 209
+A5    12        q     d
+rest  12        q
+rest  24        h
+measure 210
+rest  48
+measure 211
+G6    48-       w     d        -Z
+P    C33:Y61
+measure 212
+G6    48        w     d
+measure 213
+F6    48-       w     d        -Z
+P    C33:Y61
+measure 214
+F6    48        w     d
+measure 215
+C6    48-       w     d        -Z
+P    C33:Y61
+measure 216
+C6    48        w     d
+measure 217
+A5    12        q     d         p
+P    C33:Y57
+rest  12        q
+rest  24        h
+measure 218
+rest  48
+measure 219
+rest  48
+measure 220
+rest  48
+measure 221
+rest  48
+measure 222
+rest  48
+measure 223
+rest  48
+measure 224
+rest  48
+measure 225
+rest  48
+measure 226
+rest  48
+measure 227
+rest  48
+measure 228
+rest  48
+measure 229
+rest  12        q
+rest   6        e
+*               D       cresc.
+P  C25:f36  C17:Y66
+E5     3        s n   d  [[    (
+F#5    3        s #   d  ]]    )
+G5    12        q     d         .
+rest   6        e
+G5     3        s     d  [[    (
+A5     3        s     d  ]]    )
+measure 230
+B5    12        q n   d         .
+rest   6        e
+B5     3        s     d  [[    (
+C#6    3        s #   d  ]]    )
+D6    12        q     d         .
+rest   6        e
+D6     3        s     d  [[    (
+E6     3        s n   d  ]]    )
+measure 231
+F#6    6        e #   d         fp
+P    C33:Y60
+rest   6        e
+D6     6        e     d
+rest   6        e
+A5     6        e     d
+rest   6        e
+D6     6        e     d
+rest   6        e
+measure 232
+F#5    6        e #   d
+rest   6        e
+A5     6        e     d
+rest   6        e
+D5     6        e     d
+rest   6        e
+F#5    6        e     d
+rest   6        e
+measure 233
+B4     6        e n   d
+rest   6        e
+G5     6        e     d
+rest   6        e
+E5     6        e n   d
+rest   6        e
+D5     6        e     d
+rest   6        e
+measure 234
+C#5    6        e #   d
+rest   6        e
+A5     6        e     d
+rest   6        e
+G5     6        e     d
+rest   6        e
+E5     6        e n   d
+rest   6        e
+measure 235
+D5    12        q     d
+rest  12        q
+rest  24        h
+measure 236
+rest  48
+measure 237
+rest  48
+measure 238
+rest  48
+measure 239
+rest  24        h
+G5    24-       h     d        -
+measure 240
+G5    24        h     d        (
+A5    12        q     d
+Bf5   12        q     d        )
+measure 241
+gD6    6        e     u
+C6    24        h     d        (
+Bf5   12        q     d
+C6    12        q     d        )
+measure 242
+A5    24        h     d        (
+D6    24        h     d        )
+measure 243
+G5    12        q     d
+rest  12        q
+rest  24        h
+measure 244
+rest  48
+measure 245
+rest  48
+measure 246
+rest  48
+measure 247
+G6     6        e     d         p
+P    C33:Y59
+rest   6        e
+Ef6    6        e     d
+rest   6        e
+Bf5    6        e     d
+rest   6        e
+Ef6    6        e     d
+rest   6        e
+measure 248
+G5     6        e     d
+rest   6        e
+Bf5    6        e     d
+rest   6        e
+Ef5    6        e     d
+rest   6        e
+G5     6        e     d
+rest   6        e
+measure 249
+C5     6        e     d
+rest   6        e
+Af5    6        e f   d
+rest   6        e
+F5     6        e     d
+rest   6        e
+Ef5    6        e     d
+rest   6        e
+measure 250
+D5     6        e     d
+rest   6        e
+Bf5    6        e     d
+rest   6        e
+Af5    6        e f   d
+rest   6        e
+F5     6        e     d
+rest   6        e
+measure 251
+Ef5    6        e     d
+rest   6        e
+rest  12        q
+rest  24        h
+measure 252
+*               DH      crescendo
+P  C25:f36  C17:Y66 C18:Y66
+Ef6   48-       w     d        -
+measure 253
+Ef6   48        w     d
+measure 254
+*               J
+D6    48        w     d
+measure 255
+Ef6   48-       w     d        -ff
+P    C33:Y61
+measure 256
+Ef6   48        w     d
+measure 257
+Ef6   48        w     d
+measure 258
+Ef6   12        q     d
+rest  12        q
+Ef6   12        q     d
+rest  12        q
+measure 259
+Ef6   12        q     d
+rest  12        q
+rest  24        h
+measure 260
+rest  48
+measure 261
+rest  48
+measure 262
+rest  48
+measure 263
+D6    48-       w     d        -ff
+P    C33:Y61
+measure 264
+D6    48        w     d
+measure 265
+D6    48        w     d
+measure 266
+D6    12        q     d
+rest  12        q
+D6    12        q     d
+rest  12        q
+measure 267
+D6    12        q     d
+rest  12        q
+rest  24        h
+measure 268
+rest  48
+measure 269
+rest  48
+measure 270
+rest  48
+measure 271
+Df6   48-       w f   d        -ff
+P    C33:Y61
+measure 272
+Df6   48        w     d
+measure 273
+Df6   48        w f   d
+measure 274
+Df6   12        q f   d
+rest  12        q
+Df6   12        q     d
+rest  12        q
+measure 275
+*               D       sempre f
+P  C25:f33  C32:f1  C17:Y67
+Df6   12        q f   d
+rest  12        q
+rest  24        h
+measure 276
+Df6   12        q f   d
+rest  12        q
+rest  24        h
+measure 277
+Df6   12        q f   d
+rest  12        q
+rest  24        h
+measure 278
+Df6   12        q f   d
+rest  12        q
+rest  24        h
+measure 279
+Df6   12        q f   d
+rest  12        q
+rest  24        h
+measure 280
+rest  48
+measure 281
+Df6   12        q f   d         p
+P    C33:Y59
+rest  12        q
+rest  24        h
+measure 282
+rest  48
+measure 283
+Df6   12        q f   d         pp
+P    C33:Y59
+rest  12        q
+rest  24        h
+measure 284
+rest  48
+measure 285
+rest  48
+measure 286
+rest  48
+measure 287
+rest  48
+measure 288
+rest  48
+measure 289
+rest  48
+measure 290
+rest  48
+measure 291
+rest  48
+measure 292
+rest  48
+measure 293
+rest  48
+measure 294
+rest  48
+measure 295
+rest  48
+measure 296
+rest  48
+measure 297
+rest  48
+measure 298
+rest  48
+measure 299
+rest  48
+measure 300
+rest  48
+measure 301
+rest  48
+measure 302
+rest  48
+measure 303
+rest  48
+measure 304
+rest  48
+measure 305
+rest  48
+measure 306
+rest  48
+measure 307
+rest  48
+measure 308
+rest  48
+measure 309
+rest  48
+measure 310
+rest  48
+measure 311
+rest  48
+measure 312
+rest  48
+measure 313
+rest  48
+measure 314
+rest  48
+measure 315
+rest  48
+measure 316
+rest  48
+measure 317
+rest  24        h
+Df5   12        q f   d        (pp
+P    C33:Y60
+E5    12        q n   d
+measure 318
+Bf5   12        q     d
+Df6   12        q f   d        )
+Df6   12        q     d
+Df6   12        q     d
+measure 319
+D6    12        q n   d         +
+rest  12        q
+rest  24        h
+measure 320
+rest  48
+measure 321
+rest  48
+measure 322
+rest  48
+measure 323
+rest  48
+measure 324
+rest  48
+measure 325
+rest  48
+measure 326
+rest  48
+measure 327
+rest  48
+measure 328
+rest  48
+measure 329
+rest  48
+measure 330
+rest  48
+measure 331
+rest  48
+measure 332
+rest  48
+measure 333
+rest  48
+measure 334
+rest  48
+measure 335
+rest  48
+measure 336
+rest  48
+measure 337
+rest  48
+measure 338
+rest  48
+measure 339
+rest  48
+measure 340
+rest  48
+measure 341
+rest  48
+measure 342
+rest  48
+measure 343
+rest  48
+measure 344
+rest  48
+measure 345
+rest  48
+measure 346
+rest  48
+measure 347
+D6    48-       w     d        -ff
+P    C33:Y61
+measure 348
+D6    48-       w     d        -
+measure 349
+D6    24-       h     d        -
+D6    18        q.    d
+Bf5    3        s     d  [[    (
+C6     3        s     d  ]]    )
+measure 350
+D6    12        q     d         .
+rest   6        e
+Bf5    3        s     d  [[    (
+C6     3        s     d  ]]    )
+D6    12        q     d         .
+rest   6        e
+Bf5    3        s     d  [[    (
+C6     3        s     d  ]]    )
+measure 351
+D6    12        q     d         .
+rest  12        q
+rest  24        h
+measure 352
+D6     6        e     d
+rest   6        e
+F6     6        e     d
+rest   6        e
+Bf5    6        e     d
+rest   6        e
+D6     6        e     d
+rest   6        e
+measure 353
+G5     6        e     d
+rest   6        e
+Ef6    6        e     d
+rest   6        e
+C6     6        e     d
+rest   6        e
+Bf5    6        e     d
+rest   6        e
+measure 354
+A5     6        e     d
+rest   6        e
+F6     6        e     d
+rest   6        e
+Ef6    6        e     d
+rest   6        e
+C6     6        e     d
+rest   6        e
+measure 355
+Bf5   48-       w     d        -fp
+P    C33:Y61
+measure 356
+Bf5   48        w     d
+measure 357
+G5    48        w     d
+measure 358
+F5    48        w     d
+measure 359
+F5    12        q     d
+*               D       dolce
+P  C25:f36  C17:Y67
+G5    12        q     d        (
+F5    12        q     d
+Ef5   12        q     d
+measure 360
+D5    12        q     d
+C5    12        q     d
+Bf4   12        q     d
+C5    12        q     d        )
+measure 361
+Bf4   48-       w     d        -
+measure 362
+Bf4   48        w     d        (
+measure 363
+A4    12        q     u        )(
+Ef6   12        q     d
+C6    12        q     d
+D6    12        q     d
+measure 364
+B5    12        q n   d
+*               D       cresc.
+P  C25:f36  C17:Y66
+C6    12        q     d
+Ef6   12        q     d
+A5    12        q     d        )
+measure 365
+Bf5   48-       w f   d        -+ff
+P    C34:Y61
+measure 366
+Bf5   48        w     d
+measure 367
+Ef6   48        w     d         Z
+P    C33:Y61
+measure 368
+F6    48        w     d         Z
+P    C33:Y61
+measure 369
+D6    48-       w     d        -Z
+P    C33:Y61
+measure 370
+D6    24        h     d
+G6    24        h     d
+measure 371
+Ef6   48        w     d         Z
+P    C33:Y61
+measure 372
+Af6   48        w f   d         Z
+P    C33:Y61
+measure 373
+F6    48-       w     d        -Z
+P    C33:Y61
+measure 374
+F6    24        h     d
+Bf5   24        h     d         Z
+P    C33:Y60
+measure 375
+G5    24        h     d
+C6    24        h     d         Z
+P    C33:Y60
+measure 376
+A5    24        h n   d         +
+D6    24        h     d         Z
+P    C33:Y60
+measure 377
+Bf5   24        h     d
+Ef6   24        h     d         Z
+P    C33:Y60
+measure 378
+C6    24        h     d
+F6    24        h     d         Z
+P    C33:Y60
+measure 379
+D6    48-       w     d        -ff
+P    C33:Y61
+measure 380
+D6    48-       w     d        -
+measure 381
+D6    24        h     d
+F6    24        h     d
+measure 382
+D6    24        h     d
+Bf5   24        h     d
+measure 383
+F5    12        q     d
+rest  12        q
+rest  24        h
+measure 384
+rest  48
+measure 385
+rest  48
+measure 386
+rest  48
+measure 387
+F5    12        q     d         .
+F6    24        h     d
+F6    12-       q     d        -
+measure 388
+F6    12        q     d
+F6    24        h     d
+F6    12-       q     d        -
+measure 389
+F6    12        q     d
+F6    24        h     d
+F6    12-       q     d        -
+measure 390
+F6    12        q     d
+E6    24        h n   d        (Z
+P    C33:Y60
+F6    12        q     d        )
+measure 391
+F6    12        q     d
+rest  12        q
+rest  24        h
+measure 392
+rest  48
+measure 393
+rest  48
+measure 394
+rest  48
+measure 395
+rest  48
+measure 396
+rest  48
+measure 397
+rest  48
+measure 398
+rest  48
+measure 399
+rest  48
+measure 400
+rest  48
+measure 401
+rest  48
+measure 402
+rest  48
+measure 403
+rest  48
+measure 404
+rest  48
+measure 405
+*               D       sempre p
+P  C25:f33  C32:f1  C17:Y66
+D6    12        q     d        (
+C#6   12        q #   d
+D6    12        q     d
+C6    12        q n   d
+measure 406
+Bf5   12        q     d
+A5    12        q     d
+Bf5   12        q     d
+G5    12        q     d        )
+measure 407
+gG5    6        e     u
+F#5   12        q #   d        (
+E5    12        q n   d
+F#5   12        q     d
+A5    12        q     d
+measure 408
+G5    12        q     d
+F#5   12        q #   d
+G5    12        q     d
+Ef5   12        q f   d        )+
+measure 409
+*               D       pp cresc.
+P  C25:f1   C17:Y66   C27:f36
+D5    24        h     d         .
+Ef5   24        h     d         .
+measure 410
+C5    24        h     d         .
+E5    24        h n   d         .
+measure 411
+F5    24        h n   d         .+
+D5    24        h     d         .
+measure 412
+*               DH      crescendo
+P  C25:f36  C17:Y66 C18:Y66
+F5    24        h     d         .
+G5    24        h     d         .
+measure 413
+Ef5   24        h f   d         .+
+G5    24        h     d         .
+measure 414
+A5    24        h     d         .
+F5    24        h     d         .
+measure 415
+A5    24        h     d         .
+Bf5   24        h     d         .
+measure 416
+G5    24        h     d         .
+B5    24        h n   d         .
+measure 417
+C6    24        h     d         .
+*               J
+A5    24        h     d         .
+measure 418
+C6    24        h     d         .
+D6    24        h     d         .
+measure 419
+Ef6   24        h     d         .
+E6    24        h n   d         .
+measure 420
+F6    24        h     d         f.
+P    C33:Y60
+F6    24        h     d         .
+measure 421
+F6    24        h     d         .
+F6    24        h     d         .
+measure 422
+F6    24        h     d         .
+F6    24        h     d         .
+measure 423
+F6    36        h.    d
+D6    12        q     d
+measure 424
+G6    36        h.    d
+Ef6   12        q     d
+measure 425
+D6    36        h.    d
+D6    12        q     d
+measure 426
+C6    12        q     d
+C6    12        q     d
+C6    18        q.    d         t
+Bf5    3        s     d  [[    (
+C6     3        s     d  ]]    )
+measure 427
+F6    12        q     d        (
+D6    12        q     d        )
+G6    12        q     d        (
+Ef6   12        q     d        )
+measure 428
+D6    12        q     d
+D6    12        q     d
+C6    18        q.    d         t
+Bf5    3        s     d  [[    (
+C6     3        s     d  ]]    )
+measure 429
+Bf5   12        q     d         p
+P    C33:Y56
+rest  12        q
+rest  24        h
+measure 430
+rest  48
+measure 431
+rest  48
+measure 432
+rest  48
+measure 433
+rest  48
+measure 434
+rest  48
+measure 435
+rest  48
+measure 436
+rest  24        h
+rest  12        q
+F6    12        q     d         f.
+P    C33:Y60
+measure 437
+D6    12        q     d        (
+Ef6   12        q     d        )
+F6    12        q     d         .
+F5    12        q     d         .
+measure 438
+Bf5   36        h.    d
+C6    12        q     d         .
+measure 439
+D6    12        q     d        (
+Bf5   12        q     d        )
+D6    12        q     d         .
+Ef6   12        q     d         .
+measure 440
+F6    36        h.    d
+F6    12        q     d
+measure 441
+F6    12        q     d
+F6    12        q     d
+F6    12        q     d
+F6    12        q     d
+measure 442
+F6    36        h.    d
+G6    12        q     d         .
+measure 443
+F6    12        q     d        (
+G6    12        q     d        )
+Ef6   12        q     d         .
+C6    12        q     d         .
+measure 444
+A5    48        w     d
+measure 445
+rest  48
+measure 446
+rest  48
+measure 447
+rest  48
+measure 448
+rest  48
+measure 449
+F6    12        q     d         ff
+P    C33:Y60
+rest  12        q
+rest  12        q
+Bf5   12        q     d
+measure 450
+Bf5   12        q     d
+rest  12        q
+A5    12        q     d
+rest  12        q
+measure 451
+rest  48
+measure 452
+rest  48
+measure 453
+F6    12        q     d         ff
+P    C33:Y60
+rest  12        q
+rest  12        q
+Bf5   12        q     d
+measure 454
+Bf5   12        q     d
+rest  12        q
+A5    12        q     d
+rest  12        q
+measure 455
+rest  48
+measure 456
+rest  48
+measure 457
+G6    48        w     d         f
+P    C33:Y61
+measure 458
+F6    48        w     d         f
+P    C33:Y61
+measure 459
+F6    48        w     d         f
+P    C33:Y61
+measure 460
+F6    48        w     d         f
+P    C33:Y61
+measure 461
+Df6   48-       w f   d        -ff
+P    C33:Y61
+measure 462
+Df6   48        w     d
+measure 463
+D6    48        w n   d         Z+
+P    C33:Y61
+measure 464
+C6    48        w     d
+measure 465
+Bf5   12        q     d
+D6    24        h     d
+Ef6   12-       q     d        -
+measure 466
+Ef6   12        q     d
+F6    24        h     d
+Bf5   12-       q     d        -
+measure 467
+Bf5   12        q     d
+C6    24        h     d
+D6    12-       q     d        -
+measure 468
+D6    12        q     d
+F5    24        h     d
+A5    12        q     d         .
+measure 469
+Bf5   12        q     d         .
+D6    24        h     d
+Ef6   12-       q     d        -
+measure 470
+Ef6   12        q     d
+F6    24        h     d
+Bf5   12-       q     d        -
+measure 471
+Bf5   12        q     d
+C6    24        h     d
+D6    12-       q     d        -
+measure 472
+D6    12        q     d
+F5    24        h     d
+A5    12        q     d         .
+measure 473
+Bf5   12        q     d         .
+C6    24        h     d
+D6    12-       q     d        -
+measure 474
+D6    12        q     d
+F5    24        h     d
+A5    12        q     d
+measure 475
+A5    48-       w     d        -ff
+P    C33:Y61
+measure 476
+A5    24-       h     d        -
+A5    21        q:    d
+A5     3        s     d
+measure 477
+C6    12        q     d
+rest  12        q
+rest  12        q
+rest   9        e.
+C6     3        s     d
+measure 478
+C6    12        q     d
+rest  12        q
+rest  12        q
+rest   9        e.
+C6     3        s     d
+measure 479
+C6    12        q     d         .
+rest  12        q
+C6    12        q     d         .
+rest  12        q
+measure 480
+C6    12        q     d         .
+rest  12        q
+C6    12        q     d         .
+rest  12        q
+measure 481
+D6    12        q     d
+rest  12        q
+rest  24        h
+measure 482
+Bf5   12        q     d
+rest  12        q
+rest  24        h
+measure 483
+Bf5   12        q     d
+rest  12        q
+rest  24        h
+measure 484
+Bf5   12        q     d
+rest  12        q
+rest  24        h
+measure 485
+D6    12        q     d
+rest  12        q
+rest  24        h
+measure 486
+D6    12        q     d
+rest  12        q
+rest  24        h
+measure 487
+D6    12        q     d
+rest  12        q
+rest  24        h
+measure 488
+D6    12        q     d
+rest  12        q
+rest  24        h
+measure 489
+rest  48
+measure 490
+rest  48
+measure 491
+A5    48        w     d         f
+P    C33:Y61
+measure 492
+A5    24-       h     d        -
+A5    21        q:    d
+A5     3        s     d
+measure 493
+Bf5   12        q     d
+G6    12        q     d        (p
+P    C33:Y56
+F6    12        q     d
+Ef6   12        q     d
+measure 494
+D6    12        q     d
+C6    12        q     d
+Bf5   12        q     d
+C6    12        q     d        )
+measure 495
+A5    48        w     d         f
+P    C33:Y61
+measure 496
+A5    24-       h     d        -
+A5    21        q:    d
+A5     3        s     d
+measure 497
+Bf5   12        q     d         p
+P    C33:Y56
+rest  12        q
+rest  24        h
+measure 498
+rest  48
+measure 499
+rest  48
+measure 500
+rest  48
+measure 501
+*               DH      crescendo
+P  C25:f36  C17:Y66  C18:Y66
+Bf5   48-       w     d        -
+measure 502
+Bf5   48        w     d
+measure 503
+C6    48-       w     d        -
+measure 504
+*               J
+C6    48        w     d
+measure 505
+Bf5   48-       w     d        -ff
+P    C33:Y61
+measure 506
+Bf5   48-       w     d        -
+measure 507
+Bf5   48-       w     d        -
+measure 508
+Bf5   24-       h     d        -
+Bf5   21        q:    d
+Bf5    3        s     d
+measure 509
+Bf5   12        q     d
+rest  12        q
+Bf5   12        q     d
+rest  12        q
+measure 510
+Bf5   12        q     d
+rest  12        q
+rest  24        h
+measure 511
+Bf5   12        q     d
+rest  12        q
+rest  24        h
+measure 512
+Bf4   12        q     d
+rest  12        q
+rest  24        h
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:baea95051b8541227c067938dc3a93cc]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:9519838734bccf78f41cf719290a3be5]
+@REASON: additions and refinements to Beethoven data

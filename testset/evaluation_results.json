@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "algorithm": "linetracking_height", 
+      "deformation": "no-deform", 
+      "error": {
+        "a": 587726.0, 
+        "e1": 7650.0, 
+        "e2": 2031.0, 
+        "error": 0.016471961424201074
+      }, 
+      "infile": "modern/diabelli.png", 
+      "metric": "pixel", 
+      "nostaves": "modern/diabelli-nostaff.png", 
+      "staff_finder": "Dalitz", 
+      "time": 5.132102
+    }, 
+    {
+      "algorithm": "linetracking_chord", 
+      "deformation": "no-deform", 
+      "error": {
+        "a": 587726.0, 
+        "e1": 14520.0, 
+        "e2": 464.0, 
+        "error": 0.025494873461442916
+      }, 
+      "infimethodle": "modern/diabelli.png",
+      "metric": "pixel", 
+      "nostaves": "modern/diabelli-nostaff.png", 
+      "staff_finder": "Dalitz", 
+      "time": 8.604212999999998
+    }, 
+    {
+      "algorithm": "roach_tatem_original", 
+      "deformation": "no-deform", 
+      "error": {
+        "a": 587726.0, 
+        "e1": 3657.0, 
+        "e2": 66940.0, 
+        "error": 0.1201188989427046
+      }, 
+      "infile": "modern/diabelli.png", 
+      "metric": "pixel", 
+      "nostaves": "modern/diabelli-nostaff.png", 
+      "staff_finder": "Dalitz", 
+      "time": 13.808535
+    }, 
+    {
+      "algorithm": "roach_tatem_improved", 
+      "deformation": "no-deform", 
+      "error": {
+        "a": 587726.0, 
+        "e1": 7657.0, 
+        "e2": 1702.0, 
+        "error": 0.01592408707458918
+      }, 
+      "infile": "modern/diabelli.png", 
+      "metric": "pixel", 
+      "nostaves": "modern/diabelli-nostaff.png", 
+      "staff_finder": "Dalitz", 
+      "time": 18.957311999999995
+    }, 
+    {
+      "algorithm": "skeletonization", 
+      "deformation": "no-deform", 
+      "error": {
+        "a": 587726.0, 
+        "e1": 8481.0, 
+        "e2": 859.0, 
+        "error": 0.015891759085015805
+      }, 
+      "infile": "modern/diabelli.png", 
+      "metric": "pixel", 
+      "nostaves": "modern/diabelli-nostaff.png", 
+      "staff_finder": "Dalitz", 
+      "time": 18.33257499999999
+    }
+  ]
+}

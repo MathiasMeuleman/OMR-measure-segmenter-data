@@ -1,0 +1,2805 @@
+(C) 2001, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym4/stage2/01/s04}
+TIMESTAMP: MAY/19/2010 [md5sum:f32df5b01bc968509fce82748a5cc74b]
+05/23/01 Fran Bennion
+WK#:60        MV#:1
+Breitkopf & H\a3rtel, Series 1 No. 4, Leipzig
+Beethoven Symphony No. 4 in Bb Major, Op. 60
+First Movement
+Fagotti 1, 2
+0 0
+Group memberships: score scrcon
+score: part 4 of 13
+scrcon: part 4 of 13
+&
+Modified 05/05/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:-2   Q:4   T:0/0   C:22   I:2
+P   C0:p100q8a1r1z31Fag_1-2
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+Bf3   16-     1 w     u        -pp
+P    C33:Y59
+back  16
+Bf2   16-     2 w     d        -
+measure 2
+P   C0:x1
+Bf3   16-     1 w     u        -
+back  16
+Bf2   16-     2 w     d        -
+measure 3
+Bf3   16-     1 w     u        -
+back  16
+Bf2   16-     2 w     d        -
+measure 4
+Bf3   16-     1 w     u        -
+back  16
+Bf2   16-     2 w     d        -
+measure 5
+*               E   0
+P    C17:Y70
+*      6        F   25
+*      8        E   15
+P    C17:x10Y70
+Bf3   16      1 w     u
+*               F   0
+back  16
+Bf2   16      2 w     d
+measure 6
+F3     2      1 e     u
+rest   2      1 e
+rest   4      1 q
+rest   8      1 h
+back  16
+F2     2      2 e     u
+irest  2      2 e
+irest  4      2 q
+irest  8      2 h
+$    C:12
+measure 7
+*               D +     1.
+P    C17:Y-35x-10  C25:f32
+*               D       sempre pp
+P  C25:f33  C17:Y60   C32:f1
+Gf4   12      1 h.f   d        (
+E4     4      1 q n   d
+measure 8
+F4     2      1 e     d        )
+rest   2      1 e
+rest   4      1 q
+rest   8      1 h
+measure 9
+rest  16      3
+measure 10
+rest   8      1 h
+$    C:22
+rest   4      1 q
+*               D       sempre pp
+P  C25:f33  C17:Y63x-18   C32:f1
+C4     2      1 e     d
+rest   2      1 e
+back  16
+irest  8      2 h
+irest  4      2 q
+A3     2      2 e     d
+irest  2      2 e
+measure 11
+C4     2      1 e     d
+rest   2      1 e
+rest   4      1 q
+rest   4      1 q
+C4     2      1 e     d
+rest   2      1 e
+back  16
+A3     2      2 e     d
+irest  2      2 e
+irest  4      2 q
+irest  4      2 q
+A3     2      2 e     d
+rest   2      2 e
+measure 12
+C4     2      1 e     d
+rest   2      1 e
+C4     2      1 e     d
+rest   2      1 e
+C4     2      1 e     d
+rest   2      1 e
+C4     2      1 e     d
+rest   2      1 e
+back  16
+A3     2      2 e     d
+irest  2      2 e
+A3     2      2 e     d
+irest  2      2 e
+A3     2      2 e     d
+irest  2      2 e
+A3     2      2 e     d
+irest  2      2 e
+measure 13
+Bf3   16-     1 w     u        -fp
+P    C33:Y66
+back  16
+Bf2   16-     2 w     d        -
+measure 14
+Bf3   16-     1 w     u        -pp
+P    C33:Y59
+back  16
+Bf2   16-     2 w     d        -
+measure 15
+Bf3   16-     1 w     u        -
+back  16
+Bf2   16-     2 w     d        -
+measure 16
+Bf3   16-     1 w     u        -
+back  16
+Bf2   16-     2 w     d        -
+measure 17
+*               E   0
+P    C17:Y70
+*      6        F   25
+*      8        E   15
+P    C17:x10Y70
+Bf3   16-     1 w     u        -
+*               F   0
+back  16
+Bf2   16-     2 w     d        -
+measure 18
+Bf3    2      1 e     d
+rest   2      1 e
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf2    2      2 e     d
+irest  2      2 e
+irest  4      2 q
+irest  8      2 h
+$    C:12
+measure 19
+*               D +     1.
+P    C17:Y-30x-10  C25:f32
+G4    12      1 h.    d        (
+E#4    4      1 q #   d
+measure 20
+F#4    2      1 e #   d        )
+rest   2      1 e
+rest   4      1 q
+rest   8      1 h
+measure 21
+rest  16      3
+measure 22
+rest   8      1 h
+$    C:22
+rest   4      1 q
+F#3    2      1 e #   u         pp
+P    C33:Y70
+rest   2      1 e
+back  16
+irest  8      2 h
+irest  4      2 q
+F#2    2      2 e #   u
+irest  2      2 e
+measure 23
+F#3    2      1 e #   u
+rest   2      1 e
+rest   4      1 q
+rest   4      1 q
+F#3    2      1 e     u
+rest   2      1 e
+back  16
+F#2    2      2 e #   u
+irest  2      2 e
+irest  4      2 q
+irest  4      2 q
+F#2    2      2 e     u
+irest  2      2 e
+measure 24
+F#3    2      1 e #   u
+rest   2      1 e
+F#3    2      1 e     u
+rest   2      1 e
+F#3    2      1 e     u
+rest   2      1 e
+F#3    2      1 e     u
+rest   2      1 e
+back  16
+F#2    2      2 e #   u
+irest  2      2 e
+F#2    2      2 e     u
+irest  2      2 e
+F#2    2      2 e     u
+irest  2      2 e
+F#2    2      2 e     u
+irest  2      2 e
+measure 25
+B3    16-     1 w n   u        -fp
+P    C33:Y66
+back  16
+B2    16-     2 w n   d        -
+measure 26
+B3    16      1 w     u
+back  16
+B2    16      2 w     d
+measure 27
+C4    16      1 w     u
+back  16
+C3    16      2 w     d
+measure 28
+C#4   16      1 w #   u
+back  16
+C#3   16      2 w #   d
+measure 29
+D4    12      1 h.    d
+D4     4-     1 q     d        -Zp
+P    C33:Y69
+back  16
+D3    12      2 h.    d
+D3     4-     2 q     d        -
+measure 30
+D4    12      1 h.    d
+D4     4      1 q     d         Zp
+P    C33:Y69
+back  16
+D3    12      2 h.    d
+D3     4      2 q     d
+measure 31
+E4    16      1 w n   u
+back  16
+E3    16      2 w n   d
+measure 32
+*               D       dimin.
+P  C25:f36  C17:Y78
+A3    16-     1 w     u        -
+back  16
+A2    16-     2 w     d        -
+measure 33
+A3    16-     1 w     u        -pp
+P    C33:Y67
+back  16
+A2    16-     2 w     d        -
+measure 34
+A3     2      1 e     d
+rest   2      1 e
+rest   4      1 q
+A3     2      1 e     d
+rest   2      1 e
+rest   4      1 q
+back  16
+A2     2      2 e     d
+irest  2      2 e
+irest  4      2 q
+A2     2      2 e     d
+irest  2      2 e
+irest  4      2 q
+measure 35
+A3     2      1 e     d
+rest   2      1 e
+rest   4      1 q
+rest   8      1 h
+back  16
+A2     2      2 e     d
+irest  2      2 e
+irest  4      2 q
+irest  8      2 h
+measure 36
+F3     8-     1 h     u        -ff
+P    C33:Y80
+F3     7      1 q:    u
+F3     1      1 s     u
+back  16
+F2     8-     2 h     u        -
+F2     7      2 q:    u
+F2     1      2 s     u
+measure 37
+F3     2      1 e     u
+rest   2      1 e
+rest   4      1 q
+rest   8      1 h
+back  16
+F2     2      2 e     u
+irest  2      2 e
+irest  4      2 q
+irest  8      2 h
+measure 38
+F3     8-     1 h     u        -
+F3     7      1 q:    u
+F3     1      1 s     u
+back  16
+F2     8-     2 h     u        -
+F2     7      2 q:    u
+F2     1      2 s     u
+mdouble 39
+$    T:0/0    D:Allegro vivace
+*               D       ff sempre
+P  C25:f1   C17:Y73x8   C27:f33
+F3     4      1 q     u         .
+rest   4      1 q
+rest   8      1 h
+back  16
+F2     4      2 q     u         .
+irest  4      2 q
+irest  8      2 h
+measure 40
+F3     4      1 q     u         .
+rest   4      1 q
+rest   8      1 h
+back  16
+F2     4      2 q     u         .
+irest  4      2 q
+irest  8      2 h
+measure 41
+F3     4      1 q     u         .
+rest   4      1 q
+F3     4      1 q     u         .
+rest   4      1 q
+back  16
+F2     4      2 q     u         .
+irest  4      2 q
+F2     4      2 q     u         .
+irest  4      2 q
+measure 42
+F3     4      1 q     u         .
+rest   4      1 q
+F3     4      1 q     u         .
+rest   4      1 q
+back  16
+F2     4      2 q     u         .
+irest  4      2 q
+F2     4      2 q     u         .
+irest  4      2 q
+measure 43
+Bf3    2      1 e     d         .
+rest   2      1 e
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf2    2      2 e     d         .
+irest  2      2 e
+irest  4      2 q
+irest  8      2 h
+measure 44
+rest  16      3
+mheavy3 45                      |:
+rest  16      3
+measure 46
+rest  16      3
+measure 47
+rest   4      1 q
+*               D       p dolce
+P  C25:f1   C17:Y67   C26:f36
+D4     4      1 q     d        (
+C4     4      1 q     d
+Bf3    4      1 q     d
+back  16
+irest  4      2 q
+Bf3    4      2 q     d
+A3     4      2 q     d
+G3     4      2 q     d
+measure 48
+A3     4      1 q     d
+G3     4      1 q     d
+F3     4      1 q     d
+G3     4      1 q     d        )
+back  16
+F3     4      2 q     d
+Ef3    4      2 q     d
+D3     4      2 q     d
+Ef3    4      2 q     d
+measure 49
+F3    16-     1 w     u        -
+back  16
+F3    16-     2 w     d        -
+P   C1:x17
+measure 50
+F3    16      1 w     u
+back  16
+F3    16      2 w     d
+P   C1:x17
+measure 51
+F3     4      1 q     u         .ff
+P    C34:Y79
+rest   4      1 q
+rest   8      1 h
+back  16
+F2     4      2 q     u         .
+irest  4      2 q
+irest  8      2 h
+measure 52
+F3     4      1 q     u         .
+rest   4      1 q
+F3     4      1 q     u         .
+rest   4      1 q
+back  16
+F2     4      2 q     u         .
+irest  4      2 q
+F2     4      2 q     u         .
+irest  4      2 q
+measure 53
+*               D       ff sempre
+P  C25:f1   C17:Y67   C27:f33
+D4     2      1 e     u
+rest   2      1 e
+Bf3    2      1 e     u
+rest   2      1 e
+F3     2      1 e     u
+rest   2      1 e
+Bf3    2      1 e     u
+rest   2      1 e
+back  16
+D4     2      2 e     d
+irest  2      2 e
+Bf3    2      2 e     d
+irest  2      2 e
+F3     2      2 e     d
+irest  2      2 e
+Bf3    2      2 e     d
+irest  2      2 e
+measure 54
+D3     2      1 e     u
+rest   2      1 e
+F4     2      1 e     d
+rest   2      1 e
+Bf3    2      1 e     d
+rest   2      1 e
+D4     2      1 e     d
+rest   2      1 e
+back  16
+D3     2      2 e     d
+irest  2      2 e
+F3     2      2 e     d
+irest  2      2 e
+Bf2    2      2 e     d
+irest  2      2 e
+D3     2      2 e     d
+irest  2      2 e
+measure 55
+G3     2      1 e     u
+rest   2      1 e
+Ef4    2      1 e     d
+rest   2      1 e
+C4     2      1 e     u
+rest   2      1 e
+Bf3    2      1 e     u
+rest   2      1 e
+back  16
+G3     2      2 e     d
+irest  2      2 e
+Ef3    2      2 e     d
+irest  2      2 e
+C4     2      2 e     d
+irest  2      2 e
+Bf3    2      2 e     d
+irest  2      2 e
+measure 56
+A3     2      1 e     u
+rest   2      1 e
+F4     2      1 e     d
+rest   2      1 e
+Ef4    2      1 e     u
+rest   2      1 e
+C4     2      1 e     u
+rest   2      1 e
+back  16
+A3     2      2 e     d
+irest  2      2 e
+F3     2      2 e     d
+irest  2      2 e
+Ef4    2      2 e     d
+irest  2      2 e
+C4     2      2 e     d
+irest  2      2 e
+measure 57
+Bf3    2      1 e     u
+rest   2      1 e
+G4     4      1 q     d        (
+F4     4      1 q     d
+Ef4    4      1 q     d
+back  16
+Bf3    2      2 e     d
+irest  2      2 e
+Bf3    4      2 q     d
+A3     4      2 q     d
+G3     4      2 q     d
+measure 58
+D4     4      1 q     d
+C4     4      1 q     d
+Bf3    4      1 q     d
+C4     4      1 q     d        )
+back  16
+F3     4      2 q     d
+Ef3    4      2 q     d
+D3     4      2 q     d
+Ef3    4      2 q     d
+measure 59
+C4    16-     1 w     u        -Z
+P    C33:Y61
+back  16
+F3    16-     2 w     d        -
+measure 60
+C4    16-     1 w     u        -
+back  16
+F3    16-     2 w     d        -
+measure 61
+C4     4      1 q     d
+rest   4      1 q
+F3     4      1 q     u
+rest   4      1 q
+back  16
+F3     4      2 q     d
+irest  4      2 q
+F2     4      2 q     u
+irest  4      2 q
+measure 62
+rest   8      1 h
+G3     4      1 q     u
+rest   4      1 q
+back  16
+irest  8      2 h
+G2     4      2 q     u
+irest  4      2 q
+measure 63
+rest   8      1 h
+C3     4      1 q     u
+rest   4      1 q
+back  16
+irest  8      2 h
+C2     4      2 q     u
+irest  4      2 q
+measure 64
+rest   8      1 h
+F3     4      1 q     u
+rest   4      1 q
+back  16
+irest  8      2 h
+F2     4      2 q     u
+irest  4      2 q
+measure 65
+*               D +     zu 2
+P    C17:Y-26        C25:f32
+Bf3    4      3 q     d         pp.
+P    C33:Y58
+F3     4      3 q     d         .
+D3     4      3 q     d         .
+F3     4      3 q     d         .
+measure 66
+Bf2    4      3 q     u         .
+F3     4      3 q     d         .
+D3     4      3 q     d         .
+F3     4      3 q     d         .
+measure 67
+*               D       stacc.
+P  C25:f36  C17:Y68
+Bf3    4      3 q     d         .
+F3     4      3 q     d         .
+D3     4      3 q     d         .
+F3     4      3 q     d         .
+measure 68
+Bf2    4      3 q     u         .
+D3     4      3 q     d         .
+F3     4      3 q     d         .
+Bf3    4      3 q     d         .
+measure 69
+C4     4      3 q     d         .
+A3     4      3 q     d         .
+Gf3    4      3 q f   d         .
+A3     4      3 q     d         .
+measure 70
+Ef3    4      3 q     d         .
+A3     4      3 q     d         .
+Gf3    4      3 q f   d         .
+A3     4      3 q     d         .
+measure 71
+C4     4      3 q     d
+A3     4      3 q     d
+Gf3    4      3 q f   d
+A3     4      3 q     d
+measure 72
+Ef3    4      3 q     d
+Gf3    4      3 q f   d
+A3     4      3 q     d
+C4     4      3 q     d
+measure 73
+D4     4      3 q     d
+Cf4    4      3 q f   d
+Af3    4      3 q f   d
+Cf4    4      3 q     d
+measure 74
+F3     4      3 q     d
+Af3    4      3 q f   d
+Cf4    4      3 q f   d
+D4     4      3 q     d
+measure 75
+E4     4      3 q n   d
+Df4    4      3 q f   d
+Bf3    4      3 q     d
+Df4    4      3 q     d
+measure 76
+G3     4      3 q     d
+Bf3    4      3 q     d
+Df4    4      3 q f   d
+E4     4      3 q n   d
+measure 77
+*               D       cresc.
+P  C25:f36  C17:Y66
+Gf4   16-     3 w f   d        -
+measure 78
+Gf4   16      3 w     u
+measure 79
+F4    16-     3 w     d        -
+measure 80
+F4    16      3 w     u
+measure 81
+Bf3   16-     1 w     u        -ff
+P    C33:Y66
+back  16
+Bf2   16-     2 w     d        -
+measure 82
+Bf3   16      1 w     u
+back  16
+Bf2   16      2 w     d
+measure 83
+Ef4   16      1 w     u         Z
+P    C33:Y61
+back  16
+Ef3   16      2 w     d
+measure 84
+F4    16      1 w     u         Z
+P    C33:Y61
+back  16
+F3    16      2 w     d
+measure 85
+Bf3   16-     1 w     u        -Z
+P    C33:Y67
+back  16
+Bf2   16-     2 w     d        -
+measure 86
+Bf3   16      1 w     u
+back  16
+Bf2   16      2 w     d
+measure 87
+G3    16      1 w     u         Z
+P    C33:Y61
+back  16
+Ef3   16      2 w     d
+measure 88
+A3    16      1 w     u         Z
+P    C33:Y61
+back  16
+F3    16      2 w     d
+measure 89
+Bf3   16      1 w     u         Z
+P    C33:Y63
+back  16
+Bf2   16      2 w     d
+measure 90
+C#4   16      1 w #   u         Z
+P    C33:Y65
+back  16
+A2    16      2 w     d
+measure 91
+D4    16      1 w     u         Z
+P    C33:Y62
+back  16
+D3    16      2 w     d
+measure 92
+C4     4      1 q n   d         +
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+back  16
+C3     4      2 q n   d         +
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+measure 93
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+back  16
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+measure 94
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+back  16
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+measure 95
+C4     4      1 q     d
+G3     8      1 h     d         Z
+P    C33:Y65
+Af3    4-     1 q f   d        -
+back  16
+C3     4      2 q     d
+E3     8      2 h n   d
+F3     4-     2 q     d        -
+measure 96
+Af3    4      1 q     d
+Bf3    8      1 h     d
+F3     4-     1 q     d        -
+back  16
+F3     4      2 q     d
+G3     8      2 h     d
+D3     4-     2 q     d        -
+measure 97
+F3     4      1 q     d
+G3     8      1 h     d
+Af3    4-     1 q f   d        -
+back  16
+D3     4      2 q     d
+E3     8      2 h n   d
+F3     4-     2 q     d        -
+measure 98
+Af3    4      1 q     d
+Af3    8      1 h f   d        (Z
+P    C33:Y61
+G3     4      1 q     d        )
+back  16
+F3     4      2 q     d
+F3     8      2 h     d
+E3     4      2 q n   d
+measure 99
+G3     4      1 q     d         .
+E4     8      1 h n   d
+F4     4-     1 q     d        -
+back  16
+E3     4      2 q n   d         .
+Bf3    8      2 h     d
+Af3    4-     2 q f   d        -
+measure 100
+F4     4      1 q     d
+E4     8      1 h n   d
+D4     4-     1 q     d        -
+back  16
+Af3    4      2 q     d
+G3     8      2 h     d
+Af3    4-     2 q f   d        -
+measure 101
+D4     4      1 q     d
+E4     8      1 h n   d
+F4     4-     1 q     d        -
+back  16
+Af3    4      2 q     d
+G3     8      2 h     d
+F3     4-     2 q     d        -
+measure 102
+F4     4      1 q     d
+F4     8      1 h     d        (Z
+P    C33:Y61
+E4     4      1 q n   d        )
+back  16
+F3     4      2 q     d
+F3     8      2 h     d
+C3     4      2 q     d
+measure 103
+E4     4      1 q n   d
+rest   4      1 q
+rest   8      1 h
+back  16
+C3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 104
+rest  16      3
+measure 105
+rest  16      3
+measure 106
+rest  16      3
+measure 107
+*               D +     1.
+P    C17:Y-25x-10  C25:f32
+C4     2      1 e     d  [     (p
+P    C33:Y57
+A3     2      1 e     d  =
+Bf3    2      1 e     d  =
+G3     2      1 e     d  ]     )
+F3     4      1 q     d         .
+C3     4      1 q     d         .
+measure 108
+F3     4      1 q     d         .
+G3     4      1 q     d         .
+A3     4      1 q     d         .
+Bf3    4      1 q     d         .
+measure 109
+C4     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+measure 110
+rest  16      3
+measure 111
+rest  16      3
+measure 112
+rest  16      3
+measure 113
+rest  16      3
+measure 114
+rest  16      3
+measure 115
+rest  16      3
+measure 116
+rest  16      3
+$   C:12
+measure 117
+E4    16      1 w n   d        (p
+P    C33:Y58
+back  16
+C#4   16      2 w #   d
+measure 118
+F4    16      1 w     d
+back  16
+D4    16      2 w     d
+measure 119
+G4    16      1 w     d
+back  16
+E4    16      2 w n   d
+measure 120
+F4    16      1 w     u        )
+back  16
+D4    16      2 w     d
+measure 121
+A3     4      1 q     u
+rest   4      1 q
+rest   8      1 h
+back  16
+A3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+$   C:22
+measure 122
+rest  16      3
+measure 123
+rest  16      3
+measure 124
+rest  16      3
+measure 125
+rest  16      3
+measure 126
+rest  16      3
+measure 127
+rest  16      3
+measure 128
+rest  16      3
+measure 129
+rest  16      3
+measure 130
+rest  16      3
+measure 131
+rest  16      3
+$    C:22
+measure 132
+E4     8      1 h n   d         f.
+P    C33:Y61
+E4     8      1 h     d         .
+back  16
+C4     8      2 h     d         .+
+Bf3    8      2 h     d         .
+measure 133
+E4     8      1 h n   d         .
+E4     8      1 h     d         .
+back  16
+G3     8      2 h     d         .
+E3     8      2 h n   d         .
+measure 134
+E4     8      1 h n   d         .
+E4     8      1 h     d         .
+back  16
+C3     8      2 h     d         .
+Bf2    8      2 h     d         .
+measure 135
+F4     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+A2     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 136
+Bf3    4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 137
+C4     4      1 q     d
+rest   4      1 q
+rest   4      1 q
+C4     4      1 q     d
+back  16
+C3     4      2 q     d
+irest  4      2 q
+irest  4      2 q
+C3     4      2 q     d
+measure 138
+Bf3    4      1 q     d
+Bf3    4      1 q     d
+Bf3    4      1 q     d
+Bf3    4      1 q     d
+back  16
+Bf2    4      2 q     d
+Bf2    4      2 q     d
+Bf2    4      2 q     d
+Bf2    4      2 q     d
+measure 139
+A3     4      1 q     d
+rest   4      1 q
+Bf3    4      1 q     d
+rest   4      1 q
+back  16
+A2     4      2 q     d
+irest  4      2 q
+Bf2    4      2 q     d
+irest  4      2 q
+measure 140
+C4     4      1 q     d
+rest   4      1 q
+C3     4      1 q     u
+rest   4      1 q
+back  16
+C3     4      2 q     d
+irest  4      2 q
+C2     4      2 q     u
+irest  4      2 q
+measure 141
+rest  16      3
+measure 142
+*               D +     1.
+P    C17:Y-25x-10  C25:f32
+*               D       p dolce
+P  C25:f1   C17:Y69   C26:f36
+A3     4      1 q     d        (
+Bf3    4      1 q     d
+C4     4      1 q     d
+C3     4      1 q     u        )
+measure 143
+F3    12      1 h.    d        (
+G3     4      1 q     d
+measure 144
+A3     4      1 q     d
+F3     4      1 q     d
+A3     4      1 q     d
+Bf3    4      1 q     d        )
+$    C:12
+measure 145
+C4    12      1 h.    d        (
+D4     4      1 q     d
+measure 146
+E4     4      1 q n   d
+F4     4      1 q     d
+G4     4      1 q     d
+F4     4      1 q     d        )
+measure 147
+E4    12      1 h.n   d        (
+D4     4      1 q     d
+measure 148
+C4     4      1 q     d
+D4     4      1 q     d
+Bf3    4      1 q     d
+G3     4      1 q     u        )
+$    C:22
+measure 149
+F3     4      1 q     u         f
+P    C33:Y62
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+back  16
+F3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+measure 150
+C4    12      1 h.    d
+C4     4      1 q     d
+back  16
+C3    12      2 h.    d
+C3     4      2 q     d
+measure 151
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+back  16
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+measure 152
+C4    12      1 h.    d
+C4     4      1 q     d
+back  16
+C3    12      2 h.    d
+C3     4      2 q     d
+measure 153
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+back  16
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+measure 154
+C4    12      1 h.    d
+C4     4      1 q     d
+back  16
+C3    12      2 h.    d
+C3     4      2 q     d
+measure 155
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+C4     4      1 q     d
+back  16
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+C3     4      2 q     d
+measure 156
+C4    16      1 w     u
+back  16
+C3    16      2 w     d
+measure 157
+rest   4      1 q
+*               D +     1.
+P    C17:Y-15x-25  C25:f32
+D4     4      1 q     d        (p
+P    C33:Y58
+Bf3    4      1 q     d
+G3     4      1 q     d        )
+measure 158
+E3     4      2 q n   d
+rest   4      2 q
+rest   8      2 h
+measure 159
+rest  16      3
+measure 160
+rest  16      3
+measure 161
+F3     4      1 q     u         ff
+P    C33:Y71
+rest   4      1 q
+rest   4      1 q
+D3     4      1 q     u
+back  16
+F2     4      2 q     u
+irest  4      2 q
+irest  4      2 q
+D3     4      2 q     d
+measure 162
+Bf2    4      1 q     u
+rest   4      1 q
+C3     4      1 q     u
+rest   4      1 q
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+C3     4      2 q     d
+irest  4      2 q
+measure 163
+rest  16      3
+measure 164
+rest  16      3
+measure 165
+F3     4      1 q     u         ff
+P    C33:Y71
+rest   4      1 q
+rest   4      1 q
+D3     4      1 q     u
+back  16
+F2     4      2 q     u
+irest  4      2 q
+irest  4      2 q
+D3     4      2 q     d
+measure 166
+Bf2    4      1 q     u
+rest   4      1 q
+C3     4      1 q     u
+rest   4      1 q
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+C3     4      2 q     d
+irest  4      2 q
+measure 167
+rest  16      3
+measure 168
+*               D +     zu 2
+P    C17:Y-25x-10        C25:f32
+*               D       p cresc
+P  C25:f1   C17:Y64   C26:f36
+B3    16      3 w n   u
+measure 169
+B3    16      3 w n   u         f
+P    C33:Y61
+measure 170
+C4    16      3 w     u         f
+P    C33:Y61
+measure 171
+D4    16      3 w     u         f
+P    C33:Y61
+measure 172
+E4    16      3 w n   u         f
+P    C33:Y61
+measure 173
+F4     4      1 q     d         ff
+P    C33:Y62
+Df4   12-     1 h.f   d        -
+back  16
+F3     4      2 q     d
+Df3   12-     2 h.f   d        -
+measure 174
+Df4   16      1 w     u
+back  16
+Df3   16      2 w     d
+measure 175
+C4    16      1 w     u
+back  16
+C3    16      2 w     d
+measure 176
+C4    16      1 w     u
+back  16
+C3    16      2 w     d
+measure 177
+F3     4      1 q     u
+rest   4      1 q
+rest   8      1 h
+back  16
+F3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 178
+rest  16      3
+measure 179
+rest  16      3
+measure 180
+rest   4      1 q
+Bf3    8      1 h     d         f
+P    C33:Y61
+Bf3    4      1 q     d         .
+back  16
+irest  4      2 q
+G3     8      2 h     d
+G3     4      2 q     d         .
+measure 181
+A3     4      1 q     d         .
+rest   4      1 q
+rest   8      1 h
+back  16
+F3     4      2 q     d         .
+irest  4      2 q
+irest  8      2 h
+measure 182
+rest  16      3
+measure 183
+rest  16      3
+measure 184
+rest   4      1 q
+Bf3    8      1 h     d
+Bf3    4      1 q     d
+back  16
+irest  4      2 q
+G3     8      2 h     d
+G3     4      2 q     d
+measure 185                     start-end1
+A3     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+F3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 186
+rest   4      1 q
+Bf3    8      1 h     d
+Bf3    4      1 q     d
+back  16
+irest  4      2 q
+G3     8      2 h     d
+G3     4      2 q     d
+measure 187
+A3    16-     1 w     d        -ff
+P    C33:Y61
+back  16
+F3    16-     2 w     d        -
+measure 188
+A3     8-     1 h     d        -
+A3     7      1 q:    d
+A3     1      1 s     d
+back  16
+F3     8-     2 h     d        -
+F3     7      2 q:    d
+F3     1      2 s     d
+measure 189
+A3     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+F3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 190
+rest  16      3
+measure 191
+C4    16-     1 w     d        -ff
+P    C33:Y61
+back  16
+A3    16-     2 w     d        -
+measure 192
+C4     8-     1 h     d        -
+C4     7      1 q:    d
+C4     1      1 s     d
+back  16
+A3     8-     2 h     d        -
+A3     7      2 q:    d
+A3     1      2 s     d
+measure 193
+C4     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+A3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 194
+F4     4      1 q     d         .
+rest   4      1 q
+rest   8      1 h
+back  16
+F3     4      2 q     d         .
+irest  4      2 q
+irest  8      2 h
+measure 195
+F4     4      1 q     d         .
+rest   4      1 q
+F4     4      1 q     d         .
+rest   4      1 q
+back  16
+F3     4      2 q     d         .
+irest  4      2 q
+F3     4      2 q     d         .
+irest  4      2 q
+measure 196
+F4     4      1 q     d         .
+rest   4      1 q
+F4     4      1 q     d         .
+rest   4      1 q
+back  16
+F3     4      2 q     d         .
+irest  4      2 q
+F3     4      2 q     d         .
+irest  4      2 q
+measure 197
+D4     4      1 q     d         .
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf3    4      2 q     d         .
+irest  4      2 q
+irest  8      2 h
+measure 198
+rest  16      3
+mheavy2 199                     :|  stop-end1  start-end2
+A3     4      1 q     d
+rest   4      1 q
+G3     4      1 q     d
+rest   4      1 q
+back  16
+F3     4      2 q     d
+irest  4      2 q
+E3     4      2 q n   d
+irest  4      2 q
+measure 200                     disc-end2
+A3     4      1 q     d
+rest   4      1 q
+Bf3    4      1 q     d
+rest   4      1 q
+back  16
+F3     4      2 q     d
+irest  4      2 q
+G3     4      2 q     d
+irest  4      2 q
+measure 201
+C4    16-     1 w     u        -Z
+P    C33:Y61
+back  16
+A3    16-     2 w     d        -
+measure 202
+C4    16-     1 w     u        -
+back  16
+A3    16-     2 w     d        -
+measure 203
+C4    16-     1 w     u        -
+back  16
+A3    16-     2 w     d        -
+measure 204
+C4    16      1 w     u
+back  16
+A3    16      2 w     d
+measure 205
+Bf3   16-     1 w     u        -Z
+P    C33:Y61
+back  16
+G3    16-     2 w     d        -
+measure 206
+Bf3   16-     1 w     u        -
+back  16
+G3    16-     2 w     d        -
+measure 207
+Bf3   16-     1 w     u        -
+back  16
+G3    16-     2 w     d        -
+measure 208
+Bf3   16      1 w     u
+back  16
+G3    16      2 w     d
+measure 209
+A3    16-     1 w     u        -Z
+P    C33:Y61
+back  16
+F3    16-     2 w     d        -
+measure 210
+A3    16      1 w     u
+back  16
+F3    16      2 w     d
+measure 211
+G3    16-     1 w     u        -Z
+P    C33:Y67
+back  16
+Bf2   16-     2 w     d        -
+measure 212
+G3    16      1 w     u
+back  16
+Bf2   16      2 w     d
+measure 213
+F3    16-     1 w     u        -Z
+P    C33:Y63
+back  16
+C3    16-     2 w     d        -
+measure 214
+F3    16      1 w     u
+back  16
+C3    16      2 w     d
+measure 215
+E3    16-     1 w n   u        -Z
+P    C33:Y63
+back  16
+C3    16-     2 w     d        -
+measure 216
+E3    16      1 w     u
+back  16
+C3    16      2 w     d
+measure 217
+E3     4      1 q n   d         p
+P    C33:Y68x3
+rest   4      1 q
+rest   8      1 h
+back  16
+C#3    4      2 q #   d
+irest  4      2 q
+irest  8      2 h
+measure 218
+rest  16      3
+measure 219
+rest  16      3
+measure 220
+rest  16      3
+measure 221
+rest  16      3
+measure 222
+rest  16      3
+measure 223
+rest  16      3
+measure 224
+rest  16      3
+measure 225
+rest  16      3
+measure 226
+rest  16      3
+measure 227
+rest  16      3
+measure 228
+rest  16      3
+measure 229
+rest  16      3
+measure 230
+rest  16      3
+measure 231
+rest  16      3
+measure 232
+rest  16      3
+measure 233
+rest  16      3
+measure 234
+rest  16      3
+measure 235
+*               D +     1.
+P    C17:Y-45x-10  C25:f32
+F#4    2      1 e #   d         p
+P    C33:Y56
+rest   2      1 e
+D4     2      1 e     d
+rest   2      1 e
+A3     2      1 e     d
+rest   2      1 e
+D4     2      1 e     d
+rest   2      1 e
+measure 236
+F#3    2      1 e #   d
+rest   2      1 e
+A3     2      1 e     d
+rest   2      1 e
+D3     2      1 e     d
+rest   2      1 e
+F#3    2      1 e     d
+rest   2      1 e
+measure 237
+B2     2      1 e n   u
+rest   2      1 e
+G3     2      1 e     d
+rest   2      1 e
+E3     2      1 e n   d
+rest   2      1 e
+D3     2      1 e     d
+rest   2      1 e
+measure 238
+C#3    2      1 e #   u
+rest   2      1 e
+A3     2      1 e     d
+rest   2      1 e
+G3     2      1 e     d
+rest   2      1 e
+E3     2      1 e n   d
+rest   2      1 e
+measure 239
+D3     4      1 q     d
+rest   4      1 q
+G3     8-     1 h     d        -
+measure 240
+G3     8      1 h     d        (
+A3     4      1 q     d
+Bf3    4      1 q     d        )
+measure 241
+gD4    6      1 e     u
+C4     8      1 h     d        (
+Bf3    4      1 q     d
+C4     4      1 q     d        )
+measure 242
+A3     8      1 h     d        (
+D4     8      1 h     d        )
+measure 243
+G3     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+measure 244
+rest  16      3
+measure 245
+rest  16      3
+measure 246
+rest  16      3
+$    C:12
+measure 247
+*               D +     1.
+P    C17:Y-25x-10  C25:f32
+G4     2      1 e     d         p
+P    C33:Y58
+rest   2      1 e
+Ef4    2      1 e     d
+rest   2      1 e
+Bf3    2      1 e     d
+rest   2      1 e
+Ef4    2      1 e     d
+rest   2      1 e
+measure 248
+G3     2      1 e     u
+rest   2      1 e
+Bf3    2      1 e     d
+rest   2      1 e
+Ef3    2      1 e     u
+rest   2      1 e
+G3     2      1 e     u
+rest   2      1 e
+measure 249
+C3     2      1 e     u
+rest   2      1 e
+Af3    2      1 e f   d
+rest   2      1 e
+F3     2      1 e     d
+rest   2      1 e
+Ef3    2      1 e     d
+rest   2      1 e
+measure 250
+D3     2      1 e     d
+rest   2      1 e
+Bf3    2      1 e     d
+rest   2      1 e
+Af3    2      1 e f   d
+rest   2      1 e
+F3     2      1 e     d
+rest   2      1 e
+measure 251
+Ef3    4      1 q     u
+rest   4      1 q
+P    C1:Y10
+rest   4      1 q
+P    C1:Y10
+$    C:12
+G4     4      1 q     d         .
+back  16
+rest   8      2 h
+P    C1:Y40
+rest   4      2 q
+P    C1:Y45
+Ef4    4      2 q     d         .
+measure 252
+*               DH      crescendo
+P  C25:f36  C17:Y72 C18:Y72
+Ef4    4      1 q     d         .
+G4     4      1 q     d         .
+rest   4      1 q
+Ef4    4      1 q     d         .
+back  16
+C4     4      2 q     d         .
+Ef4    4      2 q     d         .
+irest  4      2 q
+C4     4      2 q     d         .
+measure 253
+C4     4      1 q     d         .
+F4     4      1 q     d         .
+rest   4      1 q
+C4     4      1 q     d         .
+back  16
+Af3    4      2 q f   d         .
+C4     4      2 q     d         .
+irest  4      2 q
+Af3    4      2 q     d         .
+measure 254
+Bf3    4      1 q     u         .
+D4     4      1 q     d         .
+rest   4      1 q
+*               J
+D4     4      1 q     d         .
+back  16
+F3     4      2 q     u         .
+Bf3    4      2 q     d         .
+irest  4      2 q
+Bf3    4      2 q     d
+$    C:22
+measure 255
+Ef4   16-     1 w     u        -ff
+P    C33:Y61
+back  16
+Ef3   16-     2 w     d        -
+measure 256
+Ef4   16      1 w     u
+back  16
+Ef3   16      2 w     d
+measure 257
+Ef4   16      1 w     u
+back  16
+Ef3   16      2 w     d
+measure 258
+Ef4    4      1 q     d
+rest   4      1 q
+Ef4    4      1 q     d
+rest   4      1 q
+back  16
+Ef3    4      2 q     d
+irest  4      2 q
+Ef3    4      2 q     d
+irest  4      2 q
+measure 259
+Ef4    4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+Ef3    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 260
+rest  16      3
+measure 261
+rest  16      3
+measure 262
+rest  16      3
+measure 263
+D4    16-     1 w     u        -ff
+P    C33:Y61
+back  16
+B3    16-     2 w n   d        -
+measure 264
+D4    16      1 w     u
+back  16
+B3    16      2 w     d
+measure 265
+D4    16      1 w     u
+back  16
+B3    16      2 w n   d
+measure 266
+D4     4      1 q     d
+rest   4      1 q
+D4     4      1 q     d
+rest   4      1 q
+back  16
+B3     4      2 q n   d
+irest  4      2 q
+B3     4      2 q     d
+irest  4      2 q
+measure 267
+D4     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+B3     4      2 q n   d
+irest  4      2 q
+irest  8      2 h
+measure 268
+rest  16      3
+measure 269
+rest  16      3
+measure 270
+rest  16      3
+measure 271
+Df4   16-     1 w f   u        -ff
+P    C33:Y61
+back  16
+G3    16-     2 w     d        -
+measure 272
+Df4   16      1 w     u
+back  16
+G3    16      2 w     d
+measure 273
+Df4   16      1 w f   u
+back  16
+G3    16      2 w     d
+measure 274
+Df4    4      1 q f   d
+rest   4      1 q
+Df4    4      1 q     d
+rest   4      1 q
+back  16
+G3     4      2 q     d
+irest  4      2 q
+G3     4      2 q     d
+irest  4      2 q
+measure 275
+*               D       sempre f
+P  C25:f33  C32:f1  C17:Y64
+Df4    4      1 q f   d
+rest   4      1 q
+rest   8      1 h
+back  16
+G3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 276
+Df4    4      1 q f   d
+rest   4      1 q
+rest   8      1 h
+back  16
+G3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 277
+Df4    4      1 q f   d
+rest   4      1 q
+rest   8      1 h
+back  16
+G3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 278
+Df4    4      1 q f   d
+rest   4      1 q
+rest   8      1 h
+back  16
+G3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 279
+Df4    4      1 q f   d
+rest   4      1 q
+rest   8      1 h
+back  16
+G3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 280
+rest  16      3
+measure 281
+Df4    4      1 q f   d         p
+P    C33:Y58
+rest   4      1 q
+rest   8      1 h
+back  16
+G3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 282
+rest  16      3
+measure 283
+Df4    4      1 q f   d         pp
+P    C33:Y58
+rest   4      1 q
+rest   8      1 h
+back  16
+G3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 284
+rest  16      3
+measure 285
+rest  16      3
+measure 286
+rest  16      3
+measure 287
+rest  16      3
+measure 288
+rest  16      3
+measure 289
+rest  16      3
+measure 290
+rest  16      3
+measure 291
+rest  16      3
+measure 292
+rest  16      3
+measure 293
+rest  16      3
+measure 294
+rest  16      3
+measure 295
+rest  16      3
+measure 296
+rest  16      3
+measure 297
+rest  16      3
+measure 298
+rest  16      3
+measure 299
+rest  16      3
+measure 300
+rest  16      3
+measure 301
+rest  16      3
+measure 302
+rest  16      3
+measure 303
+rest  16      3
+measure 304
+rest  16      3
+measure 305
+rest  16      3
+measure 306
+rest  16      3
+measure 307
+rest  16      3
+measure 308
+rest  16      3
+measure 309
+rest  16      3
+measure 310
+rest  16      3
+measure 311
+rest  16      3
+measure 312
+rest  16      3
+measure 313
+rest  16      3
+measure 314
+rest  16      3
+measure 315
+rest  16      3
+measure 316
+rest  16      3
+measure 317
+rest  16      3
+measure 318
+rest  16      3
+measure 319
+rest  16      3
+measure 320
+rest  16      3
+measure 321
+rest  16      3
+measure 322
+rest  16      3
+measure 323
+rest  16      3
+measure 324
+rest  16      3
+measure 325
+rest  16      3
+measure 326
+rest  16      3
+measure 327
+rest  16      3
+measure 328
+rest  16      3
+measure 329
+rest  16      3
+measure 330
+rest  16      3
+measure 331
+rest  16      3
+measure 332
+rest  16      3
+measure 333
+rest  16      3
+measure 334
+rest  16      3
+measure 335
+rest  16      3
+measure 336
+rest  16      3
+measure 337
+rest  16      3
+measure 338
+rest  16      3
+measure 339
+rest  16      3
+measure 340
+rest  16      3
+measure 341
+rest  16      3
+measure 342
+rest  16      3
+measure 343
+rest  16      3
+measure 344
+rest  16      3
+measure 345
+rest  16      3
+measure 346
+rest  16      3
+measure 347
+D4    16-     1 w     u        -ff
+P    C33:Y61
+back  16
+Bf3   16-     2 w     d        -
+measure 348
+D4    16-     1 w     u        -
+back  16
+Bf3   16-     2 w     d        -
+measure 349
+D4    16      1 w     u
+back  16
+Bf3   16      2 w     d
+measure 350
+D4     4      1 q     d         .
+rest   4      1 q
+D4     4      1 q     d         .
+rest   4      1 q
+back  16
+Bf3    4      2 q     d         .
+irest  4      2 q
+Bf3    4      2 q     d         .
+irest  4      2 q
+measure 351
+D4     2      1 e     d
+rest   2      1 e
+irest  4      1 q
+irest  8      1 h
+back  16
+Bf3    2      2 e     d
+rest   2      2 e
+irest  4      2 q
+irest  8      2 h
+back  16
+irest  4      3 q
+*               D +     zu 2
+P    C17:Y-23x-5     C25:f32
+Bf3    2      3 e     d
+rest   2      3 e
+F3     2      3 e     d
+rest   2      3 e
+Bf3    2      3 e     d
+rest   2      3 e
+measure 352
+D3     2      3 e     d
+rest   2      3 e
+F3     2      3 e     d
+rest   2      3 e
+Bf2    2      3 e     u
+rest   2      3 e
+D3     2      3 e     d
+rest   2      3 e
+measure 353
+Ef3    2      3 e     d
+rest   2      3 e
+Ef3    2      3 e     d
+rest   2      3 e
+C4     2      3 e     d
+rest   2      3 e
+Bf3    2      3 e     d
+rest   2      3 e
+measure 354
+A3     2      3 e     d
+rest   2      3 e
+F3     2      3 e     d
+rest   2      3 e
+Ef4    2      3 e     d
+rest   2      3 e
+C4     2      3 e     d
+rest   2      3 e
+measure 355
+Bf3    4      3 q     d
+rest   4      3 q
+rest   8      3 h
+measure 356
+rest  16      3
+measure 357
+rest   4      1 q
+*               D +     1.
+P    C17:Y-20x-30  C25:f32
+Ef4    2      1 e     d         p
+P    C33:Y56
+rest   2      1 e
+C4     2      1 e     d
+rest   2      1 e
+Bf3    2      1 e     d
+rest   2      1 e
+measure 358
+A3     2      1 e     d
+rest   2      1 e
+F4     2      1 e     d
+rest   2      1 e
+Ef4    2      1 e     d
+rest   2      1 e
+C4     2      1 e     d
+rest   2      1 e
+measure 359
+Bf3    4      1 q     d
+rest   4      1 q
+rest   8      1 h
+measure 360
+rest  16      3
+measure 361
+rest  16      3
+$    C:12
+measure 362
+rest   4      1 q
+*               D +     1.
+P    C17:Y-10x-30  C25:f32
+G4     4      1 q     d        (p
+P    C33:Y56
+E4     4      1 q n   d
+F4     4      1 q     d
+measure 363
+D4     4      1 q     d
+Ef4    4      1 q f   d         +
+C4     4      1 q     d
+D4     4      1 q     d
+measure 364
+B3     4      1 q n   d
+*               D       cresc.
+P  C25:f36  C17:Y67
+C4     4      1 q     d
+Ef4    4      1 q     d
+A3     4      1 q     d        )
+$    C:22
+measure 365
+Bf3   16-     1 w f   u        -ff+
+P    C33:Y66
+back  16
+Bf2   16-     2 w f   d        -+
+measure 366
+Bf3   16      1 w     u
+back  16
+Bf2   16      2 w     d
+measure 367
+Ef4   16      1 w     u         Z
+P    C33:Y61
+back  16
+Ef3   16      2 w     d
+measure 368
+F4    16      1 w     u         Z
+P    C33:Y61
+back  16
+F3    16      2 w     d
+measure 369
+D4    16-     1 w     u        -Z
+P    C33:Y62
+back  16
+D3    16-     2 w     d        -
+measure 370
+D4     8      1 h     d
+G4     8      1 h     d
+back  16
+D3     8      2 h     d
+G3     8      2 h     d
+measure 371
+Ef4   16      1 w     u         Z
+P    C33:Y61
+back  16
+Ef3   16      2 w     d
+measure 372
+Af4   16      1 w f   u         Z
+P    C33:Y61
+back  16
+Af3   16      2 w f   d
+measure 373
+F4    16-     1 w     u        -Z
+P    C33:Y61
+back  16
+F3    16-     2 w     d        -
+measure 374
+F4     8      1 h     d
+Bf3    8      1 h     d         Z
+P    C33:Y61
+back  16
+F3     8      2 h     d
+F3     8      2 h     d
+measure 375
+Bf3    8      1 h     d
+C4     8      1 h     d         Z
+P    C33:Y60
+back  16
+G3     8      2 h     d
+G3     8      2 h     d
+measure 376
+C4     8      1 h     d
+D4     8      1 h     d         Z
+P    C33:Y60
+back  16
+A3     8      2 h     d         +
+A3     8      2 h     d
+measure 377
+Bf3    8      1 h     d
+Bf3    8      1 h     d         Z
+P    C33:Y60
+back  16
+G3     8      2 h     d
+G3     8      2 h     d
+measure 378
+C4     8      1 h     d
+C4     8      1 h     d         Z
+P    C33:Y60
+back  16
+Af3    8      2 h f   d
+A3     8      2 h n   d
+measure 379
+*               D +     zu 2
+P    C17:x-10Y-20         C25:f32
+Bf3    4      3 q     d         ff
+P    C33:Y61
+C4     4      3 q     d
+D4     4      3 q     d
+Ef4    4      3 q     d
+measure 380
+F4     4      3 q     d
+Ef4    4      3 q     d
+D4     4      3 q     d
+C4     4      3 q     d
+measure 381
+Bf3    4      3 q     d
+A3     4      3 q     d
+G3     4      3 q     d
+F3     4      3 q     d
+measure 382
+Ef3    4      3 q     d
+D3     4      3 q     d
+C3     4      3 q     u
+Bf2    4      3 q     u
+measure 383
+F2     4      1 q     u
+C4     8      1 h     d         Z
+P    C33:Y60
+Df4    4-     1 q f   d        -
+back  16
+F2     4      2 q     u
+A3     8      2 h     d
+Bf3    4-     2 q     d        -
+measure 384
+Df4    4      1 q     d
+Ef4    8      1 h     d
+Bf3    4-     1 q     d        -
+back  16
+Bf3    4      2 q     d
+C4     8      2 h     d
+G3     4-     2 q     d        -
+measure 385
+Bf3    4      1 q     d
+C4     8      1 h     d
+Df4    4-     1 q f   d        -
+back  16
+G3     4      2 q     d
+A3     8      2 h     d
+Bf3    4-     2 q     d        -
+measure 386
+Df4    4      1 q     d
+Df4    8      1 h f   d        (Z
+P    C33:Y60
+C4     4      1 q     d        )
+back  16
+Bf3    4      2 q     d
+Bf3    8      2 h     d
+A3     4      2 q     d
+measure 387
+C4     4      1 q     d         .
+irest  8      1 h
+irest  4      1 q
+back  16
+A3     4      2 q     d         .
+irest  8      2 h
+irest  4      2 q
+back  16
+irest  4      3 q
+*               D +     zu 2
+P    C17:Y-35x-10            C25:f32
+Ef4    8      3 h     d
+Df4    4-     3 q f   d        -
+measure 388
+Df4    4      3 q     d
+C4     8      3 h     d
+Df4    4-     3 q f   d        -
+measure 389
+Df4    4      3 q     d
+C4     8      3 h     d
+Bf3    4-     3 q     d        -
+P    C32:o
+measure 390
+irest  4      1 q
+Df4    8      1 h f   d        (Z
+P    C33:Y60   C32:o
+C4     4      1 q     d        )
+back  16
+irest  4      2 q
+Bf3    8      2 h     d
+A3     4      2 q     d
+back  16
+Bf3    4      3 q     d
+irest  8      3 h
+irest  4      3 q
+measure 391
+C4     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+A3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 392
+rest  16      3
+measure 393
+rest  16      3
+measure 394
+rest  16      3
+$    C:12
+measure 395
+*               D +     1.
+P    C17:Y-25x-10  C25:f32
+F4     2      1 e     d  [     (p
+P    C33:Y57
+D4     2      1 e     d  =
+Ef4    2      1 e     d  =
+C4     2      1 e     d  ]     )
+Bf3    4      1 q     d         .
+F3     4      1 q     d         .
+measure 396
+Bf3    4      1 q     u         .
+C4     4      1 q     d         .
+D4     4      1 q     d         .
+Ef4    4      1 q     d         .
+measure 397
+F4     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+$    C:22
+measure 398
+rest  16      3
+measure 399
+rest  16      3
+measure 400
+rest  16      3
+measure 401
+rest  16      3
+measure 402
+rest  16      3
+measure 403
+rest  16      3
+measure 404
+rest  16      3
+measure 405
+rest  16      3
+measure 406
+rest  16      3
+measure 407
+rest  16      3
+measure 408
+rest  16      3
+measure 409
+rest  16      3
+measure 410
+rest  16      3
+measure 411
+rest  16      3
+measure 412
+rest  16      3
+measure 413
+rest  16      3
+measure 414
+rest  16      3
+measure 415
+rest  16      3
+measure 416
+rest  16      3
+measure 417
+rest  16      3
+measure 418
+rest  16      3
+measure 419
+rest  16      3
+measure 420
+C4     8      1 h     d         f.
+P    C33:Y61
+C4     8      1 h     d         .
+back  16
+A3     8      2 h     d         .
+A3     8      2 h     d         .
+measure 421
+C4     8      1 h     d         .
+C4     8      1 h     d         .
+back  16
+A3     8      2 h     d         .
+A3     8      2 h     d         .
+measure 422
+C4     8      1 h     d         .
+C4     8      1 h     d         .
+back  16
+A3     8      2 h     d         .
+A3     8      2 h     d         .
+measure 423
+D4     4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf3    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 424
+Ef4    4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+Ef3    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 425
+F4     4      1 q     d
+rest   4      1 q
+rest   4      1 q
+F3     4      1 q     u
+back  16
+F3     4      2 q     d
+irest  4      2 q
+irest  4      2 q
+F3     4      2 q     d
+measure 426
+Ef3    4      1 q     u
+Ef3    4      1 q     u
+Ef3    4      1 q     u
+Ef3    4      1 q     u
+back  16
+Ef3    4      2 q     d
+Ef3    4      2 q     d
+Ef3    4      2 q     d
+Ef3    4      2 q     d
+measure 427
+D4     4      1 q     d
+rest   4      1 q
+Ef3    4      1 q     u
+rest   4      1 q
+back  16
+D3     4      2 q     d
+irest  4      2 q
+Ef3    4      2 q     d
+irest  4      2 q
+measure 428
+F3     4      1 q     u
+rest   4      1 q
+F3     4      1 q     u
+rest   4      1 q
+back  16
+F3     4      2 q     d
+irest  4      2 q
+F2     4      2 q     u
+irest  4      2 q
+measure 429
+rest  16      3
+$    C:12
+measure 430
+*               D +     1.
+P    C17:Y-20x-10  C25:f32
+*               D       p dolce
+P  C25:f1   C17:Y67   C26:f36
+D4     4      1 q     d        (
+Ef4    4      1 q     d
+F4     4      1 q     d
+F3     4      1 q     u        )
+measure 431
+Bf3   12      1 h.    d        (
+C4     4      1 q     d
+measure 432
+D4     4      1 q     d
+Bf3    4      1 q     d
+D4     4      1 q     d
+Ef4    4      1 q     d        )
+measure 433
+F4    16-     1 w     d        -
+measure 434
+F4    16-     1 w     d        -
+measure 435
+F4    12      1 h.    d
+G4     4      1 q     d        (
+measure 436
+F4     4      1 q     d
+G4     4      1 q     d
+Ef4    4      1 q     d
+C4     4      1 q     d        )
+$    C:22
+measure 437
+*               D +     zu 2
+P    C17:Y-22x-10        C25:f32
+Bf3    4      3 q     d         f
+P    C33:Y61
+rest   4      3 q
+rest   4      3 q
+F3     4      3 q     d         .
+measure 438
+D3     4      3 q     d        [
+Ef3    4      3 q     d        ]
+F3     4      3 q     d         .
+F2     4      3 q     u         .
+measure 439
+Bf2   12      3 h.    u
+C3     4      3 q     u         .
+measure 440
+D3     4      3 q     u        (
+Bf2    4      3 q     u        )
+D3     4      3 q     d         .
+Ef3    4      3 q     d         .
+measure 441
+F3    12      3 h.    d
+G3     4      3 q     d         .
+measure 442
+A3     4      3 q     d        [
+Bf3    4      3 q     d        ]
+C4     4      3 q     d         .
+Bf3    4      3 q     d         .
+measure 443
+A3    12      1 h.    u
+rest   4      1 q
+P    C1:Y-20
+back  16
+A3    12      2 h.    d
+G3     4      2 q     d         .
+measure 444
+rest  16      1 w
+P    C1:Y-5
+back  16
+F3     4      2 q     d        [
+G3     4      2 q     d        ]
+Ef3    4      2 q     d         .
+C3     4      2 q     d         .
+measure 445
+rest   4      1 q
+P    C1:Y0
+$    C:12
+G4     4      1 q     u        (p
+P   C33:Y-35x-10
+Ef4    4      1 q     u
+C4     4      1 q     u        )
+back  16
+A2     4      2 q     d
+rest   4      2 q
+P    C1:Y40
+rest   8      2 h
+P    C1:Y40
+measure 446
+A3     4      1 q     u
+rest   4      1 q
+P    C1:Y0
+rest   8      1 h
+P    C1:Y0
+back  16
+rest  16      2
+P    C1:Y50
+measure 447
+rest  16      3
+measure 448
+rest  16      3
+$    C:22
+measure 449
+Bf3    4      1 q     d         ff
+P    C33:Y70
+rest   4      1 q
+rest   4      1 q
+G3     4      1 q     u
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+irest  4      2 q
+G3     4      2 q     d
+measure 450
+Ef3    4      1 q     u
+rest   4      1 q
+F3     4      1 q     u
+rest   4      1 q
+back  16
+Ef3    4      2 q     d
+irest  4      2 q
+F3     4      2 q     d
+irest  4      2 q
+measure 451
+rest  16      3
+measure 452
+rest  16      3
+measure 453
+F4     4      1 q     d         ff
+P    C33:Y60
+rest   4      1 q
+rest   4      1 q
+D4     4      1 q     d
+back  16
+D4     4      2 q     d
+irest  4      2 q
+irest  4      2 q
+Bf3    4      2 q     d
+measure 454
+G3     4      1 q     d
+rest   4      1 q
+A3     4      1 q     d
+rest   4      1 q
+back  16
+Ef3    4      2 q     d
+irest  4      2 q
+F3     4      2 q     d
+irest  4      2 q
+measure 455
+rest  16      3
+measure 456
+*               D +     zu 2
+P    C17:Y-10x-10        C25:f32
+*               D       cresc.
+P  C25:f36  C17:Y67
+E3    16      3 w n   u
+measure 457
+E3    16      3 w n   u         f
+P    C33:Y61
+measure 458
+F3    16      3 w     u         f
+P    C33:Y61
+measure 459
+G3    16      3 w     u         f
+P    C33:Y61
+measure 460
+A3    16      3 w     u         f
+P    C33:Y61
+measure 461
+Bf3    4      1 q     d         ff
+P    C33:Y61
+Df4   12-     1 h.f   d        -
+back  16
+Bf3    4      2 q     d
+Gf3   12-     2 h.f   d        -
+measure 462
+Df4   16      1 w     u
+back  16
+Gf3   16      2 w     d
+measure 463
+D4    16      1 w n   u         Z+
+P    C33:Y61
+back  16
+F3    16      2 w     d
+measure 464
+F3    16      1 w     u
+back  16
+F2    16      2 w     d
+measure 465
+Bf3    4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 466
+rest  16      3
+measure 467
+rest  16      3
+measure 468
+rest   4      1 q
+C4     8      1 h     d
+Ef4    4      1 q     d         .
+back  16
+irest  4      2 q
+A3     8      2 h     d
+C4     4      2 q     d         .
+measure 469
+D4     4      1 q     d         .
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf3    4      2 q     d         .
+irest  4      2 q
+irest  8      2 h
+measure 470
+rest  16      3
+measure 471
+rest  16      3
+measure 472
+rest   4      1 q
+Ef4    8      1 h     d
+Ef4    4      1 q     d         .
+back  16
+irest  4      2 q
+C4     8      2 h     d
+C4     4      2 q     d         .
+measure 473
+D4     4      1 q     d         .
+C4     8      1 h     u
+D4     4-     1 q     u        -
+back  16
+Bf3    4      2 q     d         .
+C4     8      2 h     d
+D4     4-     2 q     d        -
+measure 474
+D4     4      1 q     u
+Ef4    8      1 h     d
+Ef4    4      1 q     d
+back  16
+D4     4      2 q     d
+C4     8      2 h     d
+C4     4      2 q     d
+measure 475
+C4    16-     1 w     u        -ff
+P    C33:Y61
+back  16
+A3    16-     2 w     d        -
+measure 476
+C4     8-     1 h     d        -
+C4     7      1 q:    d
+C4     1      1 s     d
+back  16
+A3     8-     2 h     d        -
+A3     7      2 q:    d
+A3     1      2 s     d
+measure 477
+C4     4      1 q     d
+rest   4      1 q
+rest   4      1 q
+rest   3      1 e.
+C4     1      1 s     d
+back  16
+A3     4      2 q     d
+irest  4      2 q
+irest  4      2 q
+irest  3      2 e.
+A3     1      2 s     d
+measure 478
+C4     4      1 q     d
+rest   4      1 q
+rest   4      1 q
+rest   3      1 e.
+C4     1      1 s     d
+back  16
+A3     4      2 q     d
+irest  4      2 q
+irest  4      2 q
+irest  3      2 e.
+A3     1      2 s     d
+measure 479
+C4     4      1 q     d         .
+rest   4      1 q
+F4     4      1 q     d         .
+rest   4      1 q
+back  16
+A3     4      2 q     d         .
+irest  4      2 q
+F3     4      2 q     d         .
+irest  4      2 q
+measure 480
+F4     4      1 q     d         .
+rest   4      1 q
+F4     4      1 q     d         .
+rest   4      1 q
+back  16
+F3     4      2 q     d         .
+irest  4      2 q
+F3     4      2 q     d         .
+irest  4      2 q
+measure 481
+*               D +     zu 2
+P    C17:Y-19x-10        C25:f32
+Bf2    4      3 q     u
+D4     4      3 q     d         .
+Bf3    4      3 q     d         .
+D4     4      3 q     d         .
+measure 482
+rest   4      3 q
+Bf3    4      3 q     d         .
+F3     4      3 q     d         .
+Bf3    4      3 q     d         .
+measure 483
+rest   4      3 q
+F3     4      3 q     d         .
+D3     4      3 q     d         .
+F3     4      3 q     d         .
+measure 484
+rest   4      3 q
+D3     4      3 q     u         .
+Bf2    4      3 q     u         .
+D3     4      3 q     u         .
+measure 485
+rest   4      3 q
+F4     4      3 q     d         .
+D4     4      3 q     d         .
+F4     4      3 q     d         .
+measure 486
+rest   4      3 q
+D4     4      3 q     d         .
+Bf3    4      3 q     d         .
+D4     4      3 q     d         .
+measure 487
+rest   4      3 q
+Bf3    4      3 q     d         .
+F3     4      3 q     d         .
+Bf3    4      3 q     d         .
+measure 488
+rest   4      3 q
+F3     4      3 q     d         .
+D3     4      3 q     d         .
+F3     4      3 q     d         .
+measure 489
+Bf2    4      3 q     u         p
+P    C33:Y59
+rest   4      3 q
+rest   8      3 h
+measure 490
+rest  16      3
+measure 491
+F2    16      3 w     u         f
+P    C33:Y74
+measure 492
+F2     8-     3 h     u        -
+F2     7      3 q:    u
+F2     1      3 s     u
+measure 493
+Bf2    4      1 q     u
+D4     4      1 q     d        (p
+P    C33:Y58
+C4     4      1 q     d
+Bf3    4      1 q     d
+back  16
+Bf2    4      2 q     u
+Bf3    4      2 q     d
+A3     4      2 q     d
+G3     4      2 q     d
+measure 494
+A3     4      1 q     d
+G3     4      1 q     d
+F3     4      1 q     d
+G3     4      1 q     d        )
+back  16
+F3     4      2 q     d
+Ef3    4      2 q     d
+D3     4      2 q     d
+Ef3    4      2 q     d
+measure 495
+A3    16      1 w     u         f
+P    C33:Y61
+back  16
+F3    16      2 w     d
+measure 496
+A3     8-     1 h     d        -
+A3     7      1 q:    d
+A3     1      1 s     d
+back  16
+F3     8-     2 h     d        -
+F3     7      2 q:    d
+F3     1      2 s     d
+measure 497
+Bf3    4      1 q     d         p
+P    C33:Y67x2
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 498
+rest  16      3
+measure 499
+rest  16      3
+measure 500
+rest  16      3
+measure 501
+*               DH      crescendo
+P  C25:f36  C17:Y66  C18:Y66
+Bf3   16-     1 w     u        -
+back  16
+D3    16-     2 w     d        -
+measure 502
+Bf3   16      1 w     u
+back  16
+D3    16      2 w     d
+measure 503
+C4    16-     1 w     u        -
+back  16
+F3    16-     2 w     d        -
+measure 504
+*               J
+C4    16      1 w     u
+back  16
+F3    16      2 w     d
+measure 505
+Bf3   16-     1 w     u        -ff
+P    C33:Y62
+back  16
+D3    16-     2 w     d        -
+measure 506
+Bf3   16-     1 w     u        -
+back  16
+D3    16-     2 w     d        -
+measure 507
+Bf3   16-     1 w     u        -
+back  16
+D3    16-     2 w     d        -
+measure 508
+Bf3    8-     1 h     d        -
+Bf3    7      1 q:    d
+Bf3    1      1 s     d
+back  16
+D3     8-     2 h     d        -
+D3     7      2 q:    d
+D3     1      2 s     d
+measure 509
+Bf3    4      1 q     d
+rest   4      1 q
+Bf3    4      1 q     d
+rest   4      1 q
+back  16
+D3     4      2 q     d
+irest  4      2 q
+D3     4      2 q     d
+irest  4      2 q
+measure 510
+Bf3    4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+D3     4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 511
+Bf3    4      1 q     d
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+measure 512
+Bf2    4      1 q     u
+rest   4      1 q
+rest   8      1 h
+back  16
+Bf2    4      2 q     d
+irest  4      2 q
+irest  8      2 h
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:f04d73fb8cdfe8d12367fb9de8914e25]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:5e8d9015a1c88dc648acd0ac5ed3b1ab]
+@REASON: additions and refinements to Beethoven data

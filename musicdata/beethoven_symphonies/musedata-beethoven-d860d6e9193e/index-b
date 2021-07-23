@@ -1,0 +1,77 @@
+INDEX   Ludwig van Beethoven 
+ Format:    (version 12/06/05) 
+
+         2. Data stage flag: 0 = stage1 in progress 
+                             1 = stage1 finished and/or stage2 in progress 
+                             2 = stage2 finished and/or stage2 checking 
+                                   in progress 
+                             3 = stage2 checking finished and/or preparation
+                                   of release files in progress. (e.g. adding
+                                   tags, checking release files, etc.) 
+
+                        Greater than 3, this number is a set of flags 
+                          0x04 = MUSED          release ready 
+                          0x08 = MIDIM          release ready (MIDIminus) 
+                          0x10 = MIDI1          release ready 
+                          0x20 = MIDIP          release ready 
+                          0x40 = KERN (format)  release ready 
+                          0x80 = SCORE (format) release ready 
+                         0x100 = VECT_FULL      release ready 
+                         0x200 = VECT_SHRT      release ready 
+                         0x400 = VECT_VOCL      release ready 
+                         0x800 = VECT_PRTS      release ready 
+                        0x1000 = RAST_FULL      release ready 
+                        0x2000 = RAST_SHRT      release ready 
+                        0x4000 = RAST_VOCL      release ready 
+                        0x8000 = RAST_PRTS      release ready 
+                       0x10000 = 1st Edition    release ready 
+                       0x20000 = 2nd Edition    release ready 
+                                 etc.  
+
+======  Beethoven: String Quartets ====== 
+
+OP18N3   String Quartet in D Major, Op.18, No.3 
+  2: Stage2 done but not checked       
+
+OP59N3   String Quartet in C Major, Op.59, No.3 
+  2: Stage2 done but not checked       
+
+======  Beethoven: Nine Symphonies ====== 
+
+SYM1     Symphony No. 1 in C major, Op. 21 
+  3: STAGE2 in complete
+
+SYM2     Symphony No. 2 in D major, Op. 36 
+  3: STAGE2 in complete
+
+SYM3     Symphony No. 3 in E-flat major, Op. 55 
+  3: STAGE2 in complete
+
+SYM4     Symphony No. 4 in B-flat major, Op. 60 
+  3: STAGE2 in complete
+
+SYM5     Symphony No. 5 in C minor, Op. 67 
+  0x34  MIDI1 and MIDIP releases ready (mvts 1-3) 
+
+SYM6     Symphony No. 6 in F major, Op. 68 
+  3: STAGE2 in complete
+
+SYM7     Symphony No. 7 in A major, Op. 92 
+  3: STAGE2 in complete
+
+SYM8     Symphony No. 8 in F major, Op. 93 
+  3: STAGE2 in complete
+
+SYM9     Symphony No. 9 in D minor, Op. 125 
+  3: STAGE2 in complete
+
+
+======  Beethoven: Concertos ============ 
+
+PIANO2   Piano Concerto No. 2 in B-flat major, Op. 19 
+  0x10  MIDI1 release ready 
+
+VIOLIN   Violin Concerto in D Major, Op.61 
+  2: stage2 finished:  Printout not verified         
+
+END 

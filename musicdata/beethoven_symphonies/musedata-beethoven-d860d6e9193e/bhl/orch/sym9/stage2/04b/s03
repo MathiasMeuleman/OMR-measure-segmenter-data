@@ -1,0 +1,192 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04b/s03}
+TIMESTAMP: MAY/19/2010 [md5sum:5f673d95dec739793725e458c49a737f]
+10/27/03 Fran Bennion
+WK#:125       MV#:4b
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 2 (Recitativo.)
+Clarinetti// in A
+0 0
+Group memberships: score scrcon
+score: part 3 of 14
+scrcon: part 3 of 14
+&
+Modified 09/28/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:-1   Q:2   T:3/4  C:4  X:-11   I:2
+P   C0:p80t3a1r1z31Cl_1-2/(A)
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+@  SCORECON transposition:39
+@  SCORECON instrument number:04
+*               D +     Presto.
+P    C17:y-10  C25:f0
+rest   2      3 q
+rest   2      3 q
+*               D +     zu 2
+P    C17:Y-15x-35  C25:f32
+Df5    2-     3 q f   d        -ff
+P    C33:Y69x-10
+measure 2
+Df5    3      3 q.    d
+C5     1      3 e     d  [      .
+C5     1      3 e     d  =      .
+F5     1      3 e     d  ]      .
+measure 3
+F5     1      1 e     d  [      .
+Af5    1      1 e f   d  =      .
+Af5    1      1 e     d  =      .
+C6     1      1 e     d  =      .
+C6     1      1 e     d  =      .
+F5     1      1 e     d  ]      .
+back   6
+F5     1      2 e     d  [
+Af4    1      2 e f   d  =
+Af4    1      2 e     d  =
+C5     1      2 e     d  =
+C5     1      2 e     d  =
+F4     1      2 e     d  ]
+measure 4
+F5     1      1 e     d  [
+*               D +     zu 2
+P    C17:Y-35  C25:f32
+Af5    1      1 e f   d  =
+Af5    1      1 e     d  =
+C5     1      1 e     d  =
+C5     1      1 e     d  =
+F5     1      1 e     d  ]
+back   6
+F4     1      2 e     d  [
+Af5    1      2 e f   d  =
+Af5    1      2 e     d  =
+C5     1      2 e     d  =
+C5     1      2 e     d  =
+F5     1      2 e     d  ]
+measure 5
+F5     1      3 e     d  [
+Af4    1      3 e f   d  =
+Af4    1      3 e     d  =
+C5     1      3 e     d  =
+C5     1      3 e     d  =
+F4     1      3 e     d  ]
+measure 6
+F4     1      1 e     d  [
+Af5    1      1 e f   d  =
+Af5    1      1 e     d  =
+A5     1      1 e n   d  =
+A5     1      1 e     d  =
+Bf5    1      1 e f   d  ]      +
+back   6
+F4     1      2 e     d  [
+Af4    1      2 e f   d  =
+Af4    1      2 e     d  =
+A4     1      2 e n   d  =
+A4     1      2 e     d  =
+Bf4    1      2 e f   d  ]      +
+measure 7
+Bf5    1      1 e     d  [
+B5     1      1 e n   d  =
+B5     1      1 e     d  =
+F5     1      1 e     d  =
+F5     1      1 e     d  =
+Af5    1      1 e f   d  ]
+back   6
+Bf4    1      2 e     d  [
+B4     1      2 e n   d  =
+B4     1      2 e     d  =
+F4     1      2 e     d  =
+F4     1      2 e     d  =
+Af4    1      2 e f   d  ]
+measure 8
+Af5    2      1 q f   d         .
+C6     2      1 q     d         .
+rest   2      1 q
+back   6
+F5     2      2 q     d
+C5     2      2 q     d
+irest  2      2 q
+measure 9
+*               D +     Recitativo
+P    C17:y-5   C25:f0
+rest   6      3
+measure 10
+rest   6      3
+measure 11
+rest   6      3
+measure 12
+rest   6      3
+measure 13
+rest   6      3
+measure 14
+rest   6      3
+measure 15
+rest   6      3
+measure 16
+rest   6      3
+measure 17
+rest   6      3
+measure 18
+rest   6      3
+measure 19
+rest   6      3
+measure 20
+rest   6      3
+measure 21
+rest   6      3
+measure 22
+rest   2      1 q
+rest   2      1 q
+E5     2      1 q     d         .f
+P   C34:Y65x2
+back   6
+irest  2      2 q
+irest  2      2 q
+C5     2      2 q     d
+mdouble 23
+F5     1      1 e     d  [
+A5     1      1 e n   d  ]      +
+C6     2      1 q     d
+rest   2      1 q
+back   6
+C5     1      2 e     d  [
+F5     1      2 e     d  ]
+F5     2      2 q     d
+irest  2      2 q
+measure 24
+rest   6      3
+measure 25
+rest   6      3
+measure 26
+rest   6      3
+measure 27
+rest   2      1 q
+D5     1      1 e     d         p
+P   C33:Y68
+rest   1      1 e
+F5     1      1 e     d         f
+P    C33:Y63
+rest   1      1 e
+back   6
+irest  2      2 q
+Bf4    1      2 e     d
+irest  1      2 e
+D5     1      2 e     d
+irest  1      2 e
+measure 28
+rest   6      3
+measure 29
+rest   2      1 q
+rest   2      1 q
+E5     2      1 q     d         .f
+P   C34:Y72x2
+back   6
+irest  2      2 q
+irest  2      2 q
+G4     2      2 q     d
+mdouble
+$    T:1/1
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:a01651372f7e4510124094f9997ac32f]
+@REASON: additions and refinements to Beethoven data

@@ -1,0 +1,2506 @@
+(C) 1997, 2002, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym1/stage2/01/s08}
+TIMESTAMP: MAY/19/2010 [md5sum:dfd93202c3fa00d8bc8f2626a05fb4a1]
+01/10/97 Fran Bennion
+WK#:21        MV#:1
+Breitkopf & H\a3rtel, Leipzig, Series 1 No. 1
+Beethoven Symphony No. 1 in C Major, Op. 21
+First Movement
+Violino I
+0 0
+Group memberships: score skore scrcon
+score: part 8 of 11
+skore: part 8 of 11
+scrcon: part 8 of 11
+&
+Modified 03/20/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:0   Q:8   T:1/1  C:4
+Ps#14  C0:p100q8z31Vln_1__
+Pk   C0:p84q8z31V1_
+*               D +     pizz.
+P    C17:Y-9         C25:f32
+E5     8        q     d         f
+P    C33:Y71
+ Bf4   8        q     d
+ G4    8        q f   d
+rest   8        q
+F5     8        q     d         p
+P    C33:Y75
+ A4    8        q     d
+ F4    8        q     d
+rest   8        q
+measure 2
+B4     8        q n   u         +f
+P    C34:Y89
+ F4    8        q     u
+ G3    8        q     u
+rest   8        q
+C5     8        q     u         p
+P    C33:Y82
+ E4    8        q     u
+ A3    8        q     u
+rest   8        q
+measure 3
+*               D       cresc.
+P  C25:f36  C17:Y75
+F#5    8        q #   u
+ C5    8        q     d
+ D4    8        q     d
+rest   8        q
+F#5    8        q     u
+ C5    8        q     d
+ D4    8        q     d
+F#5    8        q     u
+ C5    8        q     d
+ D4    8        q     d
+measure 4
+*               D +     arco.
+P    C17:Y-40        C25:f32
+G5     8        q     u         f
+P    C33:Y89
+ B4    8        q     u
+ D4    8        q     u
+ G3    8        q     u
+rest   4        e
+G#5    4        e #   d        (p
+P    C33:Y58
+A5     4        e     d  [
+F5     4        e n   d  =      +
+D5     4        e     d  =
+C5     4        e     d  ]     )
+measure 5
+B4     6        e.    d  [     (
+D5     1        t     d  =[[
+C5     1        t     d  ]]]   )
+B4     8-       q     d        -
+B4     2        s     d  [[
+C5     2        s     d  ==    (
+D5     2        s     d  ==
+E5     2        s     d  ]]
+F5     2        s     d  [[
+D5     2        s     d  ==
+C5     2        s     d  ==
+B4     2        s     d  ]]    )
+measure 6
+D5     6        e.    d  [     (
+C5     2        s     d  ]\    )
+C5     8-       q     d        -
+C5     2        s     d  [[
+B4     2        s     d  ==    (
+C5     2        s     d  ==
+B4     2        s     d  ]]
+C5     2        s     d  [[
+B4     2        s     d  ==
+C5     2        s     d  ==
+C#5    2        s #   d  ]]    )
+measure 7
+*               D       cresc.
+P  C25:f36  C17:Y63
+D5     6        e.    d  [     (
+Ps#14  C32:Y5  C26:y-10
+Pk   C26:y-10
+F5     1        t     d  =[[
+E5     1        t     d  ]]]   )
+D5     8-       q     d        -
+D5     2        s     d  [[
+C#5    2        s #   d  ==    (
+D5     2        s     d  ==
+E5     2        s     d  ]]
+F5     2        s     d  [[
+G5     2        s     d  ==
+A5     2        s     d  ==
+F5     2        s     d  ]]    )
+Ps#14  C32:y9
+measure 8
+E5     8        q     d         f
+P    C33:Y63
+rest   8        q
+*               D +     ten.
+P  C25:f33  C17:Y-24
+D5     8        q     u         f
+Ps#14  C33:Y62x-22
+Pk   C33:Y88
+ F4    8        q     u
+ A3    8        q     u
+rest   8        q
+measure 9
+C5    12        q.n   u         +p
+Ps#14  C34:Y82x-13
+Pk   C34:Y88
+ E4   12        q.    u
+ G3   12        q.    u
+E5     4        e     d
+*               D       cresc.
+P  C25:f36  C17:Y70
+E5     4        e     d  [     (
+D5     4        e     d  =
+C5     4        e     d  =
+B4     4        e     d  ]     )
+measure 10
+C5     8        q     u         f
+Ps#14  C33:Y83
+Pk   C33:Y86
+ E4    8        q     u
+ A3    8        q     u
+rest   8        q
+*               D +     ten.
+P  C25:f33  C17:Y-24
+A5     8        q     d         f
+Ps#14  C33:Y62x-22
+Pk   C33:Y84
+ C5    8        q     d
+ F4    8        q     d
+rest   8        q
+measure 11
+C5     8        q     u         f
+Ps#14  C33:Y88x-11
+Pk   C33:Y92
+ E4    8        q     u
+ G3    8        q     u
+rest   8        q
+rest  16        h
+measure 12
+G3     4        e     u  [     (p
+Ps#14  C33:Y84x-12
+Pk   C33:Y92
+A3     2        s     u  =[
+B3     2        s     u  ]]
+C4     2        s     u  [[
+D4     2        s     u  ==
+E4     2        s     u  ==
+F#4    2        s #   u  ]]    )
+G4    12        q.    u
+G4     1        t     u  [[[   (
+F4     1        t n   u  ===
+E4     1        t     u  ===
+D4     1        t     u  ]]]   )
+mheavy3 13                      |:
+$    T:0/0
+C4    24        h.    u         p
+Ps#14  C33:Y71
+Pk   C33:Y73
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 14
+C4    24        h.    u
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 15
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+measure 16
+C4     8        q     u         .
+E4     8        q     u         .
+G4     8        q     u         .
+B4     8        q     u         .
+measure 17
+C5     8        q     d
+rest   8        q
+rest  16        h
+measure 18
+rest  16        h
+rest   8        q
+A4     2        s     u  [[    (
+G4     2        s     u  ==
+F4     2        s     u  ==
+E4     2        s     u  ]]    )
+measure 19
+D4    24        h.    u         p
+P    C33:Y68
+A3     6        e.    u  [     (
+C#4    2        s #   u  ]\    )
+measure 20
+D4    24        h.    u
+A3     6        e.    u  [     (
+C#4    2        s #   u  ]\    )
+measure 21
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+A3     4        e     u  =      .
+C#4    4        e #   u  ]      .
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+A3     4        e     u  =      .
+C#4    4        e     u  ]      .
+measure 22
+D4     8        q     u         .
+F4     8        q     u         .
+A4     8        q     u         .
+C#5    8        q #   d         .
+measure 23
+D5     8        q     d
+rest   8        q
+rest  16        h
+measure 24
+*               E   0
+P    C17:Y81
+C4    32        w n   u         t+
+*               F   15
+gB3    5        s     u  [     (
+gC4    5        s     u  ]     )
+measure 25
+B3    24        h.    u         Z
+P    C33:Y82x-4
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 26
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+G3     6        e.    u  =     (
+B3     2        s     u  ]\    )
+measure 27
+D4    24        h.    u         Z
+P    C33:Y72x-4
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 28
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+B3     6        e.    u  =     (
+D4     2        s     u  ]\    )
+measure 29
+F4    24        h.    u         Z
+P    C33:Y64x-4
+B4     6        e.    d  [     (
+D5     2        s     d  ]\    )
+measure 30
+*               E   0
+P    C17:Y95
+F5     4        e     d  [      .
+D5     4        e     d  =      .
+B4     4        e     d  =      .
+G4     4        e     d  ]      .
+F4     4        e     u  [      .
+D4     4        e     u  =      .
+B3     4        e     u  =      .
+G3     4        e     u  ]      .
+*               F   15
+P   C17:x-15
+measure 31
+C4     8        q     u         ff.
+Ps#14  C33:Y95
+Pk   C33:Y85x-4
+rest   8        q
+A5     8        q     d         .
+ C5    8        q     d
+ F4    8        q     d
+rest   8        q
+measure 32
+G5     8        q     d         .
+ C5    8        q     d
+ E4    8        q     d
+rest   8        q
+B4     8        q     u
+ D4    8        q     u
+ G3    8        q     u         .
+rest   8        q
+measure 33
+C5    24        h.    u        (
+P   C32:x4y25
+ E4   24        h.    u
+ G3   24        h.    u
+E5     8        q     d        )
+measure 34
+G5    24        h.    d         Z
+P    C33:Y64x-4
+F5     2        s     d  [[    (
+E5     2        s     d  ==
+D5     2        s     d  ==
+C5     2        s     d  ]]    )
+measure 35
+B4     4        e     u  [
+P    C26:A
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+B4     4        e     u  [
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+measure 36
+B4     4        e     u  [
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+B4     4        e     u  [
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+P    C26:b
+measure 37
+C5     4        e     d  [     (
+B4     4        e     d  =     )
+C5     4        e     d  =      .
+D5     4        e     d  ]      .
+E5     4        e     d  [     (
+D5     4        e     d  =     )
+E5     4        e     d  =      .
+F5     4        e     d  ]      .
+measure 38
+G5     4        e     d  [     (Z
+P    C33:Y64x-4
+F#5    4        e #   d  =     )
+G5     4        e     d  =      .
+F#5    4        e     d  ]      .
+G5     4        e     d  [     (
+E5     4        e     d  =     )
+D5     4        e     d  =      .
+C5     4        e     d  ]      .
+measure 39
+B4     4        e     u  [
+P    C26:A
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+B4     4        e     u  [
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+measure 40
+B4     4        e     u  [
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+B4     4        e     u  [
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  =
+ D4    4        e     u
+B4     4        e     u  ]
+ D4    4        e     u
+P    C26:b
+measure 41
+C5     4        e     d  [      .
+C5     4        e     d  =      .
+G4     4        e     d  =      .
+B4     4        e     d  ]      .
+C5     4        e     d  [      .
+C5     4        e     d  =      .
+A4     4        e     d  =      .
+C#5    4        e #   d  ]      .
+measure 42
+*               DH      crescendo
+P  C25:f36  C17:Y80  C18:Y80x-30
+D5     4        e     d  [      .
+D5     4        e     d  =      .
+A4     4        e     d  =      .
+C#5    4        e #   d  ]      .
+D5     4        e     d  [      .
+D5     4        e     d  =      .
+B4     4        e     d  =      .
+D#5    4        e #   d  ]      .
+measure 43
+E5     4        e     d  [
+E5     4        e     d  =
+C5     4        e     d  =
+E5     4        e     d  ]
+F5     4        e     d  [
+D5     4        e n   d  =      +
+G5     4        e     d  =
+E5     4        e     d  ]
+measure 44
+A5     4        e     d  [
+F5     4        e     d  =
+B5     4        e     d  =
+G5     4        e     d  ]
+C6     4        e     d  [
+A5     4        e     d  =
+E5     4        e     d  =
+F#5    4        e #   d  ]
+*               J
+measure 45
+G5     8        q     d         ff
+P    C33:Y74x-4
+rest   8        q
+rest  16        h
+measure 46
+B5     8        q     d
+ D5    8        q     d
+ G4    8        q     d
+rest   8        q
+C6     8        q     d
+ E5    8        q     d
+ G4    8        q     d
+rest   8        q
+measure 47
+B5     8        q     d
+ D5    8        q     d
+ G4    8        q     d
+rest   8        q
+rest  16        h
+measure 48
+B5     8        q     d
+ D5    8        q     d
+ G4    8        q     d
+rest   8        q
+C6     8        q     d
+ E5    8        q     d
+ G4    8        q     d
+rest   8        q
+measure 49
+B5     8        q     d
+ D5    8        q     d
+ G4    8        q     d
+rest   8        q
+C6     8        q     d
+ E5    8        q     d
+ G4    8        q     d
+rest   8        q
+measure 50
+B5     8        q     d
+ D5    8        q     d
+ G4    8        q     d
+rest   8        q
+C6     8        q     d
+ E5    8        q     d
+ G4    8        q     d
+rest   8        q
+measure 51
+B5     8        q     d
+ D5    8        q     d
+ G4    8        q     d
+rest   8        q
+G5     8        q     d
+ B4    8        q     d
+ D4    8        q     d
+rest   8        q
+measure 52
+*               R       A
+P    C17:Y-20x-30  C25:f44
+G3     8        q     u
+rest   8        q
+rest  16        h
+measure 53
+rest  32
+measure 54
+rest   8        q
+C5     8        q     d         p.
+P    C33:Y64
+A4     8        q     u         .
+F#4    8        q #   u         .
+measure 55
+C4     8        q     u         .
+rest   8        q
+rest  16        h
+measure 56
+B3     8        q     u         .
+D4     8        q     u         .
+G4     8        q     u         .
+B4     8        q     u         .
+measure 57
+A4     8        q     u         .
+rest   8        q
+A5     8        q     d        (Z
+P    C33:Y64x-4
+G5     8        q     d        )
+measure 58
+F#5    8        q #   d         .
+rest   8        q
+A5     8        q     d        (Z
+P    C33:Y64x-4
+G5     8        q     d        )
+measure 59
+F#5    8        q #   d         .
+D5     8        q     d         .
+rest   8        q
+C#5    8        q #   d         .
+measure 60
+D5     8        q     d
+rest   8        q
+rest   8        q
+D5     8        q     d
+measure 61
+G5    16-       h     d        -
+G5     4        e     d  [     (
+F#5    4        e #   d  =
+E5     4        e     d  =
+D5     4        e     d  ]     )
+measure 62
+C5     8        q n   d         +
+rest   8        q
+rest  16        h
+measure 63
+A5    16-       h     d        -
+A5     4        e     d  [     (
+F#5    4        e #   d  =
+D5     4        e     d  =
+C5     4        e     d  ]     )
+measure 64
+B4     8        q     d
+rest   8        q
+rest  16        h
+measure 65
+E5     8        q     d         .
+G5    16        h     d
+Af5    8        q f   d        (Z
+P    C33:Y64x-4
+measure 66
+G5     8        q     d        )
+G5    16        h     d
+G#5    8        q #   d        (Z
+P    C33:Y64x-4
+measure 67
+A5     8        q n   d        )+
+E5     8        q     d        (
+D5     8        q     d
+C5     8        q     d        )
+measure 68
+B4    16        h     u        (
+A4    16        h     u        )
+measure 69
+D6     2        s     d  [[     f
+P    C33:Y64  C26:a
+ D5    2        s     d
+D6     2        s     d  ==
+ D5    2        s     d
+D6     2        s     d  ==
+ D5    2        s     d
+D6     2        s     d  ]]
+ D5    2        s     d
+D6     8        q     d         .
+ D5    8        q     d
+C6     2        s     d  [[     f
+P    C33:Y64  C26:a
+ D5    2        s     d
+C6     2        s     d  ==
+ D5    2        s     d
+C6     2        s     d  ==
+ D5    2        s     d
+C6     2        s     d  ]]
+ D5    2        s     d
+C6     8        q     d         .
+ D5    8        q     d
+measure 70
+B5     2        s     d  [[     f
+P    C33:Y64  C26:a
+ D5    2        s     d
+B5     2        s     d  ==
+ D5    2        s     d
+B5     2        s     d  ==
+ D5    2        s     d
+B5     2        s     d  ]]
+ D5    2        s     d
+B5     8        q     d         .
+ D5    8        q     d
+A5     4        e     d  [      .
+B5     4        e     d  =      .
+C6     4        e     d  =      .
+C#6    4        e #   d  ]      .
+measure 71
+D6     2        s     d  [[     f
+P    C33:Y64  C26:a
+ D5    2        s     d
+D6     2        s     d  ==
+ D5    2        s     d
+D6     2        s     d  ==
+ D5    2        s     d
+D6     2        s     d  ]]
+ D5    2        s     d
+D6     8        q     d         .
+ D5    8        q     d
+C6     2        s n   d  [[     f+
+P    C33:Y64  C26:a
+ D5    2        s     d
+C6     2        s     d  ==
+ D5    2        s     d
+C6     2        s     d  ==
+ D5    2        s     d
+C6     2        s     d  ]]
+ D5    2        s     d
+C6     8        q     d         .
+ D5    8        q     d
+measure 72
+B5     2        s     d  [[     f
+P    C33:Y64  C26:a
+ D5    2        s     d
+B5     2        s     d  ==
+ D5    2        s     d
+B5     2        s     d  ==
+ D5    2        s     d
+B5     2        s     d  ]]
+ D5    2        s     d
+B5     8        q     d         .
+ D5    8        q     d
+A5     4        e     d  [      .
+B5     4        e     d  =      .
+C6     4        e     d  =      .
+C#6    4        e #   d  ]      .
+measure 73
+D6     2        s     d  [[     Z
+P    C33:Y64x-4  C26:A
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+C6     2        s n   d  ==     +
+C6     2        s     d  ]]
+B5     2        s     d  [[
+B5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+F5     2        s n   d  ==     +
+F5     2        s     d  ]]
+measure 74
+E5     2        s     d  [[     Z
+P    C33:Y64x-4
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ]]
+C5     2        s     d  [[
+C5     2        s     d  ==
+B4     2        s     d  ==
+B4     2        s     d  ==
+A4     2        s     d  ==
+A4     2        s     d  ==
+G4     2        s     d  ==
+G4     2        s     d  ]]
+measure 75
+*               E   0
+Ps#14  C17:Y66
+Pk   C17:Y74
+F#4    2        s #   u  [[
+F#4    2        s     u  ==
+G4     2        s     u  ==
+G4     2        s     u  ==
+A4     2        s     u  ==
+A4     2        s     u  ==
+B4     2        s     u  ==
+B4     2        s     u  ]]
+C5     2        s     d  [[
+C5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+F#5    2        s #   d  ==
+F#5    2        s     d  ]]
+P    C26:b
+*               F   15
+P    C17:x-15
+measure 76
+G5     8        q     d         ff.
+P    C33:Y64x-4
+E5     8        q     d         .
+D5     8        q     d         .
+F#4    8        q #   u         .
+measure 77
+*               R       B
+P    C17:Y-20x-20  C25:f44
+G4     8        q     u        (
+Pk   C32:y5
+D4     8        q     u         .pp
+Ps#14  C34:Y82x-6
+Pk   C34:Y86x-6
+D4     8        q     u         .
+D4     8        q     u        ).
+measure 78
+Ef4    8        q f   u        (.
+Ef4    8        q     u         .
+Ef4    8        q     u         .
+Ef4    8        q     u        ).
+measure 79
+Ef4    8        q f   u
+Ef4    8        q     u
+Ef4    8        q     u
+Ef4    8        q     u
+measure 80
+D4     8        q     u
+D4     8        q     u
+D4     8        q     u
+D4     8        q     u
+measure 81
+C4     8        q     u
+C4     8        q     u
+C4     8        q     u
+C4     8        q     u
+measure 82
+C4     8        q     u
+C5     8        q     d
+C5     8        q     d
+C5     8        q     d
+measure 83
+Bf4    8        q f   d
+Bf4    8        q     d
+Bf4    8        q     d
+Bf4    8        q     d
+measure 84
+A4     8        q     u
+A4     8        q     u
+A4     8        q     u
+A4     8        q     u
+measure 85
+A4     8        q     u
+*               DH      cresc.
+P  C25:f36  C17:Y70  C18:Y70x-30
+F#5    8        q #   d
+F#5    8        q     d
+F#5    8        q     d
+measure 86
+G5     8        q     d
+G5     8        q     d
+G5     8        q     d
+G5     8        q     d
+measure 87
+G5     8        q     d
+G5     8        q     d
+F#5    8        q #   d
+F#5    8        q     d
+*               J
+measure 88
+G5    24        h.    d         f
+P    C33:Y70
+D5     6        e.    d  [     (
+F#5    2        s #   d  ]\    )
+measure 89
+G5    24        h.    d         Z
+P    C33:Y64x-4
+D5     6        e.    d  [     (
+F#5    2        s #   d  ]\    )
+measure 90
+G5     4        e     d  [      .Z
+P    C34:Y64x-4
+G5     4        e     d  =     (
+F#5    4        e #   d  =
+G5     4        e     d  ]     )
+A5     4        e     d  [      .Z
+P    C34:Y64x-4
+A5     4        e     d  =     (
+G5     4        e     d  =
+A5     4        e     d  ]     )
+measure 91
+B5     4        e     d  [      .Z
+P    C34:Y64x-4
+B5     4        e     d  =     (
+A5     4        e     d  =
+B5     4        e     d  ]     )
+C6     4        e     d  [      .Z
+P    C34:Y64x-4
+C6     4        e     d  =     (
+B5     4        e     d  =
+C6     4        e     d  ]     )
+measure 92
+D6     2        s     d  [[
+P    C26:A
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ]]
+D6     2        s     d  [[
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ]]
+measure 93
+D#6    2        s #   d  [[
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ]]
+D#6    2        s     d  [[
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ==
+D#6    2        s     d  ]]
+measure 94
+E6     2        s     d  [[     ff
+P    C33:Y64x-4
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ]]
+E6     2        s     d  [[
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ]]
+measure 95
+F6     2        s n   d  [[     +
+F6     2        s     d  ==
+F6     2        s     d  ==
+F6     2        s     d  ]]
+D6     2        s     d  [[
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ]]
+B5     2        s     d  [[
+B5     2        s     d  ==
+B5     2        s     d  ==
+B5     2        s     d  ]]
+G#5    2        s #   d  [[
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ]]
+measure 96
+A5     2        s     d  [[
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+A5     2        s     d  [[
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+measure 97
+Bf5    2        s f   d  [[
+Bf5    2        s     d  ==
+Bf5    2        s     d  ==
+Bf5    2        s     d  ]]
+G5     2        s n   d  [[     +
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+E5     2        s     d  [[
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+C#5    2        s #   d  [[
+C#5    2        s     d  ==
+C#5    2        s     d  ==
+C#5    2        s     d  ]]
+measure 98
+D5     2        s     d  [[     Z
+P    C33:Y71x-4
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ]]
+E5     2        s     d  [[     Z
+P    C33:Y66x-4
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+measure 99
+C5     2        s n   d  [[     Z+
+P    C33:Y74x-4
+C5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ]]
+D5     2        s     d  [[     Z
+P    C33:Y71x-4
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ]]
+P    C26:b
+measure 100
+G4     8        q     u         f
+P    C33:Y64
+rest   8        q
+rest   8        q
+F#5    8        q #   d        (p
+P    C33:Y58
+measure 101
+G5    12        q.    d
+F#5    2        s #   d  [[
+E5     2        s     d  ]]    )
+D5     8        q     d         .
+C5     8        q     d        (Z
+P    C33:Y65x-4
+measure 102
+B4     8        q     d        )
+rest   8        q
+rest   8        q
+F#5    8        q #   d        (
+measure 103
+G5    12        q.    d
+F#5    2        s #   d  [[
+E5     2        s     d  ]]    )
+D5     8        q     d         .
+F#5    8        q     d        (Z
+P    C33:Y64x-4
+measure 104
+G5    12        q.    d
+F#5    2        s #   d  [[
+E5     2        s     d  ]]    )
+D5     8        q     d         .
+F#5    8        q     d        (Z
+Ps#14  C33:Y60
+Pk   C33:Y64x-4
+measure 105
+G5    12        q.    d
+F#5    2        s #   d  [[
+E5     2        s     d  ]]    )
+D5     8        q     d         .
+F#5    8        q     u         ff.
+Ps#14  C33:Y72
+Pk   C33:Y72x-4
+ A4    8        q     u
+ D4    8        q     u
+measure 106
+G5     8        q     u         .
+ B4    8        q     u
+ D4    8        q     u
+ G3    8        q     u
+rest   8        q
+rest  16        h
+measure 107
+rest  32
+measure 108                     start-end1
+B4     8        q     u         ff
+Ps#14  C33:Y89
+Pk   C33:Y93x-4
+ D4    8        q     u
+ G3    8        q     u
+rest   8        q
+rest  16        h
+measure 109
+rest  16        h
+rest   8        q
+G3     6        e.    u  [     (p
+P    C33:Y94
+B3     2        s     u  ]\    )
+mheavy2 110                     stop-end1  start-end2  :|
+B4     8        q     u         ff
+Pk   C33:Y93x-4
+ D4    8        q     u
+ G3    8        q     u
+rest   8        q
+rest  16        h
+measure 111
+rest  32
+mdouble 112                     stop-end2
+A5    24        h.    d         f
+ A4   24        h.    d
+E5     6        e.    d  [     (p
+P    C33:Y61
+G#5    2        s #   d  ]\    )
+measure 113
+A5     4        e     d  [      .
+A5     4        e     d  =      .
+E5     4        e     d  =      .
+G#5    4        e #   d  ]      .
+A5     4        e     d  [      .
+A5     4        e     d  =      .
+E5     4        e     d  =      .
+G#5    4        e     d  ]      .
+measure 114
+A5     8        q     d
+rest   8        q
+rest  16        h
+measure 115
+rest  32
+measure 116
+D6    24        h.    d         f
+ D5   24        h.    d
+A5     6        e.    d  [     (p
+P    C33:Y58
+C#6    2        s #   d  ]\    )
+measure 117
+D6     4        e     d  [      .
+D6     4        e     d  =      .
+A5     4        e     d  =      .
+C#6    4        e #   d  ]      .
+D6     4        e     d  [      .
+D6     4        e     d  =      .
+A5     4        e     d  =      .
+C#6    4        e     d  ]      .
+measure 118
+D6     8        q     d
+rest   8        q
+rest  16        h
+measure 119
+rest  32
+measure 120
+G5    24        h.n   d         f+
+P    C33:Y64
+D5     6        e.    d  [     (p
+P    C33:Y63
+F#5    2        s #   d  ]\    )
+measure 121
+G5     4        e     d  [      .
+G5     4        e     d  =      .
+D5     4        e     d  =      .
+F#5    4        e #   d  ]      .
+G5     4        e     d  [      .
+G5     4        e     d  =      .
+D5     4        e     d  =      .
+F#5    4        e     d  ]      .
+measure 122
+G5     8        q     d
+rest   8        q
+rest  16        h
+measure 123
+rest  32
+measure 124
+C5     8        q     u         f
+P    C33:Y93
+ Ef4   8        q     u
+ G3    8        q f   u
+rest   8        q
+rest  16        h
+measure 125
+rest  32
+measure 126
+C4     8        q     u         .p
+P    C34:Y79
+Ef4    8        q f   u         .
+G4     8        q     u         .
+B4     8        q     u         .
+measure 127
+C5     8        q     d         .
+D5     8        q     d         .
+Ef5    8        q f   d         .
+E5     8        q n   d         .
+measure 128
+F5     8        q     d         f
+P    C33:Y64
+rest   8        q
+rest  16        h
+measure 129
+rest  32
+measure 130
+F4     8        q     u         .p
+P    C34:Y64
+Af4    8        q f   u         .
+C5     8        q     d         .
+E5     8        q n   d         +.
+measure 131
+F5     8        q     d         .
+G5     8        q     d         .
+Af5    8        q f   d         .
+A5     8        q n   d         .
+measure 132
+Bf5    8        q f   d
+rest   8        q
+rest  16        h
+measure 133
+Af5    8        q f   d
+F5     8        q     d
+D5     8        q     d
+Af4    8        q f   u
+measure 134
+G4     8        q     u
+rest   8        q
+rest  16        h
+measure 135
+*               D       cresc.
+P  C25:f36  C17:Y67
+G5     8        q     d
+Ef5    8        q f   d
+Bf4    8        q f   d
+G4     8        q     u
+measure 136
+A4     8        q n   u         ff+
+P    C33:Y64x-4
+rest   8        q
+A5     2        s n   d  [[     +
+P    C26:A
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+measure 137
+A5     2        s n   d  [[     +
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+A5     2        s     d  [[
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+P    C26:b
+measure 138
+Ps#14  C1:]
+Bf5    4        e f   d  [      .p
+P    C34:Y58
+Bf5    4        e     d  =      .
+Bf5    4        e     d  =      .
+Bf5    4        e     d  ]      .
+Af5    4        e f   d  [     (
+G5     4        e     d  =     )
+F5     4        e     d  =      .
+Ef5    4        e f   d  ]      .
+measure 139
+D5     8        q     d
+rest   4        e
+D5     4        e     d         .
+Ef5    4        e f   d  [      .
+F5     4        e     d  =      .
+G5     4        e     d  =      .
+A5     4        e n   d  ]      .+
+measure 140
+Bf5    4        e f   d  [      .
+Bf5    4        e     d  =      .
+Bf5    4        e     d  =      .
+Bf5    4        e     d  ]      .
+Af5    4        e f   d  [     (
+G5     4        e     d  =     )
+F5     4        e     d  =      .
+Ef5    4        e f   d  ]      .
+measure 141
+D5     8        q     d
+rest   4        e
+D5     4        e     d         .
+Ef5    4        e f   d  [      .
+F5     4        e     d  =      .
+G5     4        e     d  =      .
+A5     4        e n   d  ]      .+
+measure 142
+Bf5    4        e f   d  [      .f
+P    C34:Y64
+Bf5    4        e     d  =      .
+Bf5    4        e     d  =      .
+Bf5    4        e     d  ]      .
+Af5    4        e f   d  [     (
+G5     4        e     d  =     )
+F5     4        e     d  =      .
+Ef5    4        e f   d  ]      .
+measure 143
+Bf4    4        e f   d  [      .
+Bf5    4        e f   d  =      .
+Bf5    4        e     d  =      .
+Bf5    4        e     d  ]      .
+Af5    4        e f   d  [     (
+G5     4        e     d  =     )
+F5     4        e     d  =      .
+Ef5    4        e f   d  ]      .
+measure 144
+D5     4        e     d  [      .
+Ef5    4        e f   d  =      .
+F5     4        e     d  =      .
+G5     4        e     d  ]      .
+Af5    4        e f   d  [     (Z
+P    C33:Y63
+G5     4        e     d  =     )
+F5     4        e     d  =      .
+Ef5    4        e f   d  ]      .+
+measure 145
+*               E   15
+P    C17:Y69
+D5     4        e     d  [      .
+Ef5    4        e f   d  =      .
+D5     4        e     d  =      .
+C5     4        e     d  ]      .
+Bf4    4        e f   u  [      .
+Af4    4        e f   u  =      .
+G4     4        e     u  =      .
+F4     4        e     u  ]      .
+*               F   0
+P    C17:x-15
+measure 146
+Ef4    4        e f   u  [      p.
+P    C33:Y69
+Bf4    4        e f   u  =      .
+Bf4    4        e     u  =      .
+Bf4    4        e     u  ]      .
+Bf4    4        e     u  [      .
+Bf4    4        e     u  =      .
+Bf4    4        e     u  =      .
+Af4    4        e f   u  ]      .
+measure 147
+G4     4        e     u  [      .
+Bf4    4        e f   u  =      .
+Bf4    4        e     u  =      .
+Af4    4        e f   u  ]      .
+G4     4        e     u  [      .
+Bf4    4        e     u  =      .
+Bf4    4        e     u  =      .
+Af4    4        e     u  ]      .
+measure 148
+G4     8        q     u
+rest   8        q
+rest   8        q
+Bf3    6        e.f   u  [     (
+D4     2        s     u  ]\    )
+measure 149
+Ef4    8        q f   u
+rest   8        q
+rest  16        h
+measure 150
+Af4    4        e f   d  [      .
+C5     4        e     d  =      .
+C5     4        e     d  =      .
+C5     4        e     d  ]      .
+C5     4        e     d  [      .
+C5     4        e     d  =      .
+C5     4        e     d  =      .
+Bf4    4        e f   d  ]      .
+measure 151
+Af4    4        e f   d  [      .
+C5     4        e     d  =      .
+C5     4        e     d  =      .
+Bf4    4        e f   d  ]      .
+Af4    4        e     d  [      .
+C5     4        e     d  =      .
+C5     4        e     d  =      .
+Bf4    4        e     d  ]      .
+measure 152
+Af4    8        q f   u
+rest   8        q
+rest   8        q
+C5     6        e.    d  [     (
+E5     2        s     d  ]\    )
+measure 153
+F5     8        q     d
+rest   8        q
+rest  16        h
+measure 154
+Bf4    4        e f   d  [      .
+D5     4        e     d  =      .
+D5     4        e     d  =      .
+D5     4        e     d  ]      .
+D5     4        e     d  [      .
+D5     4        e     d  =      .
+D5     4        e     d  =      .
+C5     4        e     d  ]      .
+measure 155
+Bf4    4        e f   d  [      .
+D5     4        e     d  =      .
+D5     4        e     d  =      .
+C5     4        e     d  ]      .
+Bf4    4        e     d  [      .
+D5     4        e     d  =      .
+D5     4        e     d  =      .
+C5     4        e     d  ]      .
+measure 156
+Bf4    8        q f   d
+rest   8        q
+rest   8        q
+D5     6        e.    d  [     (
+F#5    2        s #   d  ]\    )
+measure 157
+G5     8        q     d
+rest   8        q
+rest  16        h
+measure 158
+rest  16        h
+rest   8        q
+A4     6        e.    d  [     (
+C#5    2        s #   d  ]\    )
+measure 159
+D5     8        q     d
+rest   8        q
+rest  16        h
+measure 160
+rest  16        h
+rest   8        q
+E5     6        e.    d  [     (
+G#5    2        s #   d  ]\    )
+measure 161
+A5     8        q     d
+rest   8        q
+rest   8        q
+*               E   0
+P    C17:Y68
+F4     6        e.    u  [
+F4     2        s     u  ]\
+*               F   15
+measure 162
+E4    24        h.    u         ff
+P    C33:Y68x-4
+B3     6        e.    u  [     (
+D#4    2        s #   u  ]\    )
+measure 163
+E4     4        e     u  [      .
+F#4    4        e #   u  =      .
+G#4    4        e #   u  =      .
+A4     4        e     u  ]      .
+B4     4        e     d  [      .
+C5     4        e     d  =      .
+D5     4        e     d  =      .
+B4     4        e     d  ]      .
+measure 164
+Ps#14   C0:p80
+Ps#14   C1:]
+A4     8        q     u
+rest   8        q
+rest  16        h
+measure 165
+rest  16        h
+rest   8        q
+A3     2        s     u  [[    (
+B3     2        s     u  ==
+C4     2        s     u  ==
+D4     2        s     u  ]]    )
+measure 166
+E4    24        h.    u         ff
+P    C33:Y68x-4
+B3     6        e.    u  [     (
+D#4    2        s #   u  ]\    )
+measure 167
+E4     4        e     u  [      .
+F#4    4        e #   u  =      .
+G#4    4        e #   u  =      .
+A4     4        e     u  ]      .
+B4     4        e     d  [      .
+C5     4        e     d  =      .
+D5     4        e     d  =      .
+B4     4        e     d  ]      .
+measure 168
+A4     8        q     u
+rest   8        q
+rest  16        h
+measure 169
+rest  16        h
+rest   8        q
+A3     2        s     u  [[    (
+B3     2        s     u  ==
+C4     2        s     u  ==
+D4     2        s     u  ]]    )
+measure 170
+E4     8        q     u         Z
+P    C33:Y66x-4
+rest   8        q
+rest   8        q
+A3     2        s     u  [[    (
+B3     2        s     u  ==
+C4     2        s     u  ==
+D4     2        s     u  ]]    )
+measure 171
+E4     8        q     u         Z
+P    C33:Y66x-4
+rest   8        q
+rest   8        q
+A3     2        s     u  [[    (
+B3     2        s     u  ==
+C4     2        s     u  ==
+D4     2        s     u  ]]    )
+measure 172
+E4     8        q     u         Z
+P    C33:Y66x-4
+rest   8        q
+rest  16        h
+measure 173
+E5     8        q     u         ff
+P    C33:Y75x-5
+ E4    8        q     u         .
+rest   8        q
+E5     8        q     u
+ E4    8        q     u         .
+rest   8        q
+measure 174
+E5     8        q     u
+ E4    8        q     u         .
+rest   8        q
+rest  16        h
+measure 175
+rest  32
+measure 176
+rest  32
+measure 177
+rest  32
+measure 178
+rest  32
+measure 179
+rest  16        h
+rest   8        q
+*               E   0
+P    C17:Y82
+G4     2        s     u  [[    (
+F4     2        s     u  ==
+E4     2        s     u  ==
+D4     2        s     u  ]]    )
+*               F   15
+P    C17:x-10
+measure 180
+*               R       C
+P    C17:Y-20x-30  C25:f44
+C4    24        h.    u         ff
+P    C33:Y82x-4
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 181
+C4    24        h.    u         Z
+P    C33:Y76x-4
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 182
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+measure 183
+C4     8        q     u         .
+E4     8        q     u         .
+G4     8        q     u         .
+B4     8        q     u         .bu
+measure 184
+C5     8        q     d
+rest   8        q
+rest  16        h
+measure 185
+rest  16        h
+rest   8        q
+*               E   0
+P    C17:Y78
+A4     2        s     u  [[    (
+G4     2        s     u  ==
+F4     2        s     u  ==
+E4     2        s     u  ]]    )
+*               F   15
+P   C17:x-10
+measure 186
+D4    24        h.    u         ff
+P    C33:Y78x-4
+A3     6        e.    u  [     (
+C#4    2        s #   u  ]\    )
+measure 187
+D4    24        h.    u         Z
+P    C33:Y72x-4
+A3     6        e.    u  [     (
+C#4    2        s #   u  ]\    )
+measure 188
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+A3     4        e     u  =      .
+C#4    4        e #   u  ]      .
+D4     4        e     u  [      .
+D4     4        e     u  =      .
+A3     4        e     u  =      .
+C#4    4        e     u  ]      .
+measure 189
+D4     8        q     u         .
+F4     8        q     u         .
+A4     8        q     u         .
+C#5    8        q #   d         .
+measure 190
+D5     8        q     d
+rest   8        q
+rest  16        h
+measure 191
+rest  32
+measure 192
+rest  32
+measure 193
+rest  16        h
+rest   8        q
+*               D       cresc.
+P  C25:f36  C17:Y81
+D5     2        s     d  [[    (
+C5     2        s     d  ==
+B4     2        s     d  ==
+A4     2        s     d  ]]    )
+measure 194
+G4     8        q     u
+rest   8        q
+rest  16        h
+measure 195
+rest  16        h
+rest   8        q
+F5     2        s     d  [[    (
+Ef5    2        s f   d  ==
+D5     2        s     d  ==
+C5     2        s     d  ]]    )
+measure 196
+Bf4    8        q f   d
+rest   8        q
+rest  16        h
+measure 197
+rest  16        h
+rest   8        q
+A5     2        s     d  [[    (
+G5     2        s     d  ==
+F5     2        s     d  ==
+E5     2        s n   d  ]]    )+
+measure 198
+D5     8        q     d
+rest   8        q
+rest  16        h
+measure 199
+Ps#14  C1:]
+rest   8        q
+A5     2        s     d  [[    (ff
+P    C33:Y64x-4
+G5     2        s     d  ==
+F5     2        s     d  ==
+E5     2        s     d  ]]    )
+D5     8        q     d         .
+D5     2        s     d  [[    (
+C5     2        s     d  ==
+B4     2        s n   d  ==     +
+A4     2        s     d  ]]    )
+measure 200
+G4     8        q     u         .
+G5    16        h     d         Z
+P    C33:Y64x-4
+G5     2        s     d  [[    (
+F5     2        s     d  ==
+E5     2        s     d  ==
+D5     2        s     d  ]]    )
+measure 201
+E5     8        q     d         .
+E5     2        s     d  [[    (
+D5     2        s     d  ==
+C5     2        s     d  ==
+B4     2        s     d  ]]    )
+C5     8        q     d         .
+C5     2        s     u  [[    (
+A4     2        s     u  ==
+G4     2        s     u  ==
+F#4    2        s #   u  ]]    )
+measure 202
+G4     8        q     u         .
+G5    16        h     d         Z
+P    C33:Y64x-4
+G5     2        s     d  [[    (
+F5     2        s n   d  ==     +
+E5     2        s     d  ==
+D5     2        s     d  ]]    )
+measure 203
+E5     8        q     d         .
+E5     2        s     d  [[    (
+D5     2        s     d  ==
+C5     2        s     d  ==
+B4     2        s     d  ]]    )
+C5     8        q     d         .
+C5     2        s     u  [[    (
+A4     2        s     u  ==
+G4     2        s     u  ==
+F#4    2        s #   u  ]]    )
+measure 204
+G4     4        e     u  [      .
+A4     4        e     u  =      .
+B4     4        e     u  =      .
+C5     4        e     u  ]      .
+D5     4        e     u  [      Z.
+P    C33:Y64x-4
+C5     4        e     u  =      .
+B4     4        e     u  =      .
+A4     4        e     u  ]      .
+measure 205
+G4     4        e     u  [      .
+A4     4        e     u  =      .
+B4     4        e     u  =      .
+C5     4        e     u  ]      .
+D5     4        e     u  [      Z.
+P    C33:Y64x-4
+C5     4        e     u  =      .
+B4     4        e     u  =      .
+A4     4        e     u  ]      .
+measure 206
+*               R       D
+P    C17:Y-25x-20  C25:f44
+G4     4        e     u  [     (
+F#4    4        e #   u  =
+G4     4        e     u  =
+F#4    4        e     u  ]
+G4     4        e     u  [
+F#4    4        e     u  =
+G4     4        e     u  =
+F#4    4        e     u  ]     )
+measure 207
+G4     4        e     u  [     (
+F#4    4        e #   u  =
+G4     4        e     u  =
+F#4    4        e     u  ]
+G4     4        e     u  [
+F4     4        e n   u  =
+E4     4        e     u  =
+D4     4        e     u  ]     )
+measure 208
+C4     8        q     u         p
+P    C33:Y71
+rest   8        q
+rest  16        h
+measure 209
+F4     8        q     u         .p
+P    C34:Y64
+A4     8        q     u         .
+D5     8        q     d         .
+F5     8        q     d         .
+measure 210
+B4     8        q     d
+rest   8        q
+rest  16        h
+measure 211
+E5     8        q     d         .
+C5     8        q     d         .
+G4     8        q     u         .
+E4     8        q     u         .
+measure 212
+D4     8        q     u         .
+rest   8        q
+F5     8        q     d        (Z
+P    C33:Y64x-4
+E5     8        q     d        )
+measure 213
+rest  16        h
+F5     8        q     d        (Z
+P    C33:Y64x-4
+E5     8        q     d        )
+measure 214
+D5     8        q     d         .
+G5     8        q     d         .
+rest   8        q
+F#5    8        q #   d         .
+measure 215
+G5     8        q     d
+rest   8        q
+rest   8        q
+G4     8        q     u         p
+P    C33:Y60
+measure 216
+C5    16-       h     d        -
+C5     4        e     d  [     (
+B4     4        e     d  =
+A4     4        e     d  =
+G4     4        e     d  ]     )
+measure 217
+F4     8        q     u
+rest   8        q
+rest  16        h
+measure 218
+D5    16-       h     d        -
+D5     4        e     u  [     (
+B4     4        e     u  =
+G4     4        e     u  =
+F4     4        e     u  ]     )
+measure 219
+E4     8        q     u
+rest   8        q
+rest  16        h
+measure 220
+rest   8        q
+C5    16        h     d
+Df5    8        q f   d        (Z
+P    C33:Y64x-4
+measure 221
+Ps#14  C1:]
+C5     8        q     d        ).
+C5    16        h     d
+C#5    8-       q #   d        -Z
+P    C33:Y65x-4
+measure 222
+C#5    8        q     d         .
+D5     8        q     d        (
+E5     8        q     d
+F5     8        q     d        )
+measure 223
+C5    16        h n   d        (+
+B4    16        h n   d        )+
+measure 224
+G5     2        s     d  [[     f
+P    C33:Y64  C26:a
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+G5     8        q     d         .
+F5     2        s     d  [[     f
+P    C33:Y64  C26:a
+F5     2        s     d  ==
+F5     2        s     d  ==
+F5     2        s     d  ]]
+F5     8        q     d         .
+measure 225
+E5     2        s     d  [[     f
+P    C33:Y66  C26:a
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+E5     8        q     d         .
+D5     4        e     d  [      .
+E5     4        e     d  =      .
+F5     4        e     d  =      .
+F#5    4        e #   d  ]      .
+measure 226
+G5     2        s     d  [[     f
+P    C33:Y64  C26:a
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+G5     8        q     d         .
+F5     2        s n   d  [[     +f
+P    C34:Y64  C26:a
+F5     2        s     d  ==
+F5     2        s     d  ==
+F5     2        s     d  ]]
+F5     8        q     d         .
+measure 227
+E5     2        s     d  [[     f
+P    C33:Y66  C26:a
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+E5     8        q     d         .
+D5     4        e     d  [      .
+E5     4        e     d  =      .
+F5     4        e     d  =      .
+F#5    4        e #   d  ]      .
+measure 228
+G5     2        s     d  [[     Z
+P    C33:Y64x-4  C26:a
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+F5     2        s n   d  ==     +
+F5     2        s     d  ]]
+E5     2        s     d  [[
+P     C26:a
+E5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ==
+B4     2        s     d  ==
+B4     2        s     d  ]]
+measure 229
+A4     2        s     d  [[     Z
+P   C26:y-10  C33:Y70x-4
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+A5     2        s     d  [[
+P    C26:A
+A5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+F5     2        s     d  [[
+F5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ]]
+measure 230
+*               E   0
+P    C17:Y64
+B4     2        s     d  [[
+P    C26:y-5
+B4     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ==
+D5     2        s     d  ==
+D5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+F5     2        s     d  [[
+F5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+B5     2        s     d  ==
+B5     2        s     d  ]]
+P    C26:b
+*               F   15
+P   C17:x-15
+measure 231
+C6     8        q     d         ff.
+P   C33:Y64x-4
+A5     8        q     d         .
+G5     8        q     d         .
+B4     8        q     d         .
+measure 232
+*               R       E
+P    C17:Y-25x-20  C25:f44
+C5     8        q     d
+G4     8        q     u        (.pp
+P   C34:Y72x-10   C32:Y-4
+G4     8        q     u         .
+G4     8        q     u        ).
+measure 233
+Af4    8        q f   u
+Af4    8        q     u
+Af4    8        q     u
+Af4    8        q     u
+measure 234
+Af4    8        q f   u
+Af4    8        q     u
+Af4    8        q     u
+Af4    8        q     u
+measure 235
+G4     8        q     u
+G4     8        q     u
+G4     8        q     u
+G4     8        q     u
+measure 236
+Ps#14  C1:]
+F4     8        q     u
+F4     8        q     u
+F4     8        q     u
+F4     8        q     u
+measure 237
+F4     8        q     u
+D5     8        q     d
+D5     8        q     d
+D5     8        q     d
+measure 238
+C5     8        q     d
+C5     8        q     d
+C5     8        q     d
+C5     8        q     d
+measure 239
+C5     8        q     d
+C5     8        q     d
+C5     8        q     d
+C5     8        q     d
+measure 240
+B4     8        q n   d         +
+*               DH      cresc.
+P  C25:f36  C17:Y62  C18:Y62x-30
+F5     8        q     d
+F5     8        q     d
+F5     8        q     d
+measure 241
+E5     8        q n   d         +
+E5     8        q     d
+E5     8        q     d
+E5     8        q     d
+measure 242
+D5     8        q     d
+D5     8        q     d
+D5     8        q     d
+D5     8        q     d
+*               J
+measure 243
+Ps#14  C1:]
+C5    24        h.    d         f
+P    C33:Y63x3
+G4     6        e.    u  [     (
+B4     2        s     u  ]\    )
+measure 244
+C5    24        h.    d         Z
+P    C33:Y65x-4
+G4     6        e.    u  [     (
+B4     2        s     u  ]\    )
+measure 245
+C5     4        e     d  [      .Z
+P    C34:Y71x-4
+C5     4        e     d  =     (
+B4     4        e     d  =
+C5     4        e     d  ]     )
+D5     4        e     d  [      .Z
+P    C34:Y68x-4
+D5     4        e     d  =     (
+C#5    4        e #   d  =
+D5     4        e     d  ]     )
+measure 246
+E5     4        e     d  [      .Z
+P    C34:Y66x-4
+E5     4        e     d  =     (
+D5     4        e     d  =
+E5     4        e     d  ]     )
+F5     4        e     d  [      .Z
+P    C34:Y64x-4
+F5     4        e     d  =     (
+E5     4        e     d  =
+F5     4        e     d  ]     )
+measure 247
+G5     2        s     d  [[
+P    C26:A
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+G5     2        s     d  [[
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+measure 248
+G#5    2        s #   d  [[
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ]]
+G#5    2        s     d  [[
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ==
+G#5    2        s     d  ]]
+measure 249
+A5     2        s     d  [[     ff
+P    C33:Y64x-4
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+A5     2        s     d  [[
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+measure 250
+Bf5    2        s f   d  [[
+Bf5    2        s     d  ==
+Bf5    2        s     d  ==
+Bf5    2        s     d  ]]
+G5     2        s n   d  [[     +
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+E5     2        s     d  [[
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+C#5    2        s #   d  [[
+C#5    2        s     d  ==
+C#5    2        s     d  ==
+C#5    2        s     d  ]]
+P    C26:b
+measure 251
+D5     2        s     d  [[
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ]]
+D6     2        s     d  [[
+P    C26:A
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ]]
+D6     2        s     d  [[
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ==
+D6     2        s     d  ]]
+measure 252
+Ef6    2        s f   d  [[
+Ef6    2        s     d  ==
+Ef6    2        s     d  ==
+Ef6    2        s     d  ]]
+C6     2        s n   d  [[     +
+C6     2        s     d  ==
+C6     2        s     d  ==
+C6     2        s     d  ]]
+A5     2        s     d  [[
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+F#5    2        s #   d  [[
+F#5    2        s     d  ==
+F#5    2        s     d  ==
+F#5    2        s     d  ]]
+measure 253
+G5     2        s     d  [[     Z
+P    C33:Y64x-4
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+A5     2        s     d  [[     Z
+P    C33:Y64x-4
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ==
+A5     2        s     d  ]]
+measure 254
+F5     2        s n   d  [[     Z+
+P    C33:Y64x-4
+F5     2        s     d  ==
+F5     2        s     d  ==
+F5     2        s     d  ==
+F5     2        s     d  ==
+F5     2        s     d  ==
+F5     2        s     d  ==
+F5     2        s     d  ]]
+G5     2        s     d  [[     Z
+P    C33:Y64x-4
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+P    C26:b
+measure 255
+C5     8        q     d
+rest   8        q
+rest   8        q
+B5     8        q     d        (p
+P    C33:Y58
+measure 256
+C6    12        q.    d
+B5     2        s     d  [[
+A5     2        s     d  ]]    )
+G5     8        q     d         .
+F5     8        q     d        (Z
+P    C33:Y64x-4
+measure 257
+E5     8        q     d        )
+rest   8        q
+rest   8        q
+B5     8        q     d        (
+measure 258
+C6    12        q.    d
+B5     2        s     d  [[
+A5     2        s     d  ]]    )
+G5     8        q     d         .
+B5     8        q     d        (Z
+P    C33:Y64x-4
+measure 259
+C6    12        q.    d
+B5     2        s     d  [[
+A5     2        s     d  ]]    )
+G5     8        q     d         .
+B5     8        q     d        (Z
+P    C33:Y64x-4
+measure 260
+C6    12        q.    d
+B5     2        s     d  [[
+A5     2        s     d  ]]    )
+G5     8        q     d         .
+B5     8        q     d         ff.
+P    C33:Y73
+ D5    8        q     d
+ G4    8        q     d
+measure 261
+Pk   C0:p80
+*               R       F
+P    C17:Y-30x-40  C25:f44
+C6     8        q     d         .
+ E5    8        q     d
+ G4    8        q     d
+rest   8        q
+rest  16        h
+measure 262
+rest  16        h
+rest   8        q
+G4     6        e.    u  [     (p
+P    C33:Y62
+B4     2        s     u  ]\    )
+measure 263
+C5     4        e     d  [      .
+C5     4        e     d  =      .
+G4     4        e     d  =      .
+B4     4        e     d  ]      .
+C5     4        e     d  [      .
+C5     4        e     d  =      .
+G4     4        e     d  =      .
+B4     4        e     d  ]      .
+measure 264
+C5     4        e     d  [      .
+C5     4        e     d  =      .
+G4     4        e     d  =      .
+B4     4        e     d  ]      .
+C5     4        e     d  [      .
+C5     4        e     d  =     (
+D5     4        e     d  =
+E5     4        e     d  ]     )
+measure 265
+F5     8        q     d
+rest   8        q
+rest  16        h
+measure 266
+rest  16        h
+rest   8        q
+E5     6        e.    d  [     (p
+P    C33:Y61
+G#5    2        s #   d  ]\    )
+measure 267
+A5     4        e     d  [      .
+A5     4        e     d  =      .
+E5     4        e     d  =      .
+G#5    4        e #   d  ]      .
+A5     4        e     d  [      .
+A5     4        e     d  =      .
+E5     4        e     d  =      .
+G#5    4        e     d  ]      .
+measure 268
+A5     4        e     d  [      .
+A5     4        e     d  =      .
+E5     4        e     d  =      .
+G#5    4        e #   d  ]      .
+A5     4        e     d  [      .
+A5     4        e     d  =     (
+B5     4        e     d  =
+C#6    4        e #   d  ]     )
+measure 269
+D6     8        q     d
+rest   8        q
+rest  16        h
+measure 270
+rest  16        h
+rest   8        q
+*               D       cresc.
+P  C25:f36  C17:Y70
+D5     6        e.    d  [     (
+F#5    2        s #   d  ]\    )
+measure 271
+G5     4        e n   d  [      +.
+G5     4        e     d  =      .
+D5     4        e     d  =      .
+F#5    4        e #   d  ]      .
+G5     4        e     d  [      .
+G5     4        e     d  =      .
+D5     4        e     d  =      .
+F#5    4        e     d  ]      .
+measure 272
+*               E   0
+P    C17:Y65
+G5     4        e     d  [      .
+G5     4        e     d  =      .
+D5     4        e     d  =      .
+F#5    4        e #   d  ]      .
+G5     4        e     d  [      .
+G5     4        e     d  =     (
+A5     4        e     d  =
+B5     4        e     d  ]     )
+*               F   15
+P    C17:x-15
+measure 273
+C6     8        q     d         ff.
+P    C33:Y65x-4
+rest   8        q
+A5     8        q     d         .
+ C5    8        q     d
+ F4    8        q     d
+rest   8        q
+measure 274
+G5     8        q     d         .
+ C5    8        q     d
+ E4    8        q     d
+rest   8        q
+F5     8        q     d         .
+ B4    8        q     d
+ D4    8        q     d
+rest   8        q
+measure 275
+E5     8        q     d         .
+ C5    8        q     d
+rest   8        q
+A5     8        q     d         .
+ C5    8        q     d
+ F4    8        q     d
+rest   8        q
+measure 276
+G5     8        q     d         .
+ C5    8        q     d
+ E4    8        q     d
+rest   8        q
+F5     8        q     d         .
+ B4    8        q     d
+ D4    8        q     d
+rest   8        q
+measure 277
+E5     8        q     d         .
+ C5    8        q     d
+rest   8        q
+A5     8        q     d         .
+ C5    8        q     d
+ F4    8        q     d
+rest   8        q
+measure 278
+G5     8        q     d         .
+ C5    8        q     d
+ E4    8        q     d
+rest   8        q
+B5     8        q     d         .
+ D5    8        q     d
+ G4    8        q     d
+rest   8        q
+measure 279
+C6     8        q     d         ff.
+P    C33:Y74
+ E5    8        q     d
+ G4    8        q     d
+rest   8        q
+rest   8        q
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 280
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+measure 281
+C4     8        q     u
+rest   8        q
+rest  16        h
+measure 282
+C5     8        q     d         .
+C5     8        q     d         .
+E5     8        q     d         .
+G5     8        q     d         .
+measure 283
+C6     8        q     d         Z
+P    C33:Y64x-4
+rest   8        q
+rest   8        q
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 284
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+measure 285
+C4     8        q     u
+rest   8        q
+rest  16        h
+measure 286
+E5     8        q     d         .
+E5     8        q     d         .
+G5     8        q     d         .
+C6     8        q     d         .
+measure 287
+E6     8        q     d         Z
+P    C33:Y64x-4
+rest   8        q
+rest   8        q
+G3     6        e.    u  [     (
+B3     2        s     u  ]\    )
+measure 288
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+C4     4        e     u  [      .
+C4     4        e     u  =      .
+G3     4        e     u  =      .
+B3     4        e     u  ]      .
+measure 289
+C4     8        q     u
+rest   8        q
+rest  16        h
+measure 290
+E5     8        q     d         .
+G5     8        q     d         .
+C6     8        q     d         .
+E6     8        q     d         .
+measure 291
+G6     2        s     d  [[     ff
+P    C33:Y64x-4  C26:A
+G6     2        s     d  ==
+G6     2        s     d  ==
+G6     2        s     d  ]]
+E6     2        s     d  [[
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ]]
+C6     2        s     d  [[
+C6     2        s     d  ==
+C6     2        s     d  ==
+C6     2        s     d  ]]
+G5     2        s     d  [[
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+measure 292
+E6     2        s     d  [[
+E6     2        s     d  ==
+E6     2        s     d  ==
+E6     2        s     d  ]]
+C6     2        s     d  [[
+C6     2        s     d  ==
+C6     2        s     d  ==
+C6     2        s     d  ]]
+G5     2        s     d  [[
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+E5     2        s     d  [[
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+measure 293
+C6     2        s     d  [[
+C6     2        s     d  ==
+C6     2        s     d  ==
+C6     2        s     d  ]]
+G5     2        s     d  [[
+G5     2        s     d  ==
+G5     2        s     d  ==
+G5     2        s     d  ]]
+E5     2        s     d  [[
+E5     2        s     d  ==
+E5     2        s     d  ==
+E5     2        s     d  ]]
+C5     2        s     d  [[
+C5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ]]
+measure 294
+G4     2        s     u  [[
+G4     2        s     u  ==
+G4     2        s     u  ==
+G4     2        s     u  ]]
+C5     2        s     d  [[
+C5     2        s     d  ==
+C5     2        s     d  ==
+C5     2        s     d  ]]
+G4     2        s     u  [[
+G4     2        s     u  ==
+G4     2        s     u  ==
+G4     2        s     u  ]]
+E4     2        s     u  [[
+E4     2        s     u  ==
+E4     2        s     u  ==
+E4     2        s     u  ]]
+P    C26:b
+measure 295
+C4     8        q     u
+rest   8        q
+rest  16        h
+measure 296
+C6     8        q     d
+ E5    8        q     d
+ G4    8        q     d
+rest   8        q
+rest  16        h
+measure 297
+C5     8        q     u
+ E4    8        q     u
+ G3    8        q     u
+rest   8        q
+rest  16        h
+measure 298
+C5     8        q     u
+ E4    8        q     u
+ G3    8        q     u
+rest   8        q
+C5     8        q     u
+ E4    8        q     u
+ G3    8        q     u
+rest   8        q
+measure 299
+C5     8        q     u
+ E4    8        q     u
+ G3    8        q     u
+rest   8        q
+rest  16        h
+measure 300
+rest  32
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/26/2001 [md5sum:27cd71f9c9debb7e64cb69f6193e02be]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:0af41657269d4f2d04e555737fe34379]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:d2fbbdad34189da5a3b78c2feace6cda]
+@REASON: additions and refinements to Beethoven data

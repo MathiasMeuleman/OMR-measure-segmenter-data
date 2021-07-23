@@ -1,0 +1,30 @@
+mskpage 
+** S=7258, P=35870, L=2279, M=1753078 ** 
+Make page files from intermediate files 
+
+Input Library name?  
+i-files/04 
+Output Library name?  
+pages/04 
+starting number 
+4 
+number of parts 
+1 
+transferring   done!  
+Enter a non-blank line if this is a simple test 
+
+Height of new typesetting (return = top) 
+400 
+Line of tacit instructions? (return = none) 
+
+Right justify last line? (return = no) 
+y 
+Movement title?  
+
+Enter brace/bracket/bar structure 
+ [] = bracket and bar () = bar only  {} = brace  dot = part  colon = grandstaff
+(.) 
+Line spacing: text, no text  (return = no change) 
+Otherwise, enter all spacings (max of 15 per line) 
+262 210 
+280 280

@@ -1,0 +1,806 @@
+(C) 2001, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym8/stage2/02/s08}
+TIMESTAMP: MAY/19/2010 [md5sum:d774de47e4c8fd30e70ea4051376d586]
+04/16/01 Fran Bennion
+WK#:93        MV#:2
+Breitkopf & H\a3rtel, Series 1 No. 8, Leipzig
+Beethoven Symphony No. 8 in F Major, Op. 93
+Second Movement
+Viola
+0 0
+Group memberships: score scrcon
+score: part 8 of 9
+scrcon: part 8 of 9
+&
+Modified 08/20/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:-2   Q:48   T:2/4  C:13  I:2  D:Allegretto scherzando
+P   C0:p75t3a1r1z31Vla_
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+rest  96      3
+measure 2
+rest  96      3
+measure 3
+rest  24      3 e
+*               D +     pizz.
+P    C17:Y-10        C25:f32
+F3    24      3 e     u  [      pp
+P    C33:Y62
+F3    24      3 e     u  ]
+rest  24      3 e
+measure 4
+rest  96      3
+measure 5
+rest  48      3 q
+G3    24      3 e     u  [
+Bf3   24      3 e     u  ]
+measure 6
+Bf3   24      3 e     d  [
+rest  12      3 s
+G4    12      3 s     d  ]\
+F#4   24      3 e #   d  [
+C4    24      3 e     d  ]
+measure 7
+Bf3   24      3 e     u
+rest  24      3 e
+rest  48      3 q
+measure 8
+rest  96      3
+measure 9
+*               D +     arco
+P    C17:Y-15        C25:f32
+G4    12      3 s     d
+rest  12      3 s
+G4    12      3 s     d
+A3     6      3 t     u  [[[    .ff
+P    C34:Y68
+C4     6      3 t     u  ]]]    .
+Ef4   36      3 e.    d         Z
+P    C33:Y63
+C4     6      3 t     u  [[[    .p
+P    C34:Y58
+Bf3    6      3 t     u  ]]]    .
+measure 10
+A3    12      3 s     u  [[     .
+Bf3    6      3 t     u  ==[    .
+C4     6      3 t     u  ]]]    .
+F3    12      3 s     u  [[     .
+G3     6      3 t     u  ==[    .
+A3     6      3 t     u  ]]]    .
+Bf3   24      3 e     u
+rest  24      3 e
+measure 11
+rest  12      3 s
+F3    12      3 s     u
+rest  24      3 e
+rest  12      3 s
+F3    12      3 s     u
+rest  24      3 e
+measure 12
+rest  12      3 s
+F3    12      3 s     u
+rest  12      3 s
+F3    12      3 s     u
+F3    24      3 e     u
+rest  24      3 e
+measure 13
+F3     6      3 t     u  [[[
+G3     6      3 t     u  ==]
+F3    12      3 s     u  ]]
+rest  24      3 e
+F3     6      3 t     u  [[[
+G3     6      3 t     u  ==]
+F3    12      3 s     u  ]]
+rest  12      3 s
+Ef4    6      3 t     d  [[[    f
+P    C33:Y74
+F4     6      3 t     d  ]]]
+measure 14
+D4    12      3 s     d  [[
+Ef4    6      3 t     d  ==[    Z
+P    C33:Y78
+F4     6      3 t     d  ]]]
+D4    12      3 s     d  [[
+Ef4    6      3 t     d  ==[    Z
+P    C33:Y78
+F4     6      3 t     d  ]]]
+D4    24      3 e     d
+rest  12      3 s
+A3     6      3 t     u  [[[    p
+P    C33:Y58
+F3     6      3 t     u  ]]]
+measure 15
+Bf3   12      3 s     u  [[
+A3     6      3 t     u  ==[
+F3     6      3 t     u  ]]]
+Bf3   12      3 s     u  [[
+A3     6      3 t     u  ==[
+F3     6      3 t     u  ]]]
+Bf3   24      3 e     u
+rest  12      3 s
+Ef4    6      3 t     d  [[[    f
+P    C33:Y74
+F4     6      3 t     d  ]]]
+measure 16
+D4    12      3 s     d  [[
+Ef4    6      3 t     d  ==[    Z
+P    C33:Y78
+F4     6      3 t     d  ]]]
+D4    12      3 s     d  [[
+Ef4    6      3 t     d  ==[    Z
+P    C33:Y78
+F4     6      3 t     d  ]]]
+D4    24      3 e     d
+rest  12      3 s
+*               D       dimin.
+P  C25:f36  C17:Y72x-30
+Ef4    6      3 t     d  [[[
+F4     6      3 t     d  ]]]
+measure 17
+D4    24      3 e     d
+rest  12      3 s
+Ef4    6      3 t     d  [[[
+F4     6      3 t     d  ]]]
+D4    24      3 e     d
+rest  24      3 e
+measure 18
+rest  24      3 e
+rest  12      3 s
+*               D       cresc.
+P  C25:f36  C17:Y67
+A3     6      3 t     u  [[[    .
+C4     6      3 t     u  ]]]    .
+Bf3   12      3 s     u         .
+rest  12      3 s
+rest  24      3 e
+measure 19
+rest  24      3 e
+rest  12      3 s
+B3     6      3 t n   d  [[[    .
+D4     6      3 t     d  ]]]    .
+C4    12      3 s     d         .
+rest  12      3 s
+rest  12      3 s
+A3     6      3 t     u  [[[    .
+C4     6      3 t     u  ]]]    .
+measure 20
+Bf3   36      3 e.f   u  [      f+
+P    C33:Y63
+G3    12      3 s     u  ]\     .
+A3    36      3 e.    u  [      Z
+P    C33:Y63
+F3    12      3 s     u  ]\     .
+measure 21
+G3    12      3 s     u  [[     .
+E3    12      3 s n   u  ==     .
+C3    12      3 s     u  ==     .
+E3    12      3 s     u  ]]     .
+F3    12      3 s     u  [[     .
+A3    12      3 s     u  ==     .
+C4    12      3 s     u  ==     .
+A3    12      3 s     u  ]]     .
+measure 22
+Bf3   12      3 s     u  [/
+Bf3   24      3 e     u  =      Z
+P    C33:Y63
+G3    12      3 s     u  ]\     t
+P    C33:Y-15
+A3    12      3 s     u  [/
+A3    24      3 e     u  =      Z
+P    C33:Y63
+F3    12      3 s     u  ]\     t
+P    C33:Y-12
+measure 23
+G3    12      3 s     u  [[     .
+E3    12      3 s n   u  ==     .
+C3    12      3 s     u  ==     .
+E3    12      3 s     u  ]]     .
+F3     3      3 x     u  [[[[   ff
+P    C33:Y66
+F3     3      3 x     u  ====
+F3     3      3 x     u  ====
+F3     3      3 x     u  ====
+F3     3      3 x     u  ====
+F3     3      3 x     u  ====
+F3     3      3 x     u  ====
+F3     3      3 x     u  ]]]]
+F3    12      3 s     u
+rest  12      3 s
+measure 24
+rest  24      3 e
+rest  12      3 s
+A3    12      3 s     u  [[     .p
+P    C34:Y63
+F3    12      3 s     u  ]]     .
+rest  12      3 s
+rest  12      3 s
+B3    12      3 s n   u         .
+measure 25
+C4    12      1 s     d         .
+rest  12      1 s
+rest  12      1 s
+C4    12      1 s     u
+F4     3      1 x     u  [[[[   ff
+F3     3      1 x     u  ====
+F3     3      1 x     u  ====
+F3     3      1 x     u  ====
+F3     3      1 x     u  ====
+F3     3      1 x     u  ====
+F3     3      1 x     u  ====
+F3     3      1 x     u  ]]]]
+F3    12      1 s     u
+rest  12      1 s
+back  96
+C4    12      2 s     d
+irest 12      2 s
+irest 12      2 s
+C3    12      2 s     u
+F3     3      2 x     u  [[[[
+F3     3      2 x     u  ====
+F3     3      2 x     u  ====
+F3     3      2 x     u  ====
+F3     3      2 x     u  ====
+F3     3      2 x     u  ====
+F3     3      2 x     u  ====
+F3     3      2 x     u  ]]]]
+F3    12      2 s     u
+irest 12      2 s
+measure 26
+rest  24      3 e
+rest  12      3 s
+A3    12      3 s     u  [[     .p
+P    C34:Y63
+F3    12      3 s     u  ]]     .
+rest  12      3 s
+rest  12      3 s
+*               D       dimin.
+P  C25:f36  C17:Y67x-35
+B3    12      3 s n   u         .
+measure 27
+G3    12      3 s     u         .
+rest  12      3 s
+rest  12      3 s
+F3    12      3 s     u  [[     .
+E3    12      3 s n   u  ]]     .
+rest  12      3 s
+rest  12      3 s
+C3    12      3 s     u         .
+measure 28
+Bf3   12      3 s f   u         .+
+rest  12      3 s
+rest  12      3 s
+A3    12      3 s     u  [[     .pp
+P   C34:Y68
+F3    12      3 s     u  ]]     .
+rest  12      3 s
+rest  12      3 s
+Ef3   12      3 s f   u         +.
+measure 29
+D3    12      3 s     u         .
+rest  12      3 s
+rest  12      3 s
+Df3   12      3 s f   u
+*               D       cresc.
+P  C25:f36  C17:Y88x-5
+C3    48-     3 q     u        -
+measure 30
+C3    48-     3 q     u        -
+C3    12      3 s     u  [/    (
+P    C26:y-5
+C4    24      3 e     u  =
+A3     6      3 t     u  =[[    p
+P    C33:Y67
+C4     6      3 t     u  ]]]   )
+measure 31
+Bf3   12      3 s     u  [[     .
+Bf3   12      3 s     u  ==     .
+Bf3   12      3 s     u  ]]     .
+C4     3      3 x     u  [[[[  (
+Bf3    3      3 x     u  ====
+A3     3      3 x     u  ====
+Bf3    3      3 x     u  ]]]]  )
+A3    12      3 s     u
+rest  12      3 s
+*               D       cresc.
+P  C25:f36  C17:Y90x-5
+C3    12      3 s     u  [[    (
+F3    12      3 s     u  ]]
+measure 32
+E3    12      3 s n   u  [[
+D3    12      3 s     u  ==
+C3    12      3 s     u  ==
+Bf3   12      3 s     u  ]]
+A3    12      3 s     u  [[
+G3    12      3 s     u  ==
+F3    12      3 s     u  ]]    )
+rest  12      3 s
+measure 33
+rest  12      3 s
+Bf3    6      3 t     u  [[[    .p
+P    C34:Y58
+G3     6      3 t     u  ]]]    .
+G3     6      3 t     u  [[[    .
+Bf3    6      3 t     u  ===    .
+G3     6      3 t     u  ===    .
+Bf3    6      3 t     u  ]]]    .
+F3    24      3 e     u  [
+F3    24      3 e     u  ]
+measure 34
+rest  12      3 s
+E3     6      3 t n   u  [[[    .
+G3     6      3 t     u  ==]    .
+F3    12      3 s     u  ]]     .
+rest  12      3 s
+rest  24      3 e
+F3    24      3 e     u
+measure 35
+rest  12      3 s
+E3     6      3 t n   u  [[[    .
+G3     6      3 t     u  ==]    .
+F3    12      3 s     u  ]]     .
+rest  12      3 s
+rest  24      3 e
+F3    24      3 e     u
+measure 36
+rest  12      3 s
+E3     6      3 t n   u  [[[    .
+G3     6      3 t     u  ==]    .
+F3    12      3 s     u  ]]     .
+rest  12      3 s
+rest  24      3 e
+F3    24      3 e     u
+measure 37
+rest  96      3
+measure 38
+rest  96      3
+measure 39
+rest  24      3 e
+rest  12      3 s
+A3    12      3 s     u  [[    (pp
+P    C33:Y65
+Bf3   12      3 s     u  ]]    )
+C4    12      3 s     d  [[    (
+D4    12      3 s     d  ]]    )
+F3    12-     3 s     u        -
+measure 40
+F3    24      3 e     u
+rest  24      3 e
+rest  48      3 q
+measure 41
+rest  96      3
+measure 42
+rest  24      3 e
+*               D +     pizz.
+P    C17:Y-10        C25:f32
+F3    24      3 e     u  [
+F3    24      3 e     u  ]
+rest  24      3 e
+measure 43
+rest  96      3
+measure 44
+rest  48      3 q
+Bf3   12      3 s     u
+rest  12      3 s
+D4    12      3 s     d
+rest  12      3 s
+measure 45
+F4    12      3 s     d
+rest  12      3 s
+Bf4   12      3 s     d
+rest  12      3 s
+A4    12      3 s     d
+rest  12      3 s
+Ef4   12      3 s     u  [[
+ C4   12      3 s     u
+F3    12      3 s     u  ]]
+measure 46
+rest  12      3 s
+F3    12      3 s     u
+rest  12      3 s
+D4    12      3 s     d
+rest  12      3 s
+C4    12      3 s     d
+rest  12      3 s
+A3    12      3 s     u
+ F3   12      3 s     u
+measure 47
+rest  12      3 s
+Bf3   12      3 s     u
+ F3   12      3 s     u
+rest  12      3 s
+D4    12      3 s     d
+rest  12      3 s
+C4    12      3 s     d
+rest  12      3 s
+A3    12      3 s     u
+ F3   12      3 s     u
+measure 48
+rest  12      3 s
+Bf3   12      3 s     u
+ F3   12      3 s     u
+rest  24      3 e
+rest  12      3 s
+*               DH       cresc.
+P  C25:f33  C17:Y70  C18:Y70
+*               D +     arco
+P    C17:Y-27        C25:f32
+A3     6      3 t     u  [[[   (
+Bf3    6      3 t     u  ]]]   )
+Bf3    6      3 t     u  [[[   (
+C4     6      3 t     u  ===   )
+C4     6      3 t     u  ===   (
+A3     6      3 t     u  ]]]   )
+measure 49
+rest  12      3 s
+Bf3    6      3 t     u  [[[   (
+C4     6      3 t     u  ]]]   )
+C4     6      3 t     u  [[[   (
+D4     6      3 t     u  ===   )
+D4     6      3 t     u  ===   (
+Bf3    6      3 t     u  ]]]   )
+rest  12      3 s
+E3     6      3 t n   u  [[[   (
+F3     6      3 t     u  ]]]   )
+F3     6      3 t     u  [[[   (
+G3     6      3 t     u  ===   )
+G3     6      3 t     u  ===   (
+A3     6      3 t     u  ]]]   )
+*               J
+measure 50
+Bf3   36      3 e.    u  [      f
+P   C33:Y65
+G3    12      3 s     u  ]\     .
+A3    36      3 e.    u  [      Z
+P    C33:Y63
+F3    12      3 s     u  ]\     .
+measure 51
+G3    12      3 s     u  [[     .
+E3    12      3 s n   u  ==     .
+C3    12      3 s     u  ==     .
+E3    12      3 s     u  ]]     .
+F3    12      3 s     u
+rest  12      3 s
+rest  24      3 e
+measure 52
+rest  96      3
+measure 53
+Ef4   36      3 e.f   d  [      Z+
+P    C33:Y70
+C4    12      3 s     d  ]\     .
+D4    36      3 e.    d  [      Z
+P    C33:Y74
+Bf3   12      3 s     d  ]\     .
+measure 54
+C4    12      3 s     u  [[     .
+A3    12      3 s     u  ==     .
+F3    12      3 s     u  ==     .
+A3    12      3 s     u  ]]     .
+Bf3   12      3 s     d  [[     .
+D4    12      3 s     d  ==     .
+F4    12      3 s     d  ==     .
+D4    12      3 s     d  ]]     .
+measure 55
+Ef4   12      3 s     d  [/
+Ef4   24      3 e     d  =      Z
+P    C33:Y73
+C4    12      3 s     d  ]\     t
+D4    12      3 s     d  [/
+D4    24      3 e     d  =      Z
+P    C33:Y79
+Bf3   12      3 s     d  ]\     t
+measure 56
+C4    12      3 s     u  [[     .
+A3    12      3 s     u  ==     .
+F3    12      3 s     u  ==     .
+A3    12      3 s     u  ]]     .
+Bf3    3      3 x     u  [[[[   ff
+P   C33:Y53
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ]]]]
+Bf3   12      3 s     u
+rest  12      3 s
+measure 57
+rest  48      3 q
+rest  24      3 e
+rest  12      3 s
+Bf3   12      3 s     u         .p
+P    C34:Y58
+measure 58
+A3    12      3 s     u         .
+rest  12      3 s
+rest  12      3 s
+C4    12      3 s     u
+ F3   12      3 s     u         .
+Bf3    3      3 x     u  [[[[   ff
+P   C33:Y53
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ]]]]
+Bf3   12      3 s     u
+rest  12      3 s
+measure 59
+rest  48      3 q
+rest  24      3 e
+rest  12      3 s
+E3    12      3 s n   u         .p
+P    C34:Y74
+@E3    12      3 s n   u  [[     .p
+measure 60
+@C3    12      3 s     u  ]]     .
+C3    12      3 s     u         .
+rest  12      3 s
+rest  12      3 s
+*               D       dimin.
+P  C25:f36  C17:Y67
+Bf3   12      3 s     u  [[     .
+A3    12      3 s     u  ]]     .
+rest  12      3 s
+rest  12      3 s
+F3    12      3 s     u         .
+@F3    12      3 s     u  [[     .
+measure 61
+@Ef3   12      3 s f   u  ]]     .+
+Ef3   12      3 s f   u         .+
+rest  12      3 s
+rest  12      3 s
+D3    12      3 s     u  [[     .pp
+P   C34:Y80
+Bf3   12      3 s     u  ]]     .
+rest  12      3 s
+rest  12      3 s
+Af3   12      3 s f   u         .
+@Af3   12      3 s f   u  [[     .
+measure 62
+@G3    12      3 s     u  ]]     .
+G3    12      3 s     u         .
+rest  12      3 s
+rest  12      3 s
+Gf3   12      3 s f   u
+*               D       cresc.
+P  C25:f36  C17:Y78
+F3    48-     3 q     u        -
+measure 63
+F3    48-     3 q     u        -
+F3    12      3 s     u  [/
+P    C26:y-4
+F4    24      3 e     u  =     (
+D4     6      3 t     u  =[[    p
+P   C33:Y58
+Bf3    6      3 t     u  ]]]   )
+measure 64
+A3    12      3 s     u  [[     .
+C4    12      3 s     u  ==     .
+C4    12      3 s     u  ]]     .
+D4     3      3 x     u  [[[[  (
+C4     3      3 x     u  ====
+Bf3    3      3 x     u  ====
+C4     3      3 x     u  ]]]]  )
+Bf3   12      3 s     u
+rest  12      3 s
+*               D       cresc.
+P  C25:f36  C17:Y78x-10
+F3    12      3 s     u  [[    (
+Bf3   12      3 s     u  ]]
+measure 65
+A3    12      3 s     u  [[
+G3    12      3 s     u  ==
+F3    12      3 s     u  ==
+Ef4   12      3 s     u  ]]
+D4    12      3 s     u  [[
+C4    12      3 s     u  ==
+Bf3   12      3 s     u  ]]    )
+rest  12      3 s
+measure 66
+rest  12      3 s
+C4     6      3 t     u  [[[    .p
+P    C34:Y58
+A3     6      3 t     u  ]]]    .
+C4     6      3 t     u  [[[    .
+A3     6      3 t     u  ===    .
+C4     6      3 t     u  ===    .
+C4     6      3 t     u  ]]]    .
+Bf3   24      3 e     u  [      .
+Bf3   24      3 e     u  ]      .
+measure 67
+rest  12      3 s
+A3     6      3 t     u  [[[    .
+C4     6      3 t     u  ==]    .
+Bf3   12      3 s     u  ]]     .
+rest  12      3 s
+rest  24      3 e
+Bf3   24      3 e     u
+measure 68
+rest  12      3 s
+A3     6      3 t     u  [[[    .
+C4     6      3 t     u  ==]    .
+Bf3   12      3 s     u  ]]     .
+rest  12      3 s
+rest  24      3 e
+Bf3   24      3 e     u
+measure 69
+rest  12      3 s
+A3     6      3 t     u  [[[    .
+C4     6      3 t     u  ==]    .
+Bf3   12      3 s     u  ]]     .
+rest  12      3 s
+rest  24      3 e
+Bf3   24      3 e     u
+measure 70
+rest  96      3
+measure 71
+rest  96      3
+measure 72
+rest  24      3 e
+rest  12      3 s
+D3    12      3 s     u  [[    (pp
+P   C33:Y76
+Ef3   12      3 s     u  ]]    )
+F3    12      3 s     u  [[    (
+G3    12      3 s     u  ]]    )
+D3    12-     3 s     u        -
+measure 73
+D3    36      3 e.    u
+rest  12      3 s
+rest  48      3 q
+measure 74
+rest  96      3
+measure 75
+rest  96      3
+measure 76
+rest  48      1 q
+rest  24      1 e
+rest  18      1 s.
+G3     6      1 t     u         ff
+P    C33:Y83
+back  96
+irest 48      2 q
+irest 24      2 e
+irest 18      2 s.
+Ef3    6      2 t     u
+measure 77
+Af3    6      1 t     u  [[[
+Af3    6      1 t     u  ===
+Af3    6      1 t     u  ===
+Af3    6      1 t     u  ]]]
+Af3   12      1 s     u
+rest   6      1 t
+G3     3      1 x     u  [[[[   pp
+P    C33:Y74
+Bf3    3      1 x     u  ]]]]
+Af3   24      1 e     u
+rest  18      1 s.
+F3     6      1 t     u         ff
+P    C33:Y80
+back  96
+F3     6      2 t f   u  [[[
+F3     6      2 t     u  ===
+F3     6      2 t     u  ===
+F3     6      2 t     u  ]]]
+F3    12      2 s     u
+irest  6      2 t
+G3     3      2 x     u  [[[[  [
+Bf3    3      2 x     u  ]]]]
+Af3   24      2 e     u        ].
+irest 18      2 s.
+D3     6      2 t     u
+measure 78
+G3     6      1 t     u  [[[
+G3     6      1 t     u  ===
+G3     6      1 t     u  ===
+G3     6      1 t     u  ]]]
+G3    12      1 s     u
+rest   6      1 t
+F3     3      1 x     u  [[[[   pp
+P    C33:Y79
+Af3    3      1 x f   u  ]]]]
+G3    24      1 e     u
+rest  24      1 e
+back  96
+Ef3    6      2 t     u  [[[
+Ef3    6      2 t     u  ===
+Ef3    6      2 t     u  ===
+Ef3    6      2 t     u  ]]]
+Ef3   12      2 s     u
+irest  6      2 t
+F3     3      2 x     u  [[[[  [
+Af3    3      2 x f   u  ]]]]
+G3    24      2 e     u        ].
+irest 24      2 e
+measure 79
+Ef4    4      3 t  6  d  [[[    *pp
+P    C34:Y73
+Ef4    4      3 t  6  d  ===
+Ef4    4      3 t  6  d  ===
+Ef4    4      3 t  6  d  ===
+Ef4    4      3 t  6  d  ===
+Ef4    4      3 t  6  d  ]]]    !
+D4     4      3 t  6  d  [[[    *
+D4     4      3 t  6  d  ===
+D4     4      3 t  6  d  ===
+C4     4      3 t  6  d  ===
+C4     4      3 t  6  d  ===
+C4     4      3 t  6  d  ]]]    !
+Bf3    4      3 t  6  d  [[[    *
+Bf3    4      3 t  6  d  ===
+Bf3    4      3 t  6  d  ===
+Ef4    4      3 t  6  d  ===
+Ef4    4      3 t  6  d  ===
+Ef4    4      3 t  6  d  ]]]    !
+D4     4      3 t  6  d  [[[    *
+D4     4      3 t  6  d  ===
+D4     4      3 t  6  d  ===
+C4     4      3 t  6  d  ===
+C4     4      3 t  6  d  ===
+C4     4      3 t  6  d  ]]]    !
+measure 80
+*               D       cresc.
+P  C25:f36  C17:Y90
+Bf3    3      3 x     d  [[[[
+Bf3    3      3 x     d  ====
+Ef4    3      3 x     d  ====
+Ef4    3      3 x     d  ]]]]
+D4     3      3 x     d  [[[[
+D4     3      3 x     d  ====
+C4     3      3 x     d  ====
+C4     3      3 x     d  ]]]]
+Bf3    3      3 x     d  [[[[
+Bf3    3      3 x     d  ====
+Ef4    3      3 x     d  ====
+Ef4    3      3 x     d  ]]]]
+D4     3      3 x     d  [[[[
+D4     3      3 x     d  ====
+C4     3      3 x     d  ====
+C4     3      3 x     d  ]]]]
+Bf3    3      3 x     d  [[[[
+Bf3    3      3 x     d  ====
+Ef4    3      3 x     d  ====
+Ef4    3      3 x     d  ]]]]
+D4     3      3 x     d  [[[[
+D4     3      3 x     d  ====
+C4     3      3 x     d  ====
+C4     3      3 x     d  ]]]]
+Bf3    3      3 x     d  [[[[
+Bf3    3      3 x     d  ====
+Ef4    3      3 x     d  ====
+Ef4    3      3 x     d  ]]]]
+D4     3      3 x     d  [[[[
+D4     3      3 x     d  ====
+C4     3      3 x     d  ====
+C4     3      3 x     d  ]]]]
+measure 81
+Bf3    3      3 x     u  [[[[   ff
+P    C33:Y63
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ]]]]
+Bf3    3      3 x     u  [[[[
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ====
+Bf3    3      3 x     u  ]]]]
+Bf3   24      3 e     u
+rest  24      3 e
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:f92851ecccb56109476b52e1e2663676]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:2072271b9029f1b74267772201f63fc8]
+@REASON: additions and refinements to Beethoven data

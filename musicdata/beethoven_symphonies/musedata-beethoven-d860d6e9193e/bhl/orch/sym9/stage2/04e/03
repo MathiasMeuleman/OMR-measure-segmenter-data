@@ -1,0 +1,285 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04e/03}
+TIMESTAMP: MAY/19/2010 [md5sum:b238d3bddb2fe8c9f6c95a3dee6a485a]
+09/30/03 Fran Bennion
+WK#:125       MV#:4e
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Movement 4e
+Flauto 2
+0 0
+Group memberships: sound data
+sound: part 2 of 25
+data: part 2 of 25
+&
+segmented sound file; by W Hewlett 12/22/2005
+&
+Pv4.00
+$  K:1   Q:6   T:3/2  C:4
+P   C0:p80
+*               D +     Andante maestoso. (\0& = 72.)
+P    C17:y-30  C25:f0
+rest  12        h
+measure 1
+rest  36
+measure 2
+rest  36
+measure 3
+rest  36
+measure 4
+rest  36
+measure 5
+rest  36
+measure 6
+rest  36
+measure 7
+rest  36
+measure 8
+rest  12        h
+rest  12        h
+B5    12-       h     d        -f
+P    C33:Y60
+measure 9
+B5    24        w     d
+B5    12        h     d
+measure 10
+A5    12        h     d         .
+F#5   12        h     d         .
+G5    12-       h     d        -
+measure 11
+G5    24        w     d
+G5    12        h     d         .
+measure 12
+G5    12        h     d         .
+G5    12        h     d         .
+B5    12-       h     d        -Z
+P    C33:Y60
+measure 13
+B5    12        h     d
+A5    12        h     d
+A5    12        h     d
+measure 14
+F#5   12        h     d
+E5    24        w     d         Z
+P    C33:Y61
+measure 15
+C6    24        w     d         ff
+P    C33:Y61
+C6     6        q     d        (
+A5     3        e     d  [
+G5     3        e     d  ]     )
+measure 16
+F#5   36        w.    d
+measure 17
+rest  36
+measure 18
+rest  36
+measure 19
+rest  36
+measure 20
+rest  36
+measure 21
+rest  36
+measure 22
+rest  36
+measure 23
+rest  36
+mdouble 24
+$   K:-1
+*               D +     Adagio ma non troppo, ma divoto. (\0& = 60.)
+P    C17:y-30  C25:f0
+rest  36
+measure 25
+rest  36
+measure 26
+rest   6        q
+C6     6        q     d        [f
+P    C33:Y60
+D6    18        h.    d        ]
+D6     6        q     d
+measure 27
+D6    24        w     d
+D6    12        h     d
+measure 28
+D6    24        w     d
+Bf5   12-       h     d        -Z
+P    C33:Y60
+measure 29
+Bf5   24        w     d
+G5    12        h     d
+measure 30
+G5    12        h     d        [
+F5    12        h n   d        ]
+E5    12        h     d
+measure 31
+A5    18        h.    d
+B5     6        q     d
+C6    12        h     d
+measure 32
+C6    12        h     d         .
+B5    12        h     d         .
+D5    12-       h     d        -p
+P    C33:Y60
+mdouble 33
+$    K:-2
+*               D +     Adagio ma non troppo, ma divoto. (\0& = 60.)
+P    C17:y-30  C25:f0
+*               E   0
+P    C17:Y68
+*     18        F   15
+D5    24-       w     d        -
+*               E   15
+P    C17:Y68x-10
+D5     6        q     d        [
+*               F   0
+G4     6        q     u        ]
+measure 34
+E4    24        w     u
+E4    12-       h     u        -
+measure 35
+*               D       cresc.
+P  C25:f33  C17:Y69
+E4    12        h     u
+F#4   18        h.    u
+G4     6        q     u
+measure 36
+G4    12        h     u         .
+A4    12        h     u         .
+*               EG  0   p
+P   C17:Y65 C18:Y65
+D5    12-       h     d        -
+measure 37
+*               F   15
+*               E   15
+P    C17:Y65x10
+*     16        F   0
+D5    24-       w     d        -
+D5     6        q     d
+G4     6        q     u         .
+measure 38
+E4    12        h     u         .
+E4    12        h     u         .
+E4    12-       h     u        -
+measure 39
+*               D       cresc.
+P  C25:f33  C17:Y69
+E4    12        h     u
+F#4   18        h.    u
+G4     6        q     u
+measure 40
+G4    12        h     u         .
+A4    12        h     u         .
+Bf4   12-       h f   d        -pp
+P    C33:Y68
+measure 41
+*               D       cresc.
+P  C25:f33  C17:Y65
+Bf4   24        w     d
+Bf4   12        h f   d
+measure 42
+C5    24        w     d
+C5    12        h     d
+measure 43
+D5    12        h     d
+D5    12        h     d
+E5    12-       h     d        -ff
+P    C33:Y61
+measure 44
+E5    24        w     d
+G4    12-       h     u        -p
+P    C33:Y59
+measure 45
+G4    24        w     u         pp
+P    C33:Y59
+G4    12        h     u
+measure 46
+*               D       cresc.
+P  C25:f33  C17:Y65
+E5    24        w     d
+E5    12        h     d
+measure 47
+F5    24        w n   d
+F5    12        h     d
+measure 48
+F#5   36        w.    d         f
+P    C33:Y61
+measure 49
+rest  12        h
+G5    18        h.    d         ff
+P    C33:Y61
+Ef6    6        q f   d         +
+measure 50
+Ef6   24        w f   d
+Ef6   12        h     d
+measure 51
+Ef6   12        h f   d
+Ef6   24        w     d
+measure 52
+Ef6   24        w f   d
+Ef6   12        h     d
+measure 53
+rest  36
+measure 54
+rest  12        h
+rest  12        h
+C#6   12-       h #   d        -pp
+P    C33:Y56
+measure 55
+C#6   24        w     d
+C#6   12-       h #   d        -
+measure 56
+C#6   12        h     d
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+measure 57
+E6     4        q  3  d        [.*pp
+P    C35:Y56
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+*               D       sempre pp
+P  C25:f33  C32:f1  C17:Y64
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+measure 58
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+measure 59
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+measure 60
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.*
+E6     4        q  3  d         .
+E6     4        q  3  d        ].!
+E6     4        q  3  d        [.
+E6     4        q  3  d        ].
+E6     4        q  3  d         F
+mdouble 61
+$    K:2  T:6/4
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:74c459e474f2ff0bd4b1eb997d2d6262]
+@REASON: additions and refinements to Beethoven data

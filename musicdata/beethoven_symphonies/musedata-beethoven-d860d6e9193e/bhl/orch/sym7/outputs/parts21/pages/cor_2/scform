@@ -1,0 +1,52 @@
+& 
+Comments: 
+VJ-1    = vertically justify proportionally to 2800 
+VJ-2    = vertically justify proportionally to 2800; with x2 space between systems
+VJ-3    = vertically justify proportionally to 2800; use only inter-system space
+VJ-4(#,#,etc. ) = vertically justify to 2800; use only space below designated lines in system
+VJ-5(#,#,etc. ) = vertically justify to 2800; use only space below designated lines on page  
+  For VJ-4 and VJ-5, if a system or line is designated with a plus sign, it means "add space"
+  below this line.  The amount of space (in 10ths of interline distance) is given in 
+  square parentheses.  
+VEX-# = vertically expand by adding specified distance (10ths of interline) between all lines
+MTX(#[x],#[x],etc.)   = move text lines for these line numbers, amount in square parentheses
+                          is expressed in 10ths of interline distance.  A positive number
+                          moves the text line down.  
+MFG(#[x],#[x],etc.)   = move figured harmony for these line numbers, amount in square
+                          parentheses is expressed in 10ths of interline distance.  A
+                          positive number moves the text line down.  
+    
+
+
+& 
+source lib = g:/beethoven/bhl/orch/sym7/outputs/parts21/pages/cor_2 
+destin lib = g:/beethoven/bhl/orch/sym7/editions/beta-2008/parts/cor_2 
+blank page = X 46 575 120 This page is blank 
+page id header = X 37 1200C 2950 
+page id format = Beethoven Symphony No. 7 in A Major, Op. 92: Horn II - page ~page    (c) by CCARH 2008
+Z MPG-global 
+Z 1 Ludwig van Beethoven 
+Z 2 Symphony No. 7 in A Major, Op. 92 
+Z 3             
+Z 4 Parts            
+Z 5 300 dots/inch
+Z 6 14 dots per staff line
+Z 7  
+
+Page    Source          Instructions 
+------------------------------------------------------------------- 
+001     01/01           VJ-6(0,-16,-31,-34,-17,-23,-41,-49,-63,-83) 
+002     01/02           VJ-6(0,-11,10,11,14,16,20,22,24,27) 
+003     01/03           VJ-6(0,3,4,6,7,14,18,20,24,27) 
+004     01/04           VJ-6(0,3,6,9,11,14,18,20,24,27) 
+005     01/05           VJ-6(0,41,82,123,164,205,247) 
+006     02/01           VJ-6(0,-2,-10,-11,-18,-15,-14,-17,-19,-21) 
+007     03/01           VJ-6(0,7,13,20,26,33,39,46) 
+008     03/02           VJ-6(0,-9,-17,-26,-34,-43,-51,-60,-69) 
+009     03/03           VJ-6(0,-9,-17,-26,-34,-43,-51,-60,-69) 
+010     03/04           VJ-6(0,-9,-17,-26,-34,-43,-51,-60,-69) 
+011     03/05           VJ-6(0,13,27,40,53,67,80,93) 
+012     04/01           VJ-6(0,0,0,-1,-1,-1,-1,-2,-2) 
+013     04/02           VJ-6(0,6,11,17,23,29,34,40,46) 
+014     04/03           VJ-6(0,6,11,17,23,29,34,40,46) 
+015     04/04           VJ-6(0,6,11,17,23,29,34,40,46) 

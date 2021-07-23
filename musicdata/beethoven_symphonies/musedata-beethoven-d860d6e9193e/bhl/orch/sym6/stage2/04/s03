@@ -1,0 +1,869 @@
+(C) 2001, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym6/stage2/04/s03}
+TIMESTAMP: MAY/19/2010 [md5sum:12829775a2765c08a94a97170706aa74]
+03/09/01 Fran Bennion
+WK#:68        MV#:4
+Breitkopf & H\a3rtel, Series 1 No. 6, Leipzig
+Beethoven Symphony No. 6 in F Major, Op. 68
+Fourth Movement: Gewitter Sturm
+Oboi 1, 2
+0 0
+Group memberships: score scrcon
+score: part 3 of 15
+scrcon: part 3 of 15
+&
+Modified 06/14/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:-4   Q:2   T:4/4   C:4   I:2
+P   C0:p88t3a1r1z31Ob_1-2
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+rest   8      3
+measure 2
+P   C0:x1
+rest   8      3
+measure 3
+rest   8      3
+measure 4
+rest   8      3
+measure 5
+rest   8      3
+measure 6
+rest   8      3
+measure 7
+rest   8      3
+measure 8
+rest   8      3
+measure 9
+*               D +     1.
+P    C17:x-10Y-10     C25:f32
+Cf5    8-     1 w f   d        -p
+P    C33:Y58
+measure 10
+Cf5    8      1 w     d
+measure 11
+rest   8      3
+measure 12
+rest   8      3
+measure 13
+rest   8      3
+measure 14
+rest   8      3
+measure 15
+rest   8      3
+measure 16
+rest   8      3
+measure 17
+rest   8      3
+measure 18
+rest   8      3
+measure 19
+*               D +     1.
+P    C17:x-10Y-10     C25:f32
+*               D       cresc.
+P   C25:f36   C17:Y65
+Df5    8-     1 w     d        -
+measure 20
+Df5    8      1 w     d
+measure 21
+C6     8-     1 w     d        -ff
+P    C33:Y63
+back   8
+Af5    8-     2 w     d        -
+measure 22
+C6     8      1 w     d
+back   8
+Af5    8      2 w     d
+measure 23
+C6     8-     1 w     d        -
+back   8
+Af5    8-     2 w     d        -
+measure 24
+C6     8      1 w     d
+back   8
+Af5    8      2 w     d
+measure 25
+Bf5    8-     1 w     d        -ff
+P    C33:Y63
+back   8
+Df5    8-     2 w     d        -
+measure 26
+Bf5    8      1 w     d
+back   8
+Df5    8      2 w     d
+measure 27
+Bf5    8-     1 w     d        -
+back   8
+Df5    8-     2 w     d        -
+measure 28
+Bf5    8      1 w     d
+back   8
+Df5    8      2 w     d
+measure 29
+C6     8-     1 w     u        -
+back   8
+C5     2      2 q     d
+Ef5    6-     2 h.f   d        -+
+measure 30
+C6     8      1 w     d
+back   8
+Ef5    8      2 w     d
+measure 31
+C6     8-     1 w     d        -
+back   8
+Ef5    8-     2 w     d        -
+measure 32
+C6     8      1 w     d
+back   8
+Ef5    8      2 w     d
+measure 33
+Df6    1      1 e     d         Z
+P    C33:Y63
+rest   1      1 e
+F5     1      1 e     d
+rest   1      1 e
+rest   4      1 h
+back   8
+Df5    1      2 e     d
+irest  1      2 e
+Df5    1      2 e     d
+irest  1      2 e
+irest  4      2 h
+measure 34
+Af5    1      1 e     d         Z
+P    C33:Y63
+rest   1      1 e
+Af5    1      1 e     d
+rest   1      1 e
+rest   4      1 h
+back   8
+F5     1      2 e     d
+irest  1      2 e
+F5     1      2 e     d
+irest  1      2 e
+irest  4      2 h
+measure 35
+G5     2      1 q     d
+rest   2      1 q
+C6     4-     1 h     d        -Z
+P    C33:Y65
+back   8
+E5     2      2 q n   d
+irest  2      2 q
+C5     4-     2 h     d        -
+measure 36
+C6     2      1 q     d
+rest   2      1 q
+rest   4      1 h
+back   8
+C5     2      2 q     d
+irest  2      2 q
+irest  4      2 h
+measure 37
+Af5    2      1 q     d
+rest   2      1 q
+Af5    4-     1 h     d        -Z
+P    C33:Y70
+back   8
+Af4    2      2 q     d
+irest  2      2 q
+Af4    4-     2 h     d        -
+measure 38
+Af5    2      1 q     d
+rest   2      1 q
+rest   4      1 h
+back   8
+Af4    2      2 q     d
+irest  2      2 q
+irest  4      2 h
+measure 39
+F5     2      1 q     d
+rest   2      1 q
+*               D +     zu 2
+P    C17:Y-16x-20     C25:f32
+F5     3      1 q.    d         Z
+P    C33:Y63
+C5     1      1 e     d
+back   8
+F4     2      2 q     d
+irest  2      2 q
+F5     3      2 q.    d
+C5     1      2 e     d
+measure 40
+Df5    1      3 e     d  [
+Af5    1      3 e     d  =
+Bf5    1      3 e     d  =
+F5     1      3 e     d  ]
+Gf5    1      3 e f   d  [
+F5     1      3 e     d  =
+F5     1      3 e     d  =
+Ef5    1      3 e     d  ]
+measure 41
+Df5    2      3 q     d         p
+P    C33:Y58
+rest   2      3 q
+rest   4      3 h
+measure 42
+rest   8      3
+measure 43
+rest   2      1 q
+Af5    1      1 e     d         Z
+P    C33:Y63
+rest   1      1 e
+rest   4      1 h
+back   8
+irest  2      2 q
+F5     1      2 e     d
+irest  1      2 e
+irest  4      2 h
+measure 44
+rest   8      3
+measure 45
+rest   8      3
+measure 46
+rest   8      3
+measure 47
+rest   2      1 q
+F5     1      1 e     d         Z
+P    C33:Y63
+rest   1      1 e
+rest   4      1 h
+back   8
+irest  2      2 q
+D5     1      2 e n   d
+irest  1      2 e
+irest  4      2 h
+measure 48
+rest   8      3
+measure 49
+rest   8      3
+measure 50
+rest   8      3
+measure 51
+rest   2      1 q
+A5     1      1 e n   d         f
+P    C33:Y63
+rest   1      1 e
+rest   4      1 h
+back   8
+irest  2      2 q
+Ef5    1      2 e     d
+irest  1      2 e
+irest  4      2 h
+measure 52
+rest   2      1 q
+A5     1      1 e n   d         f
+P    C33:Y63
+rest   1      1 e
+rest   4      1 h
+back   8
+irest  2      2 q
+Ef5    1      2 e     d
+irest  1      2 e
+irest  4      2 h
+measure 53
+rest   2      1 q
+F5     1      1 e     d         f
+P    C33:Y63
+rest   1      1 e
+rest   4      1 h
+back   8
+irest  2      2 q
+Df5    1      2 e     d
+irest  1      2 e
+irest  4      2 h
+measure 54
+rest   2      1 q
+F5     1      1 e     d         f
+P    C33:Y63
+rest   1      1 e
+rest   4      1 h
+back   8
+irest  2      2 q
+D5     1      2 e n   d
+irest  1      2 e
+irest  4      2 h
+measure 55
+rest   2      1 q
+*               D       pi\u8 f
+P   C25:f33   C31:f1   C17:Y65
+G5     1      1 e     d
+rest   1      1 e
+rest   2      1 q
+G5     1      1 e     d
+rest   1      1 e
+back   8
+irest  2      2 q
+Ef5    1      2 e     d
+irest  1      2 e
+irest  2      2 q
+E5     1      2 e n   d
+irest  1      2 e
+measure 56
+G5     1      1 e     d
+rest   1      1 e
+rest   2      1 q
+rest   4      1 h
+back   8
+E5     1      2 e n   d
+irest  1      2 e
+irest  2      2 q
+irest  4      2 h
+measure 57
+rest   8      3
+measure 58
+rest   8      3
+measure 59
+*               D +     1.
+P    C17:x-10Y-30     C25:f32
+Bf5    8-     1 w     d        -p
+P   C33:Y54
+measure 60
+Bf5    8-     1 w     d        -
+measure 61
+Bf5    8      1 w     d
+measure 62
+rest   8      3
+measure 63
+rest   8      3
+measure 64
+rest   8      3
+measure 65
+rest   8      3
+measure 66
+rest   2      1 q
+A5     1      1 e n   d  [      pp
+P    C33:Y58
+A5     1      1 e     d  ]
+A5     2      1 q     d
+A5     2      1 q     d
+back   8
+irest  2      2 q
+F#5    1      2 e #   d  [
+F#5    1      2 e     d  ]
+F#5    2      2 q     d
+F#5    2      2 q     d
+measure 67
+rest   2      1 q
+A5     1      1 e n   d  [
+A5     1      1 e     d  ]
+A5     2      1 q     d
+A5     2      1 q     d
+back   8
+irest  2      2 q
+F#5    1      2 e #   d  [
+F#5    1      2 e     d  ]
+F#5    2      2 q     d
+F#5    2      2 q     d
+measure 68
+rest   8      3
+measure 69
+rest   8      3
+measure 70
+rest   2      1 q
+C6     1      1 e     d  [      pp
+P    C33:Y58
+C6     1      1 e     d  ]
+C6     1      1 e     d  [
+C6     1      1 e     d  ]
+C6     2      1 q     d
+back   8
+irest  2      2 q
+A5     1      2 e n   d  [
+A5     1      2 e     d  ]
+A5     1      2 e     d  [
+A5     1      2 e     d  ]
+A5     2      2 q     d
+measure 71
+rest   2      1 q
+C6     1      1 e     d  [
+C6     1      1 e     d  ]
+C6     1      1 e     d  [
+C6     1      1 e     d  ]
+C6     2      1 q     d
+back   8
+irest  2      2 q
+A5     1      2 e n   d  [
+A5     1      2 e     d  ]
+A5     1      2 e     d  [
+A5     1      2 e     d  ]
+A5     2      2 q     d
+measure 72
+rest   8      3
+measure 73
+rest   2      1 q
+P    C1:Y0
+*               D       cresc.
+P   C25:f36   C17:Y67
+Gf5    2      1 q f   u        (
+A5     4      1 h n   u        )
+back   8
+rest   4      2 h
+P   C1:Y30
+rest   2      2 q
+P   C1:Y30
+Ef5    2      2 q     d
+measure 74
+rest   8      3
+measure 75
+rest   2      1 q
+P    C1:Y0
+Gf5    2      1 q f   u        (
+Bf5    4      1 h     u        )
+back   8
+rest   4      2 h
+P   C1:Y30
+rest   2      2 q
+P   C1:Y30
+Df5    2      2 q     d
+measure 76
+rest   8      3
+measure 77
+rest   2      1 q
+P    C1:Y0
+Af5    2      1 q     u        (
+B5     4      1 h n   u        )
+back   8
+rest   4      2 h
+P   C1:Y30
+rest   2      2 q
+P   C1:Y30
+D5     2      2 q n   d
+measure 78
+G5     2      1 q     d         ff
+P    C33:Y75
+G5     6-     1 h.    d        -Z
+P    C33:Y75
+back   8
+G4     2      2 q     d
+G4     6-     2 h.    d        -
+measure 79
+G5     2      1 q     d
+G5     6-     1 h.    d        -Z
+P    C33:Y75
+back   8
+G4     2      2 q     d
+G4     6-     2 h.    d        -
+measure 80
+G5     2      1 q     d
+G5     6      1 h.    d         Z
+P    C33:Y75
+back   8
+G4     2      2 q     d
+G4     6      2 h.    d
+measure 81
+Af5    2      1 q     d
+Af5    6-     1 h.    d        -Z
+P    C33:Y72
+back   8
+Af4    2      2 q     d
+Af4    6-     2 h.    d        -
+measure 82
+Af5    2      1 q     d
+Af5    6-     1 h.    d        -Z
+P    C33:Y72
+back   8
+Af4    2      2 q     d
+Af4    6-     2 h.    d        -
+measure 83
+Af5    2      1 q     d
+Af5    6-     1 h.    d        -Z
+P    C33:Y72
+back   8
+Af4    2      2 q     d
+Af4    6-     2 h.    d        -
+measure 84
+Af5    2      1 q     d
+Af5    4      1 h     d         Z
+P    C33:Y72
+A5     2      1 q n   d
+back   8
+Af4    2      2 q     d
+Af4    4      2 h     d
+A4     2      2 q n   d
+measure 85
+Bf5    2      1 q     d
+Bf5    6-     1 h.    d        -Z
+P    C33:Y69
+back   8
+Bf4    2      2 q     d
+Bf4    6-     2 h.    d        -
+measure 86
+Bf5    2      1 q     d
+Bf5    6-     1 h.    d        -Z
+P    C33:Y69
+back   8
+Bf4    2      2 q     d
+Bf4    6-     2 h.    d        -
+measure 87
+Bf5    2      1 q     d
+Bf5    6-     1 h.    d        -Z
+P    C33:Y69
+back   8
+Bf4    2      2 q     d
+Bf4    6-     2 h.    d        -
+measure 88
+Bf5    2      1 q     d
+Bf5    4      1 h     d         Z
+P    C33:Y69
+C6     2      1 q     d
+back   8
+Bf4    2      2 q     d
+Bf4    4      2 h     d
+C5     2      2 q     d
+measure 89
+Df6    3      1 q.    d
+F5     1      1 e     d
+F5     4-     1 h     d        -Z
+P    C33:Y63
+back   8
+Df5    3      2 q.    d
+Df5    1      2 e     d
+Df5    4-     2 h     d        -
+measure 90
+F5     2      1 q     d
+rest   2      1 q
+rest   4      1 h
+back   8
+Df5    2      2 q     d
+irest  2      2 q
+irest  4      2 h
+measure 91
+Df6    3      1 q.    d
+Bf5    1      1 e     d
+Bf5    4-     1 h     d        -Z
+P    C33:Y63
+back   8
+F5     3      2 q.    d
+Df5    1      2 e     d
+Df5    4-     2 h     d        -
+measure 92
+Bf5    2      1 q     d
+rest   2      1 q
+rest   4      1 h
+back   8
+Df5    2      2 q     d
+irest  2      2 q
+irest  4      2 h
+measure 93
+Bf5    3      1 q.    d
+Gf5    1      1 e f   d
+Gf5    4-     1 h     d        -Z
+P    C33:Y75
+back   8
+Gf5    3      2 q.f   d
+Gf4    1      2 e f   d
+Gf4    4-     2 h     d        -
+measure 94
+Gf5    4-     1 h     d        -
+Gf5    3      1 q.    d        (
+G5     1      1 e     d        )
+back   8
+Gf4    4-     2 h     d        -
+Gf4    3      2 q.    d        [
+G4     1      2 e     d        ]
+measure 95
+G5     1      1 e     d  [     (
+F#5    1      1 e #   d  ]
+G5     6-     1 h.    d        -)fp
+P    C34:Y78
+back   8
+G4     1      2 e     d  [
+F#4    1      2 e #   d  ]
+G4     6-     2 h.    d        -
+measure 96
+G5     4-     1 h     d        -
+*               D       cresc.
+P   C25:f36   C17:Y76
+G5     4-     1 h     d        -
+back   8
+G4     4-     2 h     d        -
+G4     4-     2 h     d        -
+measure 97
+G5     8-     1 w     d        -
+back   8
+G4     8-     2 w     d        -
+measure 98
+G5     8-     1 w     d        -
+back   8
+G4     8-     2 w     d        -
+measure 99
+G5     1      1 e     d  [
+F#5    1      1 e #   d  ]     (
+G5     6-     1 h.    d        -)fp
+P    C34:Y78
+back   8
+G4     1      2 e     d  [
+F#4    1      2 e #   d  ]
+G4     6-     2 h.    d        -
+measure 100
+G5     4-     1 h     d        -
+*               D       cresc.
+P   C25:f36   C17:Y78
+G5     4-     1 h     d        -
+back   8
+G4     4-     2 h     d        -
+G4     4-     2 h     d        -
+measure 101
+G5     8-     1 w     d        -
+back   8
+G4     8-     2 w     d        -
+measure 102
+G5     8-     1 w     d        -
+back   8
+G4     8-     2 w     d        -
+measure 103
+G5     1      1 e     d  [
+*               D       sempre pi\u8 f
+P   C25:f33   C38:f1   C17:Y83
+F#5    1      1 e #   d  ]     (
+G5     6-     1 h.    d        -)
+back   8
+G4     1      2 e     d  [
+F#4    1      2 e #   d  ]
+G4     6-     2 h.    d        -
+measure 104
+G5     1      1 e     d  [
+F#5    1      1 e #   d  ]     (
+G5     6-     1 h.    d        -)
+back   8
+G4     1      2 e     d  [
+F#4    1      2 e #   d  ]
+G4     6-     2 h.    d        -
+measure 105
+G5     1      1 e     d  [
+G5     1      1 e     d  ]     (
+Af5    6-     1 h.    d        -)
+back   8
+G4     1      2 e     d  [
+G4     1      2 e     d  ]
+Af4    6-     2 h.    d        -
+measure 106
+Af5    1      1 e     d  [
+G5     1      1 e     d  ]     (
+Af5    2      1 q     d        )
+A5     1      1 e n   d  [
+B5     1      1 e n   d  ]
+C6     2-     1 q     d        -ff
+P    C33:Y63
+back   8
+Af4    1      2 e     d  [
+G4     1      2 e     d  ]
+Af4    2      2 q     d
+A4     1      2 e n   d  [
+G#5    1      2 e #   d  ]
+A5     2-     2 q n   d
+measure 107
+C6     8-     1 w     d        -
+back   8
+A5     8-     2 w     d        -
+measure 108
+C6     8-     1 w     d        -
+back   8
+A5     8-     2 w     d        -
+measure 109
+C6     8-     1 w     d        -
+back   8
+A5     8-     2 w     d        -
+measure 110
+C6     8      1 w     d
+back   8
+A5     8      2 w     d
+measure 111
+C6     8      1 w     d
+back   8
+A5     8      2 w n   d
+measure 112
+C6     8      1 w     d         Z
+P    C33:Y63
+back   8
+Ef5    8      2 w     d
+measure 113
+F5     8      1 w     d
+back   8
+Df5    8      2 w     d
+measure 114
+Bf5    8      1 w     d         Z
+P    C33:Y63
+back   8
+Df5    8      2 w     d
+measure 115
+A5     8      1 w n   d
+back   8
+C5     8      2 w     d
+measure 116
+F5     8      1 w     d         Z
+P    C33:Y63
+back   8
+Ef5    8      2 w     d
+measure 117
+F5     8      1 w     d
+back   8
+Df5    8      2 w     d
+measure 118
+*               GE  15  Z
+P   C17:Y65   C18:Y65
+G5     8      1 w     d
+*               F   0
+P    C17:x-20
+back   8
+E5     8      2 w n   d
+measure 119
+F5     2      1 q     u         p
+P    C33:Y58
+rest   2      1 q
+rest   4      1 h
+back   8
+F5     2      2 q     d
+irest  2      2 q
+irest  4      2 h
+measure 120
+rest   8      3
+measure 121
+rest   8      3
+measure 122
+rest   8      3
+measure 123
+P   C0:x0
+rest   8      3
+measure 124
+rest   8      3
+measure 125
+rest   8      3
+measure 126
+rest   2      1 q
+*               D +     1.
+P    C17:x-20Y-20     C25:f32
+*               D       sempre dimin.
+P   C25:f33   C17:Y67
+Af5    6-     1 h.    d        -
+measure 127
+Af5    2      1 q     d
+Af5    6-     1 h.    d        -
+P   C32:o
+measure 128
+Af5    2      1 q     u
+Af5    6-     1 h.    u        -
+back   8
+rest   2      2 q
+P    C1:Y40
+F5     6-     2 h.    d        -
+measure 129
+Af5    2      1 q     d
+Af5    6-     1 h.    d        -
+back   8
+F5     2      2 q     d
+F5     6-     2 h.    d        -
+measure 130
+Af5    8-     1 w     d        -p
+P    C33:Y58
+back   8
+F5     8-     2 w     d        -
+measure 131
+Af5    8      1 w     d
+back   8
+F5     8      2 w     d
+measure 132
+*               DH       pi\u8 dimin.
+P   C25:f36   C17:Y67   C18:Y67
+G5     8-     1 w     d        -
+back   8
+F5     8-     2 w     d        -
+measure 133
+G5     8-     1 w     d        -
+back   8
+F5     8-     2 w     d        -
+measure 134
+G5     8-     1 w     d        -
+back   8
+F5     8-     2 w     d        -
+measure 135
+G5     8      1 w     d
+back   8
+F5     8      2 w     d
+*               J
+measure 136
+G5     2      1 q     d         pp
+P   C33:Y60
+rest   2      1 q
+rest   4      1 h
+back   8
+E5     2      2 q n   d
+irest  2      2 q
+irest  4      2 h
+measure 137
+rest   8      3
+measure 138
+rest   8      3
+measure 139
+rest   8      3
+measure 140
+rest   8      3
+measure 141
+rest   8      3
+measure 142
+rest   8      3
+measure 143
+rest   8      3
+measure 144
+rest   8      3
+measure 145
+rest   8      3
+measure 146
+rest   4      1 h
+*               D +     1.
+P    C17:x-25Y-15     C25:f32
+*               D       dolce
+P   C25:f36   C17:Y67x-10
+G5     4      1 h     d        (
+measure 147
+A5     4      1 h n   d
+G5     4      1 h     d
+measure 148
+F5     4      1 h     d
+E5     4      1 h n   d
+measure 149
+D5     8      1 w n   d        )
+measure 150
+C5     4      1 h     u        (
+P    C32:Y10
+G5     4      1 h     u
+back   8
+rest   4      2 h
+P    C1:Y40
+E5     4      2 h n   d        [
+measure 151
+A5     4      1 h n   d
+G5     4      1 h     d
+back   8
+F5     4      2 h     d
+E5     4      2 h n   d
+measure 152
+F5     4      1 h     d
+E5     4      1 h n   d
+back   8
+C5     4      2 h     d        ]
+C5     4      2 h     d
+measure 153
+D5     4      1 h n   u
+C5     4      1 h     u        )
+back   8
+rest   4      2 h
+P    C1:Y40
+G4     4      2 h     d
+measure 154
+B4     8-     1 w n   u        -
+back   8
+F4     8-     2 w     u        -
+measure 155
+B4     8      1 w     u
+back   8
+F4     8      2 w     u
+mdouble
+$    K:-1
+/END
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:727b80ea916d3dcc494e3c62001778b7]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:24da485f65640243d3637738e30f7ba8]
+@REASON: additions and refinements to Beethoven data

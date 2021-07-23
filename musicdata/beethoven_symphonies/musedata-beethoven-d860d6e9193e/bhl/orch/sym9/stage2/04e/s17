@@ -1,0 +1,272 @@
+(C) 2005, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04e/s17}
+TIMESTAMP: MAY/19/2010 [md5sum:6f2c508238a4a56bc4a200b989d3a593]
+05/16/05 Fran Bennion
+WK#:125       MV#:4e
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 5 (Chorus Andante maestoso)
+Tenore
+0 0 T
+Group memberships: score scrcon
+score: part 17 of 21
+scrcon: part 17 of 21
+&
+Modified 09/30/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:1   Q:1   T:3/2  C:34
+P   C0:t3a1r1v140z31T.__
+@  SCORECON instrument number:27
+*               D +     Andante maestoso. (\0& = 72.)
+P    C17:y-30  C25:f0
+rest   2        h
+measure 1
+P    C0:x1
+*               G +     ff
+P    C17:Y-10
+G3     4        w     u                    Seid
+G3     2        h     u         .          um-
+measure 2
+F#3    2        h     u         .          schlun-
+D3     2        h     u         .          gen,
+E4     2-       h     d        -           Mil-
+measure 3
+E4     4        w     d                    -
+E4     2        h     d         .          li-
+measure 4
+D4     2        h     d         .          o-
+B3     2        h     d         .          nen!
+rest   2        h
+measure 5
+C4     4        w     d                    Die-
+C4     2        h     d                    sen
+measure 6
+B3     2        h     d                    Kuss
+G3     4        w     u                    der
+measure 7
+*               G +     ff
+P    C17:Y-12
+E4     4        w     d                    gan-
+E4     2        h     d                    zen
+measure 8
+D4     6        w.    d                    Welt!
+measure 9
+rest   2        h
+*               G +     f
+P    C17:Y-11
+D4     2        h     d         .          Seid
+D4     2        h     d         .          um-
+measure 10
+D4     2        h     d         .          schlun-
+D4     2        h     d         .          gen,
+rest   2        h
+measure 11
+E4     4        w     d                    Mil-
+C4     2        h     d                    li-
+measure 12
+B3     2        h     d                    o-
+B3     2        h     d                    nen!
+rest   2        h
+measure 13
+rest   2        h
+*               G +     sf
+P    C17:Y-10
+C4     2        h     d                    Die-
+E4     2        h     d                    sen
+measure 14
+D#4    2        h #   d                    Kuss
+*               G +     sf
+P    C17:Y-12
+E4     4        w     d                    der
+measure 15
+*               G +     ff
+P    C17:Y-21
+G4     4        w     d                    gan-
+G4     2        h     d                    zen
+measure 16
+F#4    6        w.    d                    Welt!
+measure 17
+C4     2        h     d        (           Br\u3-
+D4     3        h.    d        )           -
+C4     1        q     d                    der!
+measure 18
+rest   2        h
+F4     3        h.n   d                    \u3-
+F4     1        q     d                    ber'm
+measure 19
+F4     4        w n   d                    Ster-
+F4     2        h     d                    nen-
+measure 20
+F4     4        w n   d                    zelt
+rest   2        h
+measure 21
+D4     4        w     d                    muss
+C4     2        h     d                    ein
+measure 22
+C4     2        h     d        (           lie-
+A3     2        h     u        )           -
+G3     2        h     u                    ber
+measure 23
+*               G +     sf
+P    C17:Y-18
+F4     4        w n   d                    Va-
+E4     2        h     d                    ter
+mdouble 24
+$   K:-1
+E4     2        h     d         .          woh-
+D4     2        h     d         .          nen.
+rest   2        h
+measure 25
+A3     2        h     u        (           Br\u3-
+Bf3    3        h.f   d        )           -
+A3     1        q     u                    der!
+measure 26
+rest   1        q
+F4     1-       q n   d        -           \u3-
+F4     3        h.    d                    -
+F4     1        q     d                    ber'm
+measure 27
+F4     4        w n   d                    Ster-
+F4     2        h     d                    nen-
+measure 28
+F4     4        w n   d                    zelt
+*               G +     sf
+P    C17:Y-18
+F4     2-       h     d        -           muss_
+measure 29
+F4     4        w     d                    _
+E4     2        h     d                    ein
+measure 30
+E4     2        h     d        (           lie-
+C4     2        h     d        )           -
+C4     2        h     d                    ber
+measure 31
+C4     3        h.    d        (           Va-
+D4     1        q     d        )           -
+E4     1        q     d        (           ter_
+F4     1        q n   d        )           _
+measure 32
+G4     2        h     d                    woh-
+G4     2        h     d                    nen.
+rest   2        h
+mdouble 33
+$    K:-2
+*               D +     Adagio ma non troppo, ma divoto. (\0& = 60.)
+P    C17:y-30  C25:f0
+rest   6
+measure 34
+rest   6
+measure 35
+rest   6
+measure 36
+rest   6
+measure 37
+*               E   0
+P    C17:Y-18
+*      1        F   15
+P    C17:x-20
+*      2        E   15
+P    C17:Y-18x-20
+D4     4-       w     d        -           Ihr
+*               F   0
+P    C17:x10
+D4     1        q     d
+D3     1        q     u                    st\u3rzt
+measure 38
+C3     2        h     u         .          nie-
+P   C33:a
+C3     2        h     u         .          der,
+P   C33:a                       .
+rest   2        h
+measure 39
+*               D +     cresc.
+P  C25:f36  C17:Y-10
+C3     2        h     u        (           Mil-
+D3     3        h.    u        )           -
+D3     1        q     u                    li-
+measure 40
+D4     2        h     d         .          o-
+D4     2        h     d         .          nen?
+rest   2        h
+measure 41
+*               D +     cresc.
+P  C25:f36  C17:Y-12
+Bf3    4        w f   d                    Ah-
+Bf3    2        h     d                    nest
+measure 42
+A3     4-       w     d        -           du_
+A3     1        q     u                    _
+F4     1        q n   d                    den
+measure 43
+F4     2        h n   d                    Sch\o3p-
+D4     2        h     d                    fer,
+rest   2        h
+measure 44
+*               G +     ff
+P    C17:Y-10
+C4     4        w     d                    Welt?
+rest   2        h
+measure 45
+*               G +     pp
+P    C17:Y-10
+G3     4        w     u                    Such'
+G3     2        h     u                    ihn
+measure 46
+*               D +     cresc.
+P   C25:f36  C17:Y-10
+C4     4        w     d                    \u3-
+C4     2        h     d                    ber'm
+measure 47
+F4     4        w n   d                    Ster-
+F4     2        h     d                    nen-
+measure 48
+*               G +     f
+P    C17:Y-12
+D4     6        w.    d                    zelt!
+measure 49
+rest   2        h
+*               G +     ff
+P    C17:Y-23
+G4     3        h.    d                    \U3-
+G4     1        q     d                    ber
+measure 50
+G4     4        w     d                    Ster-
+G4     2        h     d                    nen
+measure 51
+G4     2        h     d                    muss
+G4     4        w     d                    er
+measure 52
+*               G +     sf
+P    C17:Y-22
+G4     4        w     d                    woh-
+G4     2        h     d                    nen,
+measure 53
+rest   6
+measure 54
+rest   6
+measure 55
+rest   6
+measure 56
+rest   6
+measure 57
+rest   2        h
+*               G +     pp
+P    C17:Y-10
+C#4    3        h.#   d                    \u3-
+C#4    1        q     d                    ber
+measure 58
+C#4    4        w #   d                    Ster-
+C#4    2        h     d                    nen
+measure 59
+C#4    2        h #   d                    muss
+C#4    4        w     d                    er
+measure 60
+C#4    4        w #   d                    woh-
+C#4    2        h     d         F          nen.
+mdouble 61
+$    K:2  T:6/4
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:beee622a4271b23d4448c35f1996d479]
+@REASON: additions and refinements to Beethoven data

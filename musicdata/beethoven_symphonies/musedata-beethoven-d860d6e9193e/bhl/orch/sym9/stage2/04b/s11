@@ -1,0 +1,162 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04b/s11}
+TIMESTAMP: MAY/19/2010 [md5sum:f3d1416b0321d61c4189cace39f58537]
+10/27/03 Fran Bennion
+WK#:125       MV#:4b
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 2 (Recitativo.)
+Violino II
+0 0
+Group memberships: score scrcon
+score: part 11 of 14
+scrcon: part 11 of 14
+&
+Modified 09/28/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:-1   Q:2   T:3/4  C:4
+P   C0:p80t3a1r1z31Vln_2__
+@  SCORECON instrument number:17
+*               D +     Presto.
+P    C17:y-10  C25:f0
+rest   2        q
+rest   2        q
+G5     2-       q     d        -ff
+P    C33:Y64x-6
+ E5    2-       q     d        -
+measure 2
+G5     3        q.    d
+ E5    3        q.    d
+F5     1        e     d  [      .
+ D5    1        e     d
+F5     1        e     d  =      .
+ D5    1        e     d
+D6     1        e     d  ]      .
+measure 3
+D6     1        e     d  [
+F5     1        e     d  =
+F5     1        e     d  =
+A5     1        e     d  =
+A5     1        e     d  =
+D5     1        e     d  ]
+measure 4
+D5     1        e     d  [
+F5     1        e     d  =
+F5     1        e     d  =
+A4     1        e     d  =
+A4     1        e     d  =
+D5     1        e     d  ]
+measure 5
+D5     1        e     u  [
+F4     1        e     u  =
+F4     1        e     u  =
+A4     1        e     u  =
+A4     1        e     u  =
+D4     1        e     u  ]
+measure 6
+D4     1        e     d  [
+A4     1        e     d  =
+A4     1        e     d  =
+A5     1        e     d  =
+A5     1        e     d  =
+D5     1        e     d  ]
+measure 7
+D5     1        e     u  [
+D5     1        e     u  =
+D5     1        e     u  =
+G#3    1        e #   u  =
+G#3    1        e     u  =
+D5     1        e     u  ]
+ F4    1        e     u
+measure 8
+D5     2        q     u
+ F4    2        q     u         .
+A5     2        q     d         .
+ A4    2        q     d
+rest   2        q
+measure 9
+*               D +     Recitativo
+P    C17:y-5   C25:f0
+rest   6
+measure 10
+rest   6
+measure 11
+rest   6
+measure 12
+rest   6
+measure 13
+rest   6
+measure 14
+rest   2        q
+A3     4-       h     u        -(p
+P    C34:Y94     C33:y8
+measure 15
+A3     2        q     u
+B3     2        q n   u
+G#4    2-       q #   u        -)
+measure 16
+B4     6-       h.    u        -
+ G#4   6-       h.    u        -
+measure 17
+*               D       colla voce
+P  C25:f36  C17:Y72
+B4     6-       h.    u        -
+ G#4   6-       h.    u        -
+measure 18
+B4     6-       h.    u        -
+ G#4   6-       h.    u        -
+measure 19
+B4     6-       h.    u        -
+ G#4   6-       h.    u        -
+measure 20
+B4     6-       h.    u        -
+ G#4   6-       h.    u        -
+measure 21
+B4     6        h.    u
+ G#4   6        h.    u
+measure 22
+rest   2        q
+rest   2        q
+E5     2        q #   d         .f
+P    C34:Y65
+ C#5   2        q     d
+mdouble 23
+$    K:2
+A5     1        e     d  [
+ A4    1        e     d
+A5     1        e     d  ]
+ A4    1        e     d
+D6     2        q     d
+ A4    2        q     d
+rest   2        q
+measure 24
+rest   6
+measure 25
+rest   6
+measure 26
+rest   6
+measure 27
+rest   2        q
+B4     1        e n   u         p
+ G4    1        e     u
+rest   1        e
+B5     1        e n   d         f
+P   C33:Y70
+ B4    1        e     d
+rest   1        e
+measure 28
+rest   6
+measure 29
+rest   2        q
+rest   2        q
+A5     2        q #   d         .f
+P   C34:Y82x2
+ C#5   2        q     d
+ E4    2        q     d
+mdouble
+$    T:1/1
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:f88e49a2fecc60100d1b012a69cf444b]
+@REASON: additions and refinements to Beethoven data

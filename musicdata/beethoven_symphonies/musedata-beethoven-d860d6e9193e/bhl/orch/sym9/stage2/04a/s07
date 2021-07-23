@@ -1,0 +1,572 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04a/s07}
+TIMESTAMP: MAY/19/2010 [md5sum:954101889886678a64ed2fbc526df130]
+09/30/03 Fran Bennion
+WK#:125       MV#:4a
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 1 (Introduction)
+Corni 3, 4// in B\0.
+0 0
+Group memberships: score scrcon
+score: part 7 of 15
+scrcon: part 7 of 15
+&
+Modified 09/27/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:0   Q:2   T:3/4   C:4   I:2
+P   C0:p80t3a1r1z31Cor_3-4_/(B\0.)
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+@  SCORECON transposition:4
+@  SCORECON instrument number:08
+G4     2-     1 q     u        -ff
+P    C33:Y102
+back   2
+G3     2-     2 q     u        -
+measure 1
+G4     6-     1 h.    u        -
+back   6
+G3     6-     2 h.    u        -
+measure 2
+P     C0:x1
+G4     6-     1 h.    u        -
+back   6
+G3     6-     2 h.    u        -
+measure 3
+G4     1      1 e     u  [
+G5     1      1 e     u  =
+G5     1      1 e     u  ]
+rest   1      1 e
+rest   1      1 e
+E5     1      1 e     u
+back   6
+G3     1      2 e     u  [
+G4     1      2 e     u  =
+G4     1      2 e     u  ]
+irest  1      2 e
+irest  1      2 e
+E4     1      2 e     u
+measure 4
+E5     2      1 q     u
+rest   2      1 q
+rest   1      1 e
+E5     1      1 e     u
+back   6
+E4     2      2 q     u
+irest  2      2 q
+irest  1      2 e
+E4     1      2 e     u
+measure 5
+E5     1      1 e     u  [
+E5     1      1 e     u  =
+E5     1      1 e     u  =
+E5     1      1 e     u  =
+E5     1      1 e     u  =
+E5     1      1 e     u  ]
+back   6
+E4     1      2 e     u  [
+E4     1      2 e     u  =
+E4     1      2 e     u  =
+E4     1      2 e     u  =
+E4     1      2 e     u  =
+E4     1      2 e     u  ]
+measure 6
+E5     1      1 e     u  [
+E5     1      1 e     u  =
+E5     1      1 e     u  =
+E5     1      1 e     u  =
+E5     1      1 e     u  =
+E5     1      1 e     u  ]
+back   6
+E4     1      2 e     u  [
+E4     1      2 e     u  =
+E4     1      2 e     u  =
+E4     1      2 e     u  =
+E4     1      2 e     u  =
+E4     1      2 e     u  ]
+measure 7
+E5     2      1 q     u
+rest   2      1 q
+rest   2      1 q
+back   6
+E4     2      2 q     u
+irest  2      2 q
+irest  2      2 q
+measure 8
+rest   6      3
+measure 9
+rest   6      3
+measure 10
+rest   6      3
+measure 11
+rest   6      3
+measure 12
+rest   6      3
+measure 13
+rest   6      3
+measure 14
+rest   6      3
+measure 15
+rest   6      3
+measure 16
+rest   6      3
+measure 17
+rest   2      1 q
+rest   2      1 q
+F5     2-     1 q     d        -ff
+P    C33:Y63x-5
+back   6
+irest  2      2 q
+irest  2      2 q
+D5     2-     2 q     d        -
+measure 18
+F5     6-     1 h.    d        -
+back   6
+D5     6-     2 h.    d        -
+measure 19
+F5     6-     1 h.    d        -
+back   6
+D5     6-     2 h.    d        -
+measure 20
+F5     2      1 q     d
+F5     2      1 q     d
+F5     2      1 q     d
+back   6
+D5     2      2 q     d
+D5     2      2 q     d
+D5     2      2 q     d
+measure 21
+F5     1      1 e     d
+rest   1      1 e
+rest   2      1 q
+rest   2      1 q
+back   6
+D5     1      2 e     d
+irest  1      2 e
+irest  2      2 q
+irest  2      2 q
+measure 22
+rest   6      3
+measure 23
+rest   6      3
+measure 24
+rest   2      1 q
+rest   2      1 q
+rest   1      1 e
+D5     1      1 e     d
+back   6
+irest  2      2 q
+irest  2      2 q
+irest  1      2 e
+G4     1      2 e     d
+measure 25
+D5     2      1 q     d
+rest   2      1 q
+rest   2      1 q
+back   6
+G4     2      2 q     d
+irest  2      2 q
+irest  2      2 q
+measure 26
+rest   6      3
+measure 27
+rest   6      3
+measure 28
+rest   6      3
+measure 29
+rest   6      3
+mdouble 30
+$    Q:1   T:2/4
+rest   2      3
+measure 31
+rest   2      3
+measure 32
+rest   2      3
+measure 33
+rest   2      3
+measure 34
+rest   2      3
+measure 35
+rest   2      3
+measure 36
+rest   2      3
+measure 37
+rest   2      3
+mdouble 38
+$    Q:1   T:3/4
+rest   3      3
+measure 39
+rest   3      3
+measure 40
+rest   3      3
+measure 41
+rest   3      3
+measure 42
+rest   3      3
+measure 43
+rest   3      3
+measure 44
+rest   3      3
+measure 45
+$   D:poco Adagio
+rest   3      3
+measure 46
+rest   3      3
+measure 47
+rest   3      3
+mdouble 48
+$   D:Vivace
+rest   3      3
+measure 49
+rest   3      3
+measure 50
+rest   3      3
+measure 51
+rest   3      3
+measure 52
+rest   3      3
+measure 53
+rest   3      3
+measure 54
+rest   3      3
+measure 55
+rest   3      3
+measure 56
+$   D:Tempo I
+rest   3      3
+measure 57
+rest   3      3
+measure 58
+rest   3      3
+measure 59
+rest   3      3
+measure 60
+rest   3      3
+measure 61
+rest   3      3
+measure 62
+rest   3      3
+mdouble 63
+$    Q:1   T:1/1
+G5     1      1 q     d         p
+P   C33:Y76x-3
+G5     2      1 h     d
+G5     1-     1 q     d        -
+back   4
+G4     1      2 q     d
+G4     2      2 h     d
+G4     1-     2 q     d        -
+measure 64
+G5     1      1 q     d
+G5     2      1 h     d
+D5     1      1 q     d
+back   4
+G4     1      2 q     d
+G4     2      2 h     d
+G4     1      2 q     d
+mdouble 65
+P     C0:x0
+$    T:3/4
+C5     1      1 q     u
+rest   1      1 q
+rest   1      1 q
+back   3
+G4     1      2 q     u
+irest  1      2 q
+irest  1      2 q
+measure 66
+rest   3      3
+measure 67
+rest   3      3
+measure 68
+rest   3      3
+measure 69
+rest   3      3
+measure 70
+rest   3      3
+measure 71
+rest   3      3
+measure 72
+rest   3      3
+measure 73
+rest   3      3
+measure 74
+rest   3      3
+measure 75
+rest   3      3
+measure 76
+rest   3      3
+mdouble 77
+P     C0:x1
+$    T:1/1
+rest   4      3
+measure 78
+rest   4      3
+measure 79
+rest   4      3
+measure 80
+rest   4      3
+mdouble 81
+$    Q:2   T:3/4
+rest   6      3
+measure 82
+rest   6      3
+measure 83
+rest   6      3
+measure 84
+rest   6      3
+measure 85
+rest   6      3
+measure 86
+rest   6      3
+measure 87
+rest   6      3
+measure 88
+rest   6      3
+measure 89
+rest   6      3
+measure 90
+rest   6      3
+measure 91
+rest   6      3
+mdouble 92
+$    Q:1   T:1/1
+rest   4      3
+measure 93
+rest   4      3
+measure 94
+rest   4      3
+measure 95
+rest   4      3
+measure 96
+rest   4      3
+measure 97
+rest   4      3
+measure 98
+rest   4      3
+measure 99
+rest   4      3
+measure 100
+rest   4      3
+measure 101
+rest   4      3
+measure 102
+rest   4      3
+measure 103
+rest   4      3
+measure 104
+rest   4      3
+measure 105
+rest   4      3
+measure 106
+rest   4      3
+measure 107
+rest   4      3
+measure 108
+rest   4      3
+measure 109
+rest   4      3
+measure 110
+rest   4      3
+measure 111
+rest   4      3
+measure 112
+rest   4      3
+measure 113
+rest   4      3
+measure 114
+rest   4      3
+measure 115
+rest   4      3
+measure 116
+rest   4      3
+measure 117
+rest   4      3
+measure 118
+rest   4      3
+measure 119
+rest   4      3
+measure 120
+rest   4      3
+measure 121
+rest   4      3
+measure 122
+rest   4      3
+measure 123
+rest   4      3
+measure 124
+rest   4      3
+measure 125
+rest   4      3
+measure 126
+rest   4      3
+measure 127
+rest   4      3
+measure 128
+rest   4      3
+measure 129
+rest   4      3
+measure 130
+rest   4      3
+measure 131
+rest   4      3
+measure 132
+rest   4      3
+measure 133
+rest   4      3
+measure 134
+rest   4      3
+measure 135
+rest   4      3
+measure 136
+rest   4      3
+measure 137
+rest   4      3
+measure 138
+rest   4      3
+measure 139
+rest   4      3
+measure 140
+rest   4      3
+measure 141
+rest   4      3
+measure 142
+rest   4      3
+measure 143
+rest   4      3
+measure 144
+rest   4      3
+measure 145
+rest   4      3
+measure 146
+rest   4      3
+measure 147
+rest   4      3
+measure 148
+rest   4      3
+measure 149
+rest   4      3
+measure 150
+rest   4      3
+measure 151
+rest   4      3
+measure 152
+rest   4      3
+measure 153
+rest   4      3
+measure 154
+rest   4      3
+measure 155
+rest   4      3
+measure 156
+rest   4      3
+measure 157
+rest   4      3
+measure 158
+rest   4      3
+measure 159
+rest   4      3
+measure 160
+rest   4      3
+measure 161
+rest   4      3
+measure 162
+rest   4      3
+measure 163
+rest   4      3
+measure 164
+rest   4      3
+measure 165
+rest   4      3
+measure 166
+P    C0:x0
+rest   4      3
+measure 167
+rest   4      3
+measure 168
+rest   4      3
+measure 169
+rest   4      3
+measure 170
+rest   4      3
+measure 171
+rest   4      3
+measure 172
+rest   4      3
+measure 173
+rest   4      3
+measure 174
+rest   4      3
+measure 175
+rest   4      3
+measure 176
+rest   4      3
+measure 177
+rest   4      3
+measure 178
+rest   4      3
+measure 179
+rest   4      3
+measure 180
+rest   4      3
+measure 181
+rest   4      3
+measure 182
+rest   4      3
+measure 183
+rest   4      3
+measure 184
+rest   4      3
+measure 185
+rest   4      3
+measure 186
+rest   4      3
+measure 187
+rest   4      3
+measure 188
+rest   4      3
+measure 189
+rest   4      3
+measure 190
+rest   4      3
+measure 191
+rest   4      3
+measure 192
+rest   4      3
+measure 193
+rest   4      3
+measure 194
+rest   4      3
+measure 195
+rest   4      3
+measure 196
+rest   4      3
+measure 197
+rest   4      3
+measure 198
+rest   4      3
+measure 199
+rest   4      3
+measure 200
+rest   4      3
+measure 201
+rest   4      3
+measure 202
+rest   4      3
+measure 203
+rest   4      3
+measure 204
+rest   4      3
+measure 205
+rest   4      3
+measure 206
+rest   4      3
+measure 207
+rest   4      3
+mdouble
+$    T:3/4
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:8c4a9552e641121a536987cf44c14dc0]
+@REASON: additions and refinements to Beethoven data

@@ -1,0 +1,283 @@
+INDEX   Ludwig van Beethoven 
+ Format:    (version 12/06/05) 
+
+   The first line in the index file contains the word INDEX 
+   starting in column 1.  This word is followed by some space 
+   and then the name of the composer.  All lines following the 
+   first line, up to the first index entry are a description of 
+   the format of the index (plus other other comments which 
+   might be added from time to time). 
+
+   All index entries start in column 1.  Works are listed by 
+   a shortened version of their complete file name (path).  
+   &dEEach work MUST have a unique name&d@.  In some cases, e.g., 
+   Bach BWV numbers, the name can be the work name itself; 
+   in other cases, e.g. Corelli, the name may need to include 
+   additional path information, e.g., OP3/01.  (01 by itself 
+   is not sufficient; there is also an OP6/01).  An equals 
+   sign ("=") in column 1 signifies a comment.  
+
+   Following each entry in the index are two or more data lines 
+   starting in colmun 2 and containing the following information: 
+
+     1.  Formal title of the work 
+     1a. [alternate name] 
+     1b. [alternate name] 
+            etc.  
+         Alternate names must be in square parentheses; i.e., a          
+         square parenthesis in column-2 signifies an alternate name.
+         Alternate names are optional; there may be none.  
+
+     2. Number of sources for the work 
+
+     For each source, there will be listed the name of the 
+     source file directory starting in column 2, followed 
+     by other information starting in column 3.  Put another 
+     way, the "source" is that part of the full path name 
+     between the &dEcomposer&d@ and the &dEwork name&d@.  
+
+
+       Source file name (starting in column 2) 
+
+         1. Formal name of the source 
+         2. Data stage flag: 0 = stage1 in progress 
+                             1 = stage1 finished and/or stage2 in progress 
+                             2 = stage2 finished and/or stage2 checking 
+                                   in progress 
+                             3 = stage2 checking finished and/or preparation
+                                   of release files in progress. (e.g. adding
+                                   tags, checking release files, etc.) 
+
+                        Greater than 3, this number is a set of flags 
+                          0x04 = MUSED          release ready 
+                          0x08 = MIDIM          release ready (MIDIminus) 
+                          0x10 = MIDI1          release ready 
+                          0x20 = MIDIP          release ready 
+                          0x40 = KERN (format)  release ready 
+                          0x80 = SCORE (format) release ready 
+                         0x100 = VECT_FULL      release ready 
+                         0x200 = VECT_SHRT      release ready 
+                         0x400 = VECT_VOCL      release ready 
+                         0x800 = VECT_PRTS      release ready 
+                        0x1000 = RAST_FULL      release ready 
+                        0x2000 = RAST_SHRT      release ready 
+                        0x4000 = RAST_VOCL      release ready 
+                        0x8000 = RAST_PRTS      release ready 
+                       0x10000 = 1st Edition    release ready 
+                       0x20000 = 2nd Edition    release ready 
+                                 etc.  
+
+         3. Number of copies released 
+         4. Number of movements in this work (in this source) 
+         5. and up:  names of the files containing these movements 
+              Following the file names can be any other information 
+              which helps identify the movement.  In general, we will 
+              not be releasing specific movements of works separately.  
+
+       Source file name (etc.) 
+
+
+   The last line in the index file contains the word "END" beginning 
+   in column one.  
+
+
+======  Beethoven: String Quartets ====== 
+
+OP18N3 
+ String Quartet in D Major, Op.18, No.3 
+ [Op.18, No.3] 
+ 1 source 
+ PETERS/QRTETS 
+  Peters #3032a 
+  2: Stage2 done but not checked       
+  0 
+  4 movements 
+  01 
+  02 
+  03 
+  04 
+
+OP59N3 
+ String Quartet in C Major, Op.59, No.3 
+ [Op.59, No.3] 
+ 1 source 
+ PETERS/QRTETS 
+  Peters #3032b 
+  2: Stage2 done but not checked       
+  0 
+  4 movements 
+  01 
+  02 
+  03 
+  04 
+
+======  Beethoven: Nine Symphonies ====== 
+
+sym1 
+ Symphony No. 1 in C major, Op. 21 
+ [Op.21] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  4 movements 
+  01 Adagio molto - Allegro con brio 
+  02 Andante cantabile con moto 
+  03 Allegro molto e vivace 
+  04 Adagio - Allegro molto e vivace 
+
+sym2 
+ Symphony No. 2 in D major, Op. 36 
+ [Op.36] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  4 movements 
+  01 Adagio molto - Allegro con brio 
+  02 Larghetto 
+  03 Scherzo 
+  04 Allegro molto 
+
+sym3 
+ Symphony No. 3 in E-flat major, Op. 55 
+ [Eroica] 
+ [Op.55] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  4 movements 
+  01 Allegro con brio 
+  02 Marcia funebre - Adagio assai 
+  03 Scherzo 
+  04 Allegro molto 
+
+sym4 
+ Symphony No. 4 in B-flat major, Op. 60 
+ [Op.60] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  4 movements 
+  01 Adagio - Allegro vivace 
+  02 Adagio 
+  03 Allegro vivace 
+  04 Allegro ma non troppo 
+
+sym5 
+ Symphony No. 5 in C minor, Op. 67 
+ [Op.67] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  0x34  MIDI1 and MIDIP releases ready (mvts 1-3) 
+  0 
+  4 movements 
+  01 Allegro con brio 
+  02 Andante con moto 
+  03 Allegro 
+  04 Allegro 
+
+sym6 
+ Symphony No. 6 in F major, Op. 68 
+ [Op.68] 
+ [Pastoral] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  5 movements 
+  01 Erwachen heiterer Empfindungen bei der Ankunst auf dem Lande - Allegro ma non troppo
+  02 Scene am Bach - Andante molto moto 
+  03 Lustiges Zusammensein der Landleute - Allegro 
+  04 Gewitter Sturm - Allegro 
+  05 Hirtengesang.  Frohe und dankbare Gef\u3hle nach dem Sturm - Allegretto
+
+sym7 
+ Symphony No. 7 in A major, Op. 92 
+ [Op.92] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  4 movements 
+  01 Poco sostenuto - Vivace 
+  02 Allegretto 
+  03 Presto 
+  04 Allegro con brio 
+
+sym8 
+ Symphony No. 8 in F major, Op. 93 
+ [Op.93] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  4 movements 
+  01 Allegro vivace e con brio 
+  02 Allegretto scherzando 
+  03 Tempo di Menuetto 
+  04 Allegro vivace 
+
+sym9 
+ Symphony No. 9 in D minor, Op. 125 
+ [Op.125] 
+ 1 source 
+ bhl/orch 
+  Breitkopf & H\a3rtel, Leipzig 
+  3: STAGE2 in complete
+  0 
+  12 movements (sub-directories) 
+  01 Allegro ma non troppo 
+  02 Molto vivace 
+  03 Adagio molto e cantabile 
+  04SOUND (4th movement, sound only) 
+= For practical applications, the 4th movement 
+=   is divided into 8 sections 
+  04A Presto 
+  04B Presto 
+  04C Allegro assai 
+  04D Alla Marcia 
+  04E Andante maestoso 
+  04F Allegro energico, sempre ben marcato 
+  04G Allegro ma non tanto 
+  04H Prestissimo 
+
+======  Beethoven: Concertos ============ 
+
+PIANO2 
+ Piano Concerto No. 2 in B-flat major, Op. 19 
+ [Op.19] 
+ 1 source 
+ BHL/CONC 
+  Breitkopf & H\a3rtel, Leipzig 
+  0x10  MIDI1 release ready, orchestra parts only 
+  0 
+  3 movements 
+  01 Allegro con brio 
+  02 Adagio
+  03 Rondo: Molto Allegro 
+
+VIOLIN 
+ Violin Concerto in D Major, Op.61 
+ [Op.61] 
+ 1 source 
+ BHL/CONC 
+  Breitkopf & H\a3rtel, Leipzig 
+  2: stage2 finished:  Printout not verified         
+  0 
+  3 movements 
+  01 D:Allegro, ma non troppo 
+  02 Larghetto 
+  03 Rondo
+
+END 

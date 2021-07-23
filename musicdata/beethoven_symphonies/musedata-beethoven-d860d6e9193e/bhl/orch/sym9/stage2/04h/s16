@@ -1,0 +1,912 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04h/s16}
+TIMESTAMP: MAY/19/2010 [md5sum:40caa7b226b0ef3c04292641bd60013a]
+09/30/03 Fran Bennion
+WK#:125       MV#:4h
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 8 (Chorus: Concluding Prestissimo)
+Violino I
+0 0
+Group memberships: score scrcon
+score: part 16 of 25
+scrcon: part 16 of 25
+&
+Modified 10/01/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$   K:2  Q:4  T:0/0  C:4
+P   C0:p80t3a1r1z31Vln_1__
+@  SCORECON instrument number:16
+*               D +     Prestissimo. (\0& = 132.)
+P    C17:Y-40  C25:f0
+D6     4        q     d         ff
+P    C33:Y63
+rest   4        q
+rest   8        h
+measure 2
+P   C0:x1
+rest  16
+measure 3
+rest  16
+measure 4
+rest   8        h
+A5     4        q     d        (ff
+P   C33:Y61
+B5     2        e     d  [
+C#6    2        e     d  ]     )
+measure 5
+D6     4        q     d         .Z
+P    C34:Y65x5
+ D5    4        q     d
+ D4    4        q     d
+D6     4        q     d         .
+C#6    4        q     d         .
+A5     4        q     d         .
+measure 6
+E6     4        q     d         Z
+P   C33:Y61
+E6     4        q     d
+D#6    4        q #   d
+B5     4        q     d
+measure 7
+E6     4        q     d         Z
+P   C33:Y61
+F#5    4        q     d
+G5     4        q     d
+G#5    4        q #   d
+measure 8
+A5     4        q     d         Z
+P    C33:Y53x-2
+G#5    4        q #   d
+A5     4        q     d
+B5     2        e     d  [     (
+A5     2        e     d  ]     )
+measure 9
+G5     4        q n   d         .+
+G5     2        e     d  [     (
+F#5    2        e     d  ]     )
+E5     4        q     d         .
+E5     2        e     d  [     (
+D5     2        e n   d  ]     )+
+measure 10
+C#5    4        q     d         .
+C#5    2        e     d  [     (
+B4     2        e     d  ]     )
+A4     2        e     d  [
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+measure 11
+A5     2        e     d  [      Z
+P   C33:Y64x4   C26:A
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+A5     2        e     d  [
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+measure 12
+A5     2        e     d  [      f
+P   C33:Y67x4
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+A5     2        e     d  [
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+measure 13
+A5     2        e     d  [      f
+P   C33:Y67x3
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+A5     2        e     d  [
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+measure 14
+A5     2        e     d  [      f
+P   C33:Y67x3
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+A5     2        e     d  [
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  =
+ A4    2        e     d
+A5     2        e     d  ]
+ A4    2        e     d
+P    C26:b
+measure 15
+E6     2        e     d  [      f
+P    C33:Y63     C26:y-2
+E5     2        e     d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+E5     2        e     d  [
+E5     2        e     d  =
+D5     2        e     d  =
+D5     2        e     d  ]
+measure 16
+E5     2        e     d  [      f
+P    C33:Y63     C26:y-5
+E5     2        e     d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+E5     2        e     d  [
+E5     2        e     d  =
+D5     2        e     d  =
+D5     2        e     d  ]
+measure 17
+E5     2        e     d  [      f
+P    C33:Y63     C26:y-5
+E5     2        e     d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+E5     2        e     d  [
+E5     2        e     d  =
+D5     2        e     d  =
+D5     2        e     d  ]
+measure 18
+E5     2        e     d  [      f
+P    C33:Y63     C26:y-5
+E5     2        e     d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+E5     2        e     d  [
+E5     2        e     d  =
+D5     2        e     d  =
+D5     2        e     d  ]
+measure 19
+A5     2        e     d  [
+A5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  ]
+G5     2        e     d  [
+G5     2        e     d  =
+F#5    2        e     d  =
+F#5    2        e     d  ]
+measure 20
+F#5    2        e     d  [
+F#5    2        e     d  =
+E5     2        e     d  =
+E5     2        e     d  ]
+G5     2        e     d  [
+G5     2        e     d  =
+E5     2        e     d  =
+E5     2        e     d  ]
+measure 21
+E5     2        e     d  [
+E5     2        e     d  =
+D5     2        e     d  =
+D5     2        e     d  ]
+D5     2        e     d  [
+D5     2        e     d  =
+C#5    2        e     d  =
+C#5    2        e     d  ]
+measure 22
+B5     2        e     d  [
+B5     2        e     d  =
+B5     2        e     d  =
+B5     2        e     d  ]
+A5     2        e     d  [
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+measure 23
+A5     2        e     d  [
+A5     2        e     d  =
+G5     2        e     d  =
+G5     2        e     d  ]
+G5     2        e     d  [
+G5     2        e     d  =
+F#5    2        e     d  =
+F#5    2        e     d  ]
+measure 24
+F#5    2        e     d  [
+F#5    2        e     d  =
+E5     2        e     d  =
+E5     2        e     d  ]
+G5     2        e     d  [
+G5     2        e     d  =
+E5     2        e     d  =
+E5     2        e     d  ]
+measure 25
+E5     2        e     d  [
+E5     2        e     d  =
+D5     2        e     d  =
+D5     2        e     d  ]
+D5     2        e     d  [
+D5     2        e     d  =
+C#5    2        e     d  =
+C#5    2        e     d  ]
+measure 26
+D5     4        q     u
+ D4    4        q     u
+D5     4        q     u
+ D4    4        q     u
+C#5    4        q     d
+A4     4        q     u
+measure 27
+F#5    4        q     d
+F#5    2        e     d  [     (
+G5     2        e     d  ]     )
+A5     4        q     d         .
+rest   4        q
+measure 28
+G5     4        q     d
+G5     4        q     d
+F#5    4        q     d
+D#5    4        q #   d
+measure 29
+G5     4        q     d
+G5     2        e     d  [     (
+A5     2        e     d  ]     )
+B5     4        q     d         .
+F#5    2        e     d  [     (
+G5     2        e     d  ]
+measure 30
+A5     4        q     d        ).ff
+P    C34:Y53x-3
+F#5    2        e     d  [     (
+G5     2        e     d  ]
+A5     4        q     d        ).
+F#5    2        e     d  [     (
+G5     2        e     d  ]
+measure 31
+A5     4        q     d        ).
+F#5    2        e     d  [     (
+G5     2        e     d  ]
+A5     4        q     d        ).
+F#5    2        e     d  [     (
+G5     2        e     d  ]
+measure 32
+A5     4        q     d        ).
+F#5    2        e     d  [     (
+G5     2        e     d  ]
+A5     4        q     d        ).
+B5     2        e     d  [     (
+A5     2        e     d  ]
+measure 33
+G5     4        q     d        ).
+E5     2        e     d  [     (
+F#5    2        e     d  ]
+G5     4        q     d        ).
+E5     2        e     d  [     (
+F#5    2        e     d  ]
+measure 34
+G5     4        q     d        ).
+E5     2        e     d  [     (
+F#5    2        e     d  ]
+G5     4        q     d        ).
+A5     2        e     d  [     (
+G5     2        e     d  ]
+measure 35
+F5     4        q n   d        ).
+D5     2        e n   d  [     (+
+E5     2        e     d  ]
+F5     4        q     d        ).
+G5     2        e     d  [     (
+F5     2        e     d  ]
+measure 36
+E5     4        q     d        ).
+E6     2        e     d  [     (
+C#6    2        e     d  ]
+A5     4        q     d        ).
+G#5    2        e #   d  [     (
+A5     2        e     d  ]     )
+measure 37
+A5     2        e     d  [      ff
+P   C33:Y59x-3
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+A5     2        e     d  [      Z
+P   C33:Y59x-3   C26:A
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+measure 38
+A5     2        e     d  [
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+A5     2        e     d  [
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+measure 39
+A5     2        e     d  [      f
+P   C33:Y59
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+A5     2        e     d  [      f
+P   C33:Y59
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+measure 40
+A5     2        e     d  [      f
+P    C33:Y53
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+A5     2        e     d  [      f
+P    C33:Y53
+A5     2        e     d  =
+A5     2        e     d  =
+A5     2        e     d  ]
+measure 41
+G5     2        e n   d  [      +ff
+P    C34:Y53
+ E5    2        e     d
+G5     2        e     d  =
+ E5    2        e     d
+G5     2        e     d  =
+ E5    2        e     d
+G5     2        e     d  ]
+ E5    2        e     d
+G5     2        e     d  [      f
+P    C33:Y53
+ E5    2        e     d
+G5     2        e     d  =
+ E5    2        e     d
+G5     2        e     d  =
+ E5    2        e     d
+G5     2        e     d  ]
+ E5    2        e     d
+measure 42
+G5     2        e     d  [      f
+P    C33:Y53
+ E5    2        e     d
+G5     2        e     d  =
+ E5    2        e     d
+G5     2        e     d  =
+ E5    2        e     d
+G5     2        e     d  ]
+ E5    2        e     d
+E6     2        e     d  [      f
+P    C33:Y53
+E6     2        e     d  =
+E6     2        e     d  =
+E6     2        e     d  ]
+measure 43
+F6     2        e n   d  [      ff
+P    C33:Y53
+F6     2        e     d  =
+F6     2        e     d  =
+F6     2        e     d  ]
+F6     2        e     d  [      f
+P    C33:Y53
+F6     2        e     d  =
+F6     2        e     d  =
+F6     2        e     d  ]
+measure 44
+E6     2        e     d  [      f
+P    C33:Y53
+E6     2        e     d  =
+E6     2        e     d  =
+E6     2        e     d  ]
+E6     2        e     d  [      f
+P    C33:Y53
+E6     2        e     d  =
+E6     2        e     d  =
+E6     2        e     d  ]
+measure 45
+F#6    2        e #   d  [      +ff
+P    C34:Y53
+F#6    2        e     d  =
+F#6    2        e     d  =
+F#6    2        e     d  ]
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+measure 46
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+measure 47
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+measure 48
+F#6    2        e     d  [
+F#6    2        e     d  =
+F#6    2        e     d  =
+F#6    2        e     d  ]
+E6     2        e     d  [
+E6     2        e     d  =
+E6     2        e     d  =
+E6     2        e     d  ]
+measure 49
+F#6    2        e     d  [
+F#6    2        e     d  =
+F#6    2        e     d  =
+F#6    2        e     d  ]
+G6     2        e     d  [      ff
+P   C33:Y59
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+measure 50
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+measure 51
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+G6     2        e     d  [
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+measure 52
+F#6    2        e     d  [
+F#6    2        e     d  =
+F#6    2        e     d  =
+F#6    2        e     d  ]
+E6     2        e     d  [
+E6     2        e     d  =
+E6     2        e     d  =
+E6     2        e     d  ]
+P    C26:b
+measure 53
+D6     2        e     d  [      f
+P   C33:Y59x-8   C26:y-8
+D5     2        e     d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+F#5    2        e     d  [
+F#5    2        e     d  =
+G5     2        e     d  =
+A5     2        e     d  ]
+measure 54
+B5     2        e     d  [      f
+P   C33:Y61
+B5     2        e     d  =
+C6     2        e n   d  =
+D6     2        e     d  ]
+D6     2        e     d  [
+D6     2        e     d  =
+E6     2        e     d  =
+F#6    2        e     d  ]
+measure 55
+G6     2        e     d  [      f
+P    C33:Y63x-3   C26:y-7
+G6     2        e     d  =
+A4     2        e     d  =
+B4     2        e     d  ]
+E4     2        e     d  [
+P    C26:y-4
+E5     2        e     d  =
+F#5    2        e     d  =
+G5     2        e     d  ]
+measure 56
+A5     2        e     d  [      ff
+P   C33:Y61x-3
+B5     2        e     d  =
+C#6    2        e #   d  =      +
+D6     2        e     d  ]
+E6     2        e     d  [
+F#6    2        e     d  =
+G6     2        e     d  =
+A6     2        e     d  ]
+measure 57
+A6     2        e     d  [
+A4     2        e     d  =
+B4     2        e     d  =
+C#5    2        e     d  ]
+D5     2        e     d  [
+E5     2        e     d  =
+F#5    2        e     d  =
+D5     2        e     d  ]
+measure 58
+A5     2        e     d  [      ff
+P   C33:Y61x-3
+B5     2        e     d  =
+C#6    2        e     d  =
+D6     2        e     d  ]
+E6     2        e     d  [
+F#6    2        e     d  =
+G6     2        e     d  =
+A6     2        e     d  ]
+measure 59
+A6     2        e     d  [
+A4     2        e     d  =
+B4     2        e     d  =
+C#5    2        e     d  ]
+D5     2        e     d  [
+E5     2        e     d  =
+F#5    2        e     d  =
+D5     2        e     d  ]
+measure 60
+A5     2        e     d  [      ff
+P    C33:Y63  C26:y-4
+C#5    2        e     d  =
+D5     2        e     d  =
+E5     2        e     d  ]
+A5     2        e     d  [
+D5     2        e     d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+measure 61
+A5     2        e     d  [
+D#5    2        e #   d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+G5     2        e     d  [
+A5     2        e     d  =
+B5     2        e     d  =
+C#6    2        e     d  ]
+measure 62
+D6     2        e n   d  [      +
+E6     2        e     d  =
+F#6    2        e     d  =
+G6     2        e     d  ]
+A6     2        e     d  [
+D4     2        e     u  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+measure 63
+A5     2        e     d  [      ff
+P    C33:Y63   C26:y-4
+C#5    2        e     d  =
+D5     2        e     d  =
+E5     2        e     d  ]
+A5     2        e     d  [
+D5     2        e     d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+measure 64
+A5     2        e     d  [
+D#5    2        e #   d  =
+E5     2        e     d  =
+F#5    2        e     d  ]
+G5     2        e     d  [
+A5     2        e     d  =
+B5     2        e     d  =
+C#6    2        e     d  ]
+measure 65
+D6     2        e n   d  [      +
+E6     2        e     d  =
+F#6    2        e     d  =
+G6     2        e     d  ]
+G6     2        e     d  [      ff
+P   C33:Y61x-4
+G6     2        e     d  =
+G6     2        e     d  =
+G6     2        e     d  ]
+mdouble 66
+$    Q:8   T:3/4
+*               D +     Maestoso.  (\0& = 60.)
+P    C17:Y-35  C25:f0
+G6     8        q     d
+rest   8        q
+rest   8        q
+measure 67
+rest   6        e.
+E5     2        s     d         (p
+P    C34:Y58
+*               D       cresc.
+P    C17:Y60  C25:f36
+E6     8-       q     d        -)
+E6     1        t     d  [[[
+D6     1        t     d  ===    .
+C#6    1        t     d  ===    .
+B5     1        t     d  ===    .
+A5     1        t     d  ===    .
+G5     1        t     d  ===    .
+F#5    1        t     d  ===    .
+E5     1        t     d  ]]]    .
+measure 68
+F#5    1        t     u  [[[    f.
+P   C33:Y61
+E5     1        t     u  ===     .
+D5     1        t     u  ===     .
+C#5    1        t     u  ===     .
+B4     1        t     u  ===     .
+A4     1        t     u  ===     .
+G4     1        t     u  ===     .
+F#4    1        t     u  ]]]     .
+B5     1        t     d  [[[    f
+P    C33:Y63   C26:y-10
+A5     1        t     d  ===
+G5     1        t     d  ===
+F#5    1        t     d  ===
+E5     1        t     d  ===
+D5     1        t     d  ===
+C#5    1        t     d  ===
+B4     1        t     d  ]]]
+G5     1        t     d  [[[    f
+P   C33:Y86
+F#5    1        t     d  ===
+E5     1        t     d  ===
+D5     1        t     d  ===
+C#5    1        t     d  ===
+B4     1        t     d  ===
+A4     1        t     d  ===
+G5     1        t     d  ]]]
+measure 69
+G5     1        t     d  [[[    ff
+P    C33:Y63   C26:y-4
+F#5    1        t     d  ===
+G5     1        t     d  ===
+A5     1        t     d  ===
+B5     1        t     d  ===
+A5     1        t     d  ===
+B5     1        t     d  ===
+C#6    1        t     d  ]]]
+D6     1        t     d  [[[
+C#6    1        t     d  ===
+D6     1        t     d  ===
+E6     1        t     d  ===
+F#6    1        t     d  ===
+E6     1        t     d  ===
+F#6    1        t     d  ===
+D6     1        t     d  ]]]
+C#6    1        t     d  [[[
+D6     1        t     d  ===
+E6     1        t     d  ===
+A5     1        t     d  ===
+B5     1        t     d  ===
+A5     1        t     d  ===
+B5     1        t     d  ===
+C#6    1        t     d  ]]]
+mdouble 70
+$    Q:2    T:0/0
+*               D +     Prestissimo.
+P    C17:Y-35  C25:f0
+*               D       sempre ff
+P  C25:f33  C32:f1  C17:Y64x-6
+D6     1        e     d  [
+F#5    1        e     d  =
+G5     1        e     d  =
+A5     1        e     d  ]
+A5     1        e     d  [
+P    C26:y-3
+G5     1        e     d  =
+F#5    1        e     d  =
+E5     1        e     d  ]
+measure 71
+F#5    1        e     d  [
+F#5    1        e     d  =
+G5     1        e     d  =
+A5     1        e     d  ]
+A5     1        e     d  [
+G5     1        e     d  =
+F#5    1        e     d  =
+E5     1        e     d  ]
+measure 72
+F#5    1        e     d  [
+F#5    1        e     d  =
+G5     1        e     d  =
+A5     1        e     d  ]
+A5     1        e     d  [
+G5     1        e     d  =
+F#5    1        e     d  =
+E5     1        e     d  ]
+measure 73
+F#5    1        e     d  [
+F#5    1        e     d  =
+G5     1        e     d  =
+A5     1        e     d  ]
+A5     1        e     d  [
+G5     1        e     d  =
+F#5    1        e     d  =
+E5     1        e     d  ]
+measure 74
+F#5    1        e     d  [
+F#5    1        e     d  =
+E5     1        e     d  =
+E5     1        e     d  ]
+F#5    1        e     d  [
+F#5    1        e     d  =
+C#6    1        e     d  =
+C#6    1        e     d  ]
+measure 75
+D6     1        e     d  [
+D6     1        e     d  =
+C#6    1        e     d  =
+C#6    1        e     d  ]
+D6     1        e     d  [
+D6     1        e     d  =
+E6     1        e     d  =
+E6     1        e     d  ]
+measure 76
+F#6    1        e     d  [
+F#6    1        e     d  =
+E6     1        e     d  =
+E6     1        e     d  ]
+F#6    1        e     d  [
+F#6    1        e     d  =
+G6     1        e     d  =
+G6     1        e     d  ]
+measure 77
+G6     1        e     d  [
+G6     1        e     d  =
+F#6    1        e     d  =
+F#6    1        e     d  ]
+G6     1        e     d  [
+G6     1        e     d  =
+A6     1        e     d  =
+A6     1        e     d  ]
+measure 78
+A6     2        q     d        (Z
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+A6     2        q     d        (f
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+measure 79
+A6     2        q     d        (f
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+A6     2        q     d        (f
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+measure 80
+A6     2        q     d        (f
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+A6     2        q     d        (f
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+measure 81
+A6     2        q     d        (f
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+A6     2        q     d        (f
+P   C33:Y62
+A4     1        e     u        )
+rest   1        e
+measure 82
+*               D       sempre ff
+P  C25:f33  C32:f1  C17:Y88x-10
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+measure 83
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+measure 84
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+measure 85
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+A6     1        e     d  [
+P    C26:y-10
+A6     1        e     d  =
+A4     1        e     d  =
+ D4    1        e     d
+A4     1        e     d  ]
+ D4    1        e     d
+measure 86
+A6     2        q     d
+ A4    2        q     d
+ D4    2        q     d
+rest   2        q
+rest   4        h
+measure 87
+rest   8
+measure 88
+D6     2        q     d
+ D5    2        q     d
+ D4    2        q     d
+rest   2        q
+rest   4        h
+measure 89
+D6     2        q     d
+ D5    2        q     d
+ D4    2        q     d
+rest   2        q
+rest   4        h
+measure 90
+D6     2        q     d
+ D5    2        q     d
+ D4    2        q     d
+rest   2        q
+rest   4        h               F
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:57fc3cff863f3e7ad59718a8dd91025f]
+@REASON: additions and refinements to Beethoven data

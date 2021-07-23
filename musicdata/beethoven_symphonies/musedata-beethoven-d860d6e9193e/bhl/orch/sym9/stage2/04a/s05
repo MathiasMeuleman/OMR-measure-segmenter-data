@@ -1,0 +1,767 @@
+(C) 2003, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym9/stage2/04a/s05}
+TIMESTAMP: MAY/19/2010 [md5sum:a8712e1d100e25d18e1f56fac230b981]
+09/30/03 Fran Bennion
+WK#:125       MV#:4a
+Breitkopf & H\a3rtel, Series 1 No. 9, Leipzig
+Beethoven Symphony No. 9 in D Minor, Op. 125
+Fourth Movement:  Part 1 (Introduction)
+Contrafagotto
+0 0
+Group memberships: score scrcon
+score: part 5 of 15
+scrcon: part 5 of 15
+&
+Modified 09/27/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:-1   Q:2   T:3/4  C:22
+P   C0:p80t3a1r1z31Cfg.
+@  SCORECON instrument number:06
+F2     2-       q     u        -ff
+P    C33:Y82
+measure 1
+F2     6-       h.    u        -
+measure 2
+P     C0:x1
+F2     6-       h.    u        -
+measure 3
+F2     1        e     u  [
+F3     1        e     u  =
+F3     1        e     u  =
+A2     1        e     u  =
+A2     1        e     u  =
+D3     1        e     u  ]
+measure 4
+D3     1        e     u  [
+F2     1        e     u  =
+F2     1        e     u  =
+A2     1        e     u  =
+A2     1        e     u  =
+D2     1        e     u  ]
+measure 5
+D2     1        e     u  [
+D3     1        e     u  =
+D3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  =
+B2     1        e n   u  ]
+measure 6
+B2     1        e n   d  [
+Bf2    1        e f   d  =
+Bf2    1        e     d  =
+Bf2    1        e     d  =
+Bf2    1        e     d  =
+Bf3    1        e     d  ]
+measure 7
+Bf3    2        q     d         .
+A3     2        q     d         .
+rest   2        q
+measure 8
+rest   6
+measure 9
+rest   6
+measure 10
+rest   6
+measure 11
+rest   6
+measure 12
+rest   6
+measure 13
+rest   6
+measure 14
+rest   6
+measure 15
+rest   6
+measure 16
+rest   6
+measure 17
+rest   2        q
+rest   2        q
+F#2    2-       q #   u        -ff
+P    C33:Y80x-5
+measure 18
+F#2    3        q.    u
+A3     1        e     d  [      .
+A3     1        e     d  =      .
+C4     1        e     d  ]      .
+measure 19
+C4     1        e     d  [
+F#3    1        e #   d  =
+F#3    1        e     d  =
+A3     1        e     d  =
+A3     1        e     d  =
+C3     1        e     d  ]
+measure 20
+C3     1        e     u  [
+Ef3    1        e f   u  =
+Ef3    1        e     u  =
+A2     1        e     u  =
+A2     1        e     u  =
+C3     1        e     u  ]
+measure 21
+C3     1        e     u  [
+F#2    1        e #   u  =
+F#2    1        e     u  =
+A2     1        e     u  =
+A2     1        e     u  =
+F#2    1        e     u  ]
+measure 22
+F#2    1        e #   u  [
+C3     1        e     u  =
+C3     1        e     u  =
+Bf2    1        e     u  =
+Bf2    1        e     u  =
+A2     1        e     u  ]
+measure 23
+A2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  =
+F#2    1        e #   u  =
+F#2    1        e     u  =
+F#2    1        e     u  ]
+measure 24
+F#2    2        q #   u
+rest   2        q
+rest   1        e
+F2     1        e n   u
+measure 25
+F2     2        q     u
+rest   2        q
+rest   2        q
+measure 26
+rest   6
+measure 27
+rest   6
+measure 28
+rest   6
+measure 29
+rest   2        q
+Bf2    1        e     u         f
+P    C33:Y63
+rest   1        e
+Bf2    1        e     u
+rest   1        e
+mdouble 30
+$     Q:8   T:2/4   D:Allegro ma non troppo
+&
+In B & H the metronome marking is a quarter note = 88
+&
+C#3   16-       h #   u        -pp
+P    C33:Y60
+measure 31
+C#3   16-       h     u        -
+measure 32
+C#3   16-       h     u        -
+measure 33
+C#3   16-       h     u        -
+measure 34
+C#3   16-       h     u        -
+measure 35
+C#3   16-       h     u        -
+measure 36
+C#3   16-       h     u        -
+measure 37
+C#3    8-       q     u        -
+C#3    7        e:    u  [
+A2     1        t     u  ]\\
+mdouble 38
+$    Q:1   T:3/4   D:Tempo I
+F#2    1        q #   u         f
+P    C33:Y71
+rest   1        q
+rest   1        q
+measure 39
+rest   3
+measure 40
+rest   3
+measure 41
+rest   3
+measure 42
+rest   3
+measure 43
+rest   3
+measure 44
+rest   1        q
+$   D:ritard
+rest   1        q
+rest   1        q
+measure 45
+$   D:poco Adagio
+rest   3
+measure 46
+rest   3
+measure 47
+rest   1        q
+rest   1        q
+rest   1        q               F
+mdouble 48
+$   D:Vivace
+rest   3
+measure 49
+rest   3
+measure 50
+rest   3
+measure 51
+rest   3
+measure 52
+rest   3
+measure 53
+rest   3
+measure 54
+rest   3
+measure 55
+rest   3
+measure 56
+$   D:Tempo I
+rest   3
+measure 57
+rest   3
+measure 58
+rest   3
+measure 59
+rest   3
+measure 60
+rest   3
+measure 61
+rest   3
+measure 62
+rest   3
+mdouble 63
+$   K:-2   Q:1   T:1/1   D:Adagio cantabile
+rest   4
+measure 64
+rest   4
+mdouble 65
+$   T:3/4   D:Tempo I. Allegro
+rest   3
+measure 66
+rest   3
+measure 67
+rest   3
+measure 68
+rest   3
+measure 69
+rest   3
+measure 70
+rest   3
+measure 71
+rest   3
+measure 72
+rest   3
+measure 73
+rest   3
+measure 74
+rest   3
+measure 75
+rest   3
+measure 76
+rest   3
+mdouble 77
+$  K:2    T:1/1    D:Allegro assai
+&
+In B & H the metronome marking is a half note = 80
+&
+rest   4
+measure 78
+rest   4
+measure 79
+rest   4
+measure 80
+rest   4
+mdouble 81
+$    Q:2   T:3/4   D:Tempo I. Allegro
+rest   2        q
+E3     2        q     d         .f
+P    C34:Y66
+rest   2        q
+measure 82
+rest   2        q
+C#3    2        q     u         .f
+P    C34:Y63
+rest   2        q
+measure 83
+rest   2        q
+G2     2        q     u         .f
+P    C34:Y74
+rest   2        q
+measure 84
+rest   2        q
+F#2    2        q     u         .f
+P    C34:Y79
+rest   2        q
+measure 85
+rest   6
+measure 86
+rest   6
+measure 87
+rest   6
+measure 88
+rest   2        q
+G2     2        q     u         f
+P    C33:Y66
+G3     1        e     d
+rest   1        e
+measure 89
+rest   6
+measure 90
+rest   6
+measure 91
+A2     2        q     u         ff
+P    C33:Y63
+rest   2        q
+D2     2        q     u
+mdouble 92
+$  K:2   Q:12   T:1/1    D:Tempo I. Allegro
+&
+In B & H the metronome marking is a half note = 80
+&
+rest  48
+measure 93
+rest  48
+measure 94
+rest  48
+measure 95
+rest  48
+measure 96
+rest  48
+measure 97
+rest  48
+measure 98
+rest  48
+measure 99
+rest  48
+measure 100
+rest  48
+measure 101
+rest  48
+measure 102
+rest  48
+measure 103
+rest  48
+measure 104
+rest  48
+measure 105
+rest  48
+measure 106
+rest  48
+measure 107
+rest  48
+measure 108
+rest  48
+measure 109
+rest  48
+measure 110
+rest  48
+measure 111
+rest  48
+measure 112
+rest  48
+measure 113
+rest  48
+measure 114
+rest  48
+measure 115
+rest  48
+measure 116
+rest  48
+measure 117
+rest  48
+measure 118
+rest  48
+measure 119
+rest  48
+measure 120
+rest  48
+measure 121
+rest  48
+measure 122
+rest  48
+measure 123
+rest  48
+measure 124
+rest  48
+measure 125
+rest  48
+measure 126
+rest  48
+measure 127
+rest  48
+measure 128
+rest  48
+measure 129
+rest  48
+measure 130
+rest  48
+measure 131
+rest  48
+measure 132
+rest  48
+measure 133
+rest  48
+measure 134
+rest  48
+measure 135
+rest  48
+measure 136
+rest  48
+measure 137
+rest  48
+measure 138
+rest  48
+measure 139
+rest  48
+measure 140
+rest  48
+measure 141
+rest  48
+measure 142
+rest  48
+measure 143
+rest  48
+measure 144
+rest  48
+measure 145
+rest  48
+measure 146
+rest  48
+measure 147
+rest  48
+measure 148
+rest  48
+measure 149
+rest  48
+measure 150
+rest  48
+measure 151
+rest  48
+measure 152
+rest  48
+measure 153
+rest  48
+measure 154
+rest  48
+measure 155
+rest  48
+measure 156
+rest  48
+measure 157
+rest  48
+measure 158
+rest  48
+measure 159
+rest  48
+measure 160
+rest  48
+measure 161
+rest  48
+measure 162
+rest  48
+measure 163
+rest  48
+measure 164
+D4    12        q     d         f
+P    C33:Y63
+rest   6        e
+D3     6        e     d
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+measure 165
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+measure 166
+D3    12        q     d
+rest  12        q
+rest  12        q
+D3    12        q     d
+measure 167
+A3    12        q     d
+rest  12        q
+A2    12        q     u
+rest  12        q
+measure 168
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+measure 169
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+measure 170
+D3    12        q     d
+rest  12        q
+rest  12        q
+D3    12        q     d
+measure 171
+A2    12        q     u
+rest  12        q
+D3    12        q     d
+rest  12        q
+measure 172
+A2    12        q     u
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+D3    12        q     d
+measure 173
+A2    12        q     u
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+D3    12        q     d
+measure 174
+A2    12        q     u
+rest   6        e
+A3     6        e     d
+A#3    6        e #   d
+rest   6        e
+F#3    6        e     d
+rest   6        e
+measure 175
+B3     6        e     d
+rest   6        e
+E3     6        e     d
+rest   6        e
+A3     6        e n   d         +
+rest   6        e
+A2     6        e     u
+rest   6        e
+measure 176
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+measure 177
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+measure 178
+D3    12        q     d
+rest  12        q
+rest  12        q
+D3    12        q     d
+measure 179
+A2    12        q     u
+rest  12        q
+D3    12        q     d
+rest  12        q
+measure 180
+A2    12        q     u
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+D3    12        q     d
+measure 181
+A2    12        q     u
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+D3    12        q     d
+measure 182
+A2    12        q     u
+rest   6        e
+A3     6        e     d
+A#3    6        e #   d
+rest   6        e
+F#3    6        e     d
+rest   6        e
+measure 183
+B3     6        e     d
+rest   6        e
+E3     6        e     d
+rest   6        e
+A3     6        e n   d         +
+rest   6        e
+A2     6        e     u
+rest   6        e
+measure 184
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+measure 185
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+measure 186
+D3    12        q     d
+rest  12        q
+rest  12        q
+D3    12        q     d
+measure 187
+A2    12        q     u
+rest  12        q
+D3    12        q     d
+rest   6        e
+D3     6        e     d
+measure 188
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+measure 189
+G3    12        q     d
+rest   6        e
+G2     6        e     u
+G3    12        q     d
+rest   6        e
+G2     6        e     u
+measure 190
+G3    12        q     d
+rest   6        e
+G2     6        e     u
+A3    12        q     d
+rest   6        e
+A2     6        e     u
+measure 191
+D4    12        q     d
+rest   6        e
+D3     6        e     d
+F#3   12        q     d
+rest   6        e
+F#2    6        e     u
+measure 192
+G3    12        q     d
+rest   6        e
+G2     6        e     u
+A3    12        q     d
+rest   6        e
+A3     6        e     d
+measure 193
+A#3   12        q #   d
+rest   6        e
+A#2    6        e #   u
+B3    12        q     d
+rest   6        e
+B2     6        e     u
+measure 194
+B#3   12        q #   d
+rest   6        e
+B#2    6        e #   u
+C#4   12        q     d
+rest   6        e
+C#3    6        e     u
+measure 195
+C#4   12        q     d
+rest   6        e
+C#3    6        e     u
+D4    12        q     d
+rest   6        e
+D#4    6        e #   d
+measure 196
+E4    12        q     d
+rest   6        e
+E#4    6        e #   d
+F#4   12        q     d
+rest   6        e
+F#4    6        e     d
+measure 197
+G#4   12        q #   d
+rest   6        e
+G#3    6        e #   d
+G#4   12        q     d
+rest   6        e
+G#3    6        e     d
+measure 198
+G#4   12        q #   d
+rest   6        e
+G#3    6        e #   d
+G#4   12        q     d
+rest   6        e
+G#3    6        e     d
+measure 199
+A3    12-       q n   d        -+
+A3     6        e     d  [     (
+B3     3        s n   d  =[     +
+C#4    3        s     d  ]]    )
+D4    12-       q     d        -
+D4     6        e     d  [     (
+C#4    3        s     d  =[
+B3     3        s     d  ]]    )
+measure 200
+C#4    6        e     d  [     (
+B3     3        s     d  =[
+A3     3        s     d  ]]    )
+G3     6        e n   d  [      .+
+F#3    6        e     d  ]      .
+F#3    6        e     d  [      .
+F3     6        e n   d  =      .
+E3     6        e     d  =      .
+E3     6        e     d  ]      .
+measure 201
+A3    24        h     d         Z
+P    C33:Y63
+E3    12        q     d         .
+E3    12        q     d         .
+measure 202
+A2     6        e     u  [      .
+A2     3        s     u  =[    (
+B2     3        s     u  ]]    )
+C#3    6        e     u  [      .
+C#3    3        s     u  =[    (
+D3     3        s     u  ]]    )
+E3     6        e     d  [      .
+E3     3        s     d  =[    (
+F#3    3        s     d  ]]    )
+G#3    6        e #   d  [      .
+E3     2        s  3  d  =[    (*
+F#3    2        s  3  d  ==
+G#3    2        s  3  d  ]]    )!
+P   C33:y-10
+measure 203
+$    D:poco ritenente
+rest  48
+measure 204
+rest  24        h
+rest  12        q
+$    D:poco Adagio
+rest  12        q
+measure 205
+rest  24        h
+rest  12        q
+G#3    6        e #   d  [      p
+P    C33:Y61
+$    D:Tempo I
+G#3    6        e     d  ]      f
+P    C33:Y66
+measure 206
+A3     6        e     d  [     (
+C#4    6        e     d  =     )
+F#4    6        e     d  =      .
+D#4    6        e #   d  ]      .
+E4    12        q     d        (
+E3    12        q     d        )
+measure 207
+rest  12        q
+E3    12        q     d         .
+rest  12        q
+A3    12        q     d         .
+mdouble
+$    K:-1    T:3/4
+/END
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:4926b13738bbf4f5903bf5b7dc15c6e2]
+@REASON: additions and refinements to Beethoven data
