@@ -1,0 +1,7647 @@
+{
+  "pages": [
+    {
+      "pageNumber": 1,
+      "systems": [
+        {
+          "measureEnd": 8,
+          "measureStart": 0,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 2,
+      "systems": [
+        {
+          "measureEnd": 15,
+          "measureStart": 8,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "systems": [
+        {
+          "measureEnd": 21,
+          "measureStart": 15,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "systems": [
+        {
+          "measureEnd": 30,
+          "measureStart": 21,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "systems": [
+        {
+          "measureEnd": 39,
+          "measureStart": 30,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "systems": [
+        {
+          "measureEnd": 46,
+          "measureStart": 39,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "systems": [
+        {
+          "measureEnd": 53,
+          "measureStart": 46,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "systems": [
+        {
+          "measureEnd": 60,
+          "measureStart": 53,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "systems": [
+        {
+          "measureEnd": 68,
+          "measureStart": 60,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "systems": [
+        {
+          "measureEnd": 75,
+          "measureStart": 68,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "systems": [
+        {
+          "measureEnd": 84,
+          "measureStart": 75,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 12,
+      "systems": [
+        {
+          "measureEnd": 92,
+          "measureStart": 84,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 13,
+      "systems": [
+        {
+          "measureEnd": 99,
+          "measureStart": 92,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        },
+        {
+          "measureEnd": 106,
+          "measureStart": 99,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 2
+        }
+      ]
+    },
+    {
+      "pageNumber": 14,
+      "systems": [
+        {
+          "measureEnd": 113,
+          "measureStart": 106,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        },
+        {
+          "measureEnd": 120,
+          "measureStart": 113,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 2
+        }
+      ]
+    },
+    {
+      "pageNumber": 15,
+      "systems": [
+        {
+          "measureEnd": 128,
+          "measureStart": 120,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 16,
+      "systems": [
+        {
+          "measureEnd": 135,
+          "measureStart": 128,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 17,
+      "systems": [
+        {
+          "measureEnd": 141,
+          "measureStart": 135,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 18,
+      "systems": [
+        {
+          "measureEnd": 148,
+          "measureStart": 141,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 19,
+      "systems": [
+        {
+          "measureEnd": 161,
+          "measureStart": 148,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 20,
+      "systems": [
+        {
+          "measureEnd": 176,
+          "measureStart": 161,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        },
+        {
+          "measureEnd": 192,
+          "measureStart": 176,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 2
+        },
+        {
+          "measureEnd": 208,
+          "measureStart": 192,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 3
+        }
+      ]
+    },
+    {
+      "pageNumber": 21,
+      "systems": [
+        {
+          "measureEnd": 218,
+          "measureStart": 208,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 22,
+      "systems": [
+        {
+          "measureEnd": 226,
+          "measureStart": 218,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 23,
+      "systems": [
+        {
+          "measureEnd": 232,
+          "measureStart": 226,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 24,
+      "systems": [
+        {
+          "measureEnd": 242,
+          "measureStart": 232,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 25,
+      "systems": [
+        {
+          "measureEnd": 251,
+          "measureStart": 242,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 26,
+      "systems": [
+        {
+          "measureEnd": 258,
+          "measureStart": 251,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 27,
+      "systems": [
+        {
+          "measureEnd": 265,
+          "measureStart": 258,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 28,
+      "systems": [
+        {
+          "measureEnd": 271,
+          "measureStart": 265,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 29,
+      "systems": [
+        {
+          "measureEnd": 280,
+          "measureStart": 271,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 30,
+      "systems": [
+        {
+          "measureEnd": 290,
+          "measureStart": 280,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 31,
+      "systems": [
+        {
+          "measureEnd": 301,
+          "measureStart": 290,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 32,
+      "systems": [
+        {
+          "measureEnd": 308,
+          "measureStart": 301,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 33,
+      "systems": [
+        {
+          "measureEnd": 319,
+          "measureStart": 308,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 34,
+      "systems": [
+        {
+          "measureEnd": 329,
+          "measureStart": 319,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 35,
+      "systems": [
+        {
+          "measureEnd": 337,
+          "measureStart": 329,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 36,
+      "systems": [
+        {
+          "measureEnd": 347,
+          "measureStart": 337,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 37,
+      "systems": [
+        {
+          "measureEnd": 354,
+          "measureStart": 347,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 38,
+      "systems": [
+        {
+          "measureEnd": 367,
+          "measureStart": 354,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 39,
+      "systems": [
+        {
+          "measureEnd": 381,
+          "measureStart": 367,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 40,
+      "systems": [
+        {
+          "measureEnd": 393,
+          "measureStart": 381,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 41,
+      "systems": [
+        {
+          "measureEnd": 402,
+          "measureStart": 393,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            },
+            {
+              "parts": null
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 42,
+      "systems": [
+        {
+          "measureEnd": 416,
+          "measureStart": 402,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 43,
+      "systems": [
+        {
+          "measureEnd": 429,
+          "measureStart": 416,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    },
+    {
+      "pageNumber": 44,
+      "systems": [
+        {
+          "measureEnd": 446,
+          "measureStart": 429,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in C",
+                  "name": "Clarinetto 1 in C"
+                },
+                {
+                  "id": "Clarinetto 2 in C",
+                  "name": "Clarinetto 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in C",
+                  "name": "Corno 1 in C"
+                },
+                {
+                  "id": "Corno 2 in C",
+                  "name": "Corno 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Tromba 1 in C",
+                  "name": "Tromba 1 in C"
+                },
+                {
+                  "id": "Tromba 2 in C",
+                  "name": "Tromba 2 in C"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto piccolo",
+                  "name": "Flauto piccolo"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrafagotto",
+                  "name": "Contrafagotto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in C, G",
+                  "name": "Timpani in C, G"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone alto",
+                  "name": "Trombone alto"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone tenore",
+                  "name": "Trombone tenore"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Trombone basso",
+                  "name": "Trombone basso"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ]
+            },
+            {
+              "parts": [
+                {
+                  "id": "Contrabasso",
+                  "name": "Contrabasso"
+                }
+              ]
+            }
+          ],
+          "systemNumber": 1
+        }
+      ]
+    }
+  ]
+}
