@@ -1,0 +1,51 @@
+A: Missing single line staffs
+mahler_symphony_4:1,8,17-22,25-31,33-36,41,46-49,51,54,55,57,62,73-76,94,96,98,103-105,108-113,115,116,118,120-123,126
+holst_the_planets:1,2,4,6,7,14-18,21-27,30,73,76,81,84,85,89,95,96,100,101,105,106,111,112,135,143,144,148,152,154,168-170,178,185,186
+tchaikovsky_ouverture_1812:1,8,9,11-14,19,22-26,29-31,36,37,42-45,47-54,58,60,66-69,72-76,78-80,82-84,86-88
+
+B: Two staffs detected as one or missing staff
+beethoven_symphony_5:7,12
+beethoven_symphony_6:11,12,14,37,54,55,60,63,70,72-74
+holst_the_planets:1,4,5,7,13,16,17,21,24,27,28,29,39,41,43,46,50,55,81,91,95,101,105,109,110,112,114,115,119-123,125-127,129-130,132,135,137,141,143,145,147,150,152,154-162,170,172-174,177,179-184,187
+beethoven_symphony_2:3,9,37,39,43,61
+tchaikovsky_ouverture_1812:1,2,26,29,41,51,57,59,67,73,77,80-82,85,88
+beethoven_symphony_1:2,3,6-8,11-13,22,28,37,38,40,42
+beethoven_symphony_3:2-4,7-8,22,32-33,44,46-47,51-52,60,65,74,84,85,88,89
+beethoven_symphony_9:7,8,10,11,19,21,22,24-26,29,34,38,39,43,61,62,64,65,72,78,81,84,94,95,99,101,102,108,110,111,113,117,120,124,126,127,136,144,153,160,162,173,174,178,184-187
+beethoven_symphony_7:4,8,23,32,44,47,49,58,64,66,81,82,84,86-89
+bach_brandenburg_concerto_5_part_1:3,4
+beethoven_symphony_8:16,36,59,71,133
+mozart_symphony_41:1,19
+beethoven_symphony_4:4,19,27,29,31-32,36
+bruckner_symphony_5:2,7,8,21,26,30,38,39,44,53,54,65,67,69,77,89,92,94,102,116,117,119,120,122,133,139,144,148,151,152,155,167,172,174
+
+C: One staff detected as more than one
+beethoven_symphony_5:48
+beethoven_symphony_6:32
+mahler_symphony_4:15
+beethoven_symphony_2:8,13,16,22,49
+tchaikovsky_ouverture_1812:31,36
+beethoven_symphony_1:35
+beethoven_symphony_3:35,36
+beethoven_symphony_9:127,185
+bach_brandenburg_concerto_5_part_1:8,11,17
+beethoven_symphony_4:29
+bruckner_symphony_5:9,10,79,85,142,144,145,147,148,150,162,163,165
+
+D: Vertical elements, such as long slurs, ties, trillers, cresc, decresc, voltas detected as staff
+beethoven_symphony_5:63
+bruckner_symphony_9:165,179
+mahler_symphony_4:16,99
+holst_the_planets:42,55,171,177
+beethoven_symphony_3:57
+beethoven_symphony_8:10
+beethoven_symphony_4:11
+bruckner_symphony_5:68,113,117
+
+E: Auxiliary staffs detected
+tchaikovsky_ouverture_1812:38
+
+F: Poor print quality misses
+holst_the_planets:11,25
+beethoven_symphony_3:30
+bruckner_symphony_5:104

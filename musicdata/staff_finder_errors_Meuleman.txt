@@ -1,0 +1,31 @@
+A: Missing single line staffs
+
+B: Two staffs detected as one or missing staff
+beethoven_symphony_6:70
+holst_the_planets:127
+beethoven_symphony_2:8
+beethoven_symphony_3:4,52
+beethoven_symphony_9:21,22,25,34,39,43,62,94,111,117,127
+beethoven_symphony_7:88
+beethoven_symphony_4:32,36
+
+C: One staff detected as more than one
+bruckner_symphony_5:79,150
+
+D: Horizontal elements, such as long slurs, ties, trillers, cresc, decresc, voltas detected as staff
+bruckner_symphony_9:161,162,165-167,170,179
+beethoven_symphony_5:63
+mahler_symphony_4:12,16,27,28,30,92,99,126
+holst_the_planets:18,19,30,55,96,97,111,112,167-177,179
+beethoven_symphony_3:57,59
+beethoven_symphony_9:134,156,174,178,183
+beethoven_symphony_8:10,98
+beethoven_symphony_4:11,17
+bruckner_symphony_5:13,68,84,153,155
+
+E: Auxiliary staffs detected
+tchaikovsky_ouverture_1812:38
+
+F: Poor print quality misses
+beethoven_symphony_3:30
+bruckner_symphony_5:104
