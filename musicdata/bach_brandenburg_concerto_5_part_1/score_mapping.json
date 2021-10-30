@@ -10,10 +10,20 @@
             {
               "parts": [
                 {
+                  "id": "Flute",
+                  "name": "Flute"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -21,7 +31,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -29,7 +40,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -37,7 +49,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -45,26 +58,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -76,10 +89,20 @@
             {
               "parts": [
                 {
+                  "id": "Flute",
+                  "name": "Flute"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -87,7 +110,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -95,7 +119,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -103,7 +128,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -111,26 +137,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -150,7 +176,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -158,7 +185,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -166,7 +194,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -174,7 +203,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -182,7 +212,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -190,23 +221,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -221,7 +255,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -229,7 +264,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -237,7 +273,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -245,7 +282,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -253,7 +291,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -261,23 +300,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -292,7 +334,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -300,7 +343,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -308,7 +352,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -316,7 +361,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -324,7 +370,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -332,23 +379,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -368,7 +418,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -376,7 +427,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -384,7 +436,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -392,7 +445,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -400,26 +454,35 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violone",
+                  "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -434,7 +497,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -442,7 +506,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -450,7 +515,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -458,7 +524,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -466,7 +533,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -474,23 +542,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -505,7 +576,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -513,7 +585,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -521,7 +594,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -529,7 +603,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -537,7 +612,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -545,23 +621,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -581,7 +660,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -589,7 +669,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -597,7 +678,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -605,7 +687,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -613,7 +696,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -621,23 +705,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -652,7 +739,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -660,7 +748,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -668,7 +757,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -676,7 +766,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -684,7 +775,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -692,23 +784,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -723,7 +818,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -731,7 +827,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -739,7 +836,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -747,7 +845,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -755,7 +854,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -763,23 +863,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -799,7 +902,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -807,7 +911,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -815,7 +920,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -823,7 +929,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -831,7 +938,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -839,23 +947,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -870,7 +981,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -878,7 +990,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -886,7 +999,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -894,7 +1008,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -902,7 +1017,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -910,23 +1026,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -941,7 +1060,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -949,7 +1069,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -957,7 +1078,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -965,7 +1087,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -973,26 +1096,35 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violone",
+                  "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -1012,7 +1144,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1020,7 +1153,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1028,7 +1162,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1036,7 +1171,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1044,7 +1180,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1052,23 +1189,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -1083,7 +1223,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1091,7 +1232,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1099,7 +1241,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1107,7 +1250,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1115,7 +1259,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1123,23 +1268,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -1154,7 +1302,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1162,7 +1311,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1170,7 +1320,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1178,7 +1329,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1186,7 +1338,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1194,23 +1347,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -1230,7 +1386,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1238,7 +1395,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1246,7 +1404,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1254,7 +1413,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1262,7 +1422,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1270,23 +1431,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -1301,7 +1465,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1309,7 +1474,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1317,7 +1483,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1325,7 +1492,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1333,7 +1501,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1341,23 +1510,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -1372,7 +1544,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1380,7 +1553,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1388,7 +1562,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1396,7 +1571,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1404,7 +1580,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1412,23 +1589,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -1448,7 +1628,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1456,7 +1637,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1464,7 +1646,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1472,7 +1655,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1480,7 +1664,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1488,23 +1673,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -1519,7 +1707,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1527,7 +1716,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1535,7 +1725,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1543,7 +1734,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1551,7 +1743,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1559,23 +1752,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -1590,7 +1786,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1598,7 +1795,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1606,7 +1804,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1614,7 +1813,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1622,7 +1822,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1630,23 +1831,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -1666,7 +1870,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1674,7 +1879,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1682,7 +1888,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1690,7 +1897,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1698,7 +1906,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1706,23 +1915,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -1737,7 +1949,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1745,7 +1958,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1753,7 +1967,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1761,7 +1976,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1769,7 +1985,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1777,23 +1994,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -1808,7 +2028,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1816,7 +2037,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1824,7 +2046,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1832,7 +2055,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1840,7 +2064,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1848,23 +2073,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -1884,7 +2112,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1892,7 +2121,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1900,7 +2130,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1908,7 +2139,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1916,7 +2148,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1924,23 +2157,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -1955,7 +2191,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1963,7 +2200,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1971,7 +2209,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1979,7 +2218,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1987,7 +2227,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1995,23 +2236,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -2026,7 +2270,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2034,7 +2279,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2042,7 +2288,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2050,7 +2297,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2058,7 +2306,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2066,23 +2315,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -2102,7 +2354,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2110,7 +2363,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2118,7 +2372,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2126,7 +2381,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2134,7 +2390,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2142,23 +2399,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -2173,7 +2433,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2181,7 +2442,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2189,7 +2451,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2197,7 +2460,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2205,7 +2469,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2213,23 +2478,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -2241,10 +2509,20 @@
             {
               "parts": [
                 {
+                  "id": "Flute",
+                  "name": "Flute"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2252,7 +2530,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2260,7 +2539,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2268,7 +2548,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2276,26 +2557,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -2315,7 +2596,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2323,7 +2605,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2331,7 +2614,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2339,7 +2623,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2347,7 +2632,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2355,23 +2641,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -2386,7 +2675,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2394,7 +2684,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2402,7 +2693,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2410,7 +2702,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2418,7 +2711,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2426,23 +2720,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -2457,7 +2754,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2465,7 +2763,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2473,7 +2772,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2481,7 +2781,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2489,7 +2790,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2497,23 +2799,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -2533,7 +2838,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2541,7 +2847,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2549,7 +2856,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2557,7 +2865,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2565,7 +2874,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2573,23 +2883,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -2604,7 +2917,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2612,7 +2926,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2620,7 +2935,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2628,7 +2944,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2636,7 +2953,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2644,23 +2962,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -2675,7 +2996,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2683,7 +3005,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2691,7 +3014,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2699,7 +3023,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2707,7 +3032,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -2715,18 +3041,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -2746,7 +3080,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2754,7 +3089,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2762,7 +3098,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2770,29 +3107,44 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violoncello",
+                  "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violone",
+                  "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
+                }
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -2807,7 +3159,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2815,7 +3168,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2823,7 +3177,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2831,29 +3186,44 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violoncello",
+                  "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violone",
+                  "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
+                }
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -2868,7 +3238,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2876,7 +3247,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2884,7 +3256,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2892,29 +3265,44 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violoncello",
+                  "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violone",
+                  "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
+                }
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -2934,7 +3322,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2942,7 +3331,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2950,7 +3340,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2958,29 +3349,44 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violoncello",
+                  "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violone",
+                  "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
+                }
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -2995,7 +3401,8 @@
                   "id": "Flute",
                   "name": "Flute"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3003,7 +3410,8 @@
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3011,7 +3419,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3019,29 +3428,44 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violoncello",
+                  "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Violone",
+                  "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
+                }
+              ],
+              "staffNumber": 7
             },
             {
-              "parts": null
+              "parts": [
+                {
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
+                }
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -3053,18 +3477,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 3
@@ -3076,18 +3502,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 4
@@ -3099,18 +3527,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 5
@@ -3122,18 +3552,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 6
@@ -3150,18 +3582,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 1
@@ -3173,18 +3607,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 2
@@ -3196,18 +3632,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 3
@@ -3219,18 +3657,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 4
@@ -3242,18 +3682,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 5
@@ -3265,18 +3707,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 6
@@ -3288,18 +3732,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 7
@@ -3311,18 +3757,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 8
@@ -3334,18 +3782,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 9
@@ -3357,18 +3807,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 10
@@ -3380,18 +3832,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 11
@@ -3403,18 +3857,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 12
@@ -3431,18 +3887,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 1
@@ -3454,18 +3912,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 2
@@ -3477,18 +3937,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 3
@@ -3500,18 +3962,20 @@
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             }
           ],
           "systemNumber": 4
@@ -3523,10 +3987,20 @@
             {
               "parts": [
                 {
+                  "id": "Flute",
+                  "name": "Flute"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3534,7 +4008,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3542,7 +4017,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3550,7 +4026,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -3558,26 +4035,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 5
@@ -3589,10 +4066,20 @@
             {
               "parts": [
                 {
+                  "id": "Flute",
+                  "name": "Flute"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
                   "id": "Violino pincipale.",
                   "name": "Violino pincipale."
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3600,7 +4087,8 @@
                   "id": "Violino di ripieno",
                   "name": "Violino di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3608,7 +4096,8 @@
                   "id": "Viola di ripieno",
                   "name": "Viola di ripieno"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3616,7 +4105,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -3624,26 +4114,26 @@
                   "id": "Violone",
                   "name": "Violone"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo1",
+                  "name": "Cembalo1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
                 {
-                  "id": "Cembalo",
-                  "name": "Cembalo"
+                  "id": "Cembalo2",
+                  "name": "Cembalo2"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 6
