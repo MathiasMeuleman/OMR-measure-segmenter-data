@@ -10,6 +10,58 @@
             {
               "parts": [
                 {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in Bb",
+                  "name": "Clarinetto 1 in Bb"
+                },
+                {
+                  "id": "Clarinetto 2 in Bb",
+                  "name": "Clarinetto 2 in Bb"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
                   "id": "Corno 1 in Bb",
                   "name": "Corno 1 in Bb"
                 },
@@ -17,7 +69,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -29,31 +109,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -61,19 +118,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -92,7 +138,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -104,7 +151,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -116,7 +164,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -128,7 +177,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -140,7 +190,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -152,31 +230,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -184,7 +239,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -208,7 +264,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -220,7 +277,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -232,7 +290,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -244,7 +303,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -256,7 +316,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -268,31 +356,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -300,7 +365,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -319,7 +385,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -331,7 +398,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -343,7 +411,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -355,7 +424,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -367,7 +437,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -379,31 +477,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -411,7 +486,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -435,7 +511,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -447,7 +524,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -459,7 +537,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -471,7 +550,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -483,7 +563,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -495,31 +603,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -527,7 +612,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -546,7 +632,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -558,7 +645,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -570,31 +685,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -602,7 +694,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 7
             }
           ],
           "systemNumber": 2
@@ -626,7 +719,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -638,7 +732,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -650,7 +745,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -662,7 +758,35 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -674,31 +798,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -706,7 +807,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 9
             }
           ],
           "systemNumber": 1
@@ -725,7 +827,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -737,7 +840,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -749,7 +853,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -761,7 +866,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -773,7 +879,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -785,31 +919,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -817,7 +928,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -841,7 +953,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -853,7 +966,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -865,7 +979,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -877,7 +992,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -889,7 +1005,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -901,31 +1045,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -933,7 +1054,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -952,7 +1074,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -964,7 +1087,35 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -976,31 +1127,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1008,7 +1136,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 7
             }
           ],
           "systemNumber": 2
@@ -1032,7 +1161,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1044,7 +1174,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1056,7 +1187,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1068,7 +1200,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1080,7 +1213,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1092,31 +1253,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1124,7 +1262,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -1143,7 +1282,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1155,7 +1295,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1167,7 +1308,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1179,7 +1321,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1191,7 +1334,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1203,31 +1374,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1235,7 +1383,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -1259,7 +1408,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1271,7 +1421,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1283,7 +1434,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1295,7 +1447,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1307,7 +1460,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1319,31 +1500,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1351,7 +1509,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -1370,7 +1529,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1382,7 +1542,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1394,7 +1555,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1406,7 +1568,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1418,7 +1581,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1430,31 +1621,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1462,7 +1630,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -1486,7 +1655,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1498,7 +1668,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1510,7 +1681,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1522,7 +1694,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1534,7 +1707,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1546,31 +1747,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1578,7 +1756,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -1597,7 +1776,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1609,7 +1789,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1621,7 +1802,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1633,7 +1815,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1645,7 +1828,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1657,31 +1868,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1689,7 +1877,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -1713,7 +1902,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1725,7 +1915,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1737,7 +1928,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1749,31 +1968,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1781,7 +1977,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
@@ -1800,7 +1997,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1812,7 +2010,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1824,7 +2023,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1836,7 +2036,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1848,7 +2049,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1860,31 +2089,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1892,7 +2098,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -1916,7 +2123,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1928,7 +2136,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1940,7 +2149,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1952,7 +2162,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1964,7 +2175,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -1976,31 +2215,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2008,7 +2224,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -2027,7 +2244,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2039,7 +2257,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2051,7 +2270,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -2063,31 +2310,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -2095,7 +2319,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -2119,7 +2344,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2131,7 +2357,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2143,7 +2370,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2155,7 +2383,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2167,7 +2396,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2179,31 +2436,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2211,7 +2445,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -2230,7 +2465,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2242,7 +2478,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2254,7 +2491,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2266,7 +2504,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2278,7 +2517,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2290,31 +2557,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2322,7 +2566,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -2346,7 +2591,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2358,7 +2604,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2370,7 +2617,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2382,7 +2630,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2394,7 +2643,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2406,31 +2683,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2438,7 +2692,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -2457,7 +2712,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2469,7 +2725,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2481,7 +2738,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2493,7 +2751,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2505,7 +2764,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2517,31 +2804,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2549,7 +2813,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -2573,7 +2838,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2585,7 +2851,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2597,7 +2864,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2609,7 +2877,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2621,7 +2890,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2633,31 +2930,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2665,7 +2939,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -2684,7 +2959,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2696,7 +2972,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2708,7 +2985,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2720,7 +2998,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2732,7 +3011,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2744,31 +3051,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2776,7 +3060,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -2800,7 +3085,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2812,7 +3098,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2824,7 +3111,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2836,7 +3124,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2848,7 +3137,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2860,31 +3177,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -2892,7 +3186,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -2911,7 +3206,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -2923,7 +3219,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -2935,7 +3232,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -2947,7 +3245,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -2959,7 +3258,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -2971,31 +3298,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3003,7 +3307,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -3027,7 +3332,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3039,7 +3345,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3051,7 +3358,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3063,7 +3371,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3075,7 +3384,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3087,31 +3424,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3119,7 +3433,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -3138,7 +3453,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3150,7 +3466,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3162,7 +3479,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3174,7 +3492,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -3186,31 +3532,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3218,7 +3541,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 9
             }
           ],
           "systemNumber": 2
@@ -3242,7 +3566,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3254,7 +3579,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3266,7 +3592,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3278,7 +3605,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3290,7 +3618,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3302,31 +3658,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3334,7 +3667,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -3353,7 +3687,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3365,7 +3700,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3377,7 +3713,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3389,7 +3726,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3401,7 +3739,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3413,31 +3779,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3445,7 +3788,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -3469,7 +3813,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3481,7 +3826,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3493,7 +3839,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3505,7 +3852,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3517,7 +3865,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3529,31 +3905,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3561,7 +3914,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -3580,7 +3934,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3592,7 +3947,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3604,7 +3960,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3616,7 +3973,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3628,7 +3986,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3640,31 +4026,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3672,7 +4035,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -3696,7 +4060,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3708,7 +4073,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3720,7 +4086,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3732,7 +4099,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3744,7 +4112,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3756,31 +4152,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3788,7 +4161,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -3807,7 +4181,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3819,7 +4194,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3831,7 +4207,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3843,7 +4220,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3855,7 +4233,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3867,31 +4273,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -3899,7 +4282,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -3923,7 +4307,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -3935,7 +4320,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -3947,7 +4333,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -3959,7 +4346,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -3971,7 +4359,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -3983,31 +4399,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -4015,7 +4408,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
@@ -4034,7 +4428,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -4046,7 +4441,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -4058,7 +4454,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -4070,7 +4467,8 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -4082,7 +4480,35 @@
                   "id": "Corno 2 in Bb",
                   "name": "Corno 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 1",
+                  "name": "Violino 1"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino 2",
+                  "name": "Violino 2"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
             },
             {
               "parts": [
@@ -4094,31 +4520,8 @@
                   "id": "Solo Violoncello 2",
                   "name": "Solo Violoncello 2"
                 }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 1",
-                  "name": "Violino 1"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Violino 2",
-                  "name": "Violino 2"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -4126,7 +4529,8 @@
                   "id": "Tutti Violoncelli e Basso",
                   "name": "Tutti Violoncelli e Basso"
                 }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2

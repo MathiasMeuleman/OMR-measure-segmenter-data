@@ -10,14 +10,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -25,7 +31,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -33,7 +40,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -41,7 +49,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -49,7 +58,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -57,7 +67,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -65,7 +76,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -73,7 +98,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -81,7 +107,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -89,7 +116,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -97,7 +125,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -105,13 +134,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -128,22 +152,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -151,7 +173,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -159,7 +182,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -167,7 +191,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -175,7 +200,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -183,7 +209,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -191,7 +218,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -199,7 +240,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -207,7 +249,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -215,7 +258,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -223,7 +267,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -231,10 +276,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -251,22 +294,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -274,7 +315,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -282,7 +324,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -290,7 +333,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -298,7 +342,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -306,7 +351,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -314,7 +360,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -322,7 +382,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -330,7 +391,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -338,7 +400,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -346,7 +409,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -354,10 +418,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -374,14 +436,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -389,7 +457,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -397,7 +466,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -405,7 +475,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -413,7 +484,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -421,7 +493,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -429,7 +502,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -437,7 +524,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -445,7 +533,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -453,7 +542,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -461,7 +551,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -469,13 +560,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -492,22 +578,11 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
                   "id": "Flauto 1",
                   "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -515,7 +590,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -523,7 +599,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -531,7 +608,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -539,7 +617,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -547,7 +626,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -555,7 +635,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -563,7 +644,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -571,7 +666,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -579,7 +675,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -587,7 +684,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -595,7 +693,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -603,7 +702,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -620,22 +720,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -643,7 +741,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -651,7 +750,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -659,7 +759,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -667,7 +768,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -675,7 +777,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -683,7 +786,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -691,7 +808,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -699,7 +817,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -707,7 +826,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -715,7 +835,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -723,10 +844,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -743,22 +862,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -766,7 +883,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -774,7 +892,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -782,7 +901,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -790,7 +910,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -798,7 +919,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -806,7 +928,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -814,7 +950,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -822,7 +959,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -830,7 +968,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -838,7 +977,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -846,10 +986,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -866,22 +1004,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -889,7 +1025,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -897,7 +1034,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -905,7 +1043,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -913,7 +1052,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -921,7 +1061,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -929,7 +1070,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -937,7 +1092,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -945,7 +1101,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -953,7 +1110,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -961,7 +1119,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -969,10 +1128,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -989,14 +1146,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1004,7 +1167,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1012,7 +1176,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1020,7 +1185,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1028,7 +1194,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1036,7 +1203,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1044,7 +1212,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1052,7 +1234,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1060,7 +1243,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1068,7 +1252,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1076,7 +1261,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1084,13 +1270,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -1107,14 +1288,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1122,7 +1309,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1130,7 +1318,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1138,7 +1327,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1146,7 +1336,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1154,7 +1345,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1162,7 +1354,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1170,7 +1376,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1178,7 +1385,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1186,7 +1394,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1194,7 +1403,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1202,13 +1412,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -1225,22 +1430,11 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
                   "id": "Flauto 1",
                   "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1248,7 +1442,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1256,7 +1451,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1264,7 +1460,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1272,7 +1469,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1280,7 +1478,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1288,7 +1487,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1296,7 +1496,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1304,7 +1518,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1312,7 +1527,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1320,7 +1536,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1328,7 +1545,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1336,7 +1554,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -1353,22 +1572,11 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
                   "id": "Flauto 1",
                   "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1376,7 +1584,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1384,7 +1593,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1392,7 +1602,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1400,7 +1611,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1408,7 +1620,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1416,7 +1629,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1424,7 +1638,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1432,7 +1660,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1440,7 +1669,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1448,7 +1678,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1456,7 +1687,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1464,7 +1696,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -1481,22 +1714,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1504,7 +1735,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1512,7 +1744,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1520,7 +1753,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1528,7 +1762,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1536,7 +1771,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1544,7 +1780,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1552,7 +1802,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1560,7 +1811,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1568,7 +1820,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1576,7 +1829,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1584,10 +1838,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -1604,22 +1856,20 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
                 {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1627,7 +1877,17 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1635,7 +1895,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1643,7 +1904,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1651,7 +1913,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1659,7 +1922,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1667,7 +1944,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1675,7 +1953,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1683,7 +1962,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1691,7 +1971,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1699,13 +1980,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "parts": null
-            },
-            {
-              "parts": null
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -1722,22 +1998,11 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
                   "id": "Flauto 1",
                   "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1745,7 +2010,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1753,7 +2019,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1761,7 +2028,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1769,7 +2037,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1777,7 +2046,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1785,7 +2055,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1793,7 +2064,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1801,7 +2086,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1809,7 +2095,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1817,7 +2104,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1825,7 +2113,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1833,7 +2122,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1
@@ -1850,22 +2140,11 @@
             {
               "parts": [
                 {
-                  "id": "Corno 1 in Bb basso",
-                  "name": "Corno 1 in Bb basso"
-                },
-                {
-                  "id": "Corno 2 in Bb basso",
-                  "name": "Corno 2 in Bb basso"
-                }
-              ]
-            },
-            {
-              "parts": [
-                {
                   "id": "Flauto 1",
                   "name": "Flauto 1"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
               "parts": [
@@ -1873,7 +2152,8 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
               "parts": [
@@ -1881,7 +2161,8 @@
                   "id": "Oboe 1",
                   "name": "Oboe 1"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
               "parts": [
@@ -1889,7 +2170,8 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
               "parts": [
@@ -1897,7 +2179,8 @@
                   "id": "Clarinetto 1 in Bb",
                   "name": "Clarinetto 1 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
               "parts": [
@@ -1905,7 +2188,8 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
               "parts": [
@@ -1913,7 +2197,8 @@
                   "id": "Fagotto 1",
                   "name": "Fagotto 1"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
               "parts": [
@@ -1921,7 +2206,21 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Bb basso",
+                  "name": "Corno 1 in Bb basso"
+                },
+                {
+                  "id": "Corno 2 in Bb basso",
+                  "name": "Corno 2 in Bb basso"
+                }
+              ],
+              "staffNumber": 9
             },
             {
               "parts": [
@@ -1929,7 +2228,8 @@
                   "id": "Violino 1",
                   "name": "Violino 1"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
               "parts": [
@@ -1937,7 +2237,8 @@
                   "id": "Violino 2",
                   "name": "Violino 2"
                 }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
               "parts": [
@@ -1945,7 +2246,8 @@
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 12
             },
             {
               "parts": [
@@ -1953,7 +2255,8 @@
                   "id": "Violoncello",
                   "name": "Violoncello"
                 }
-              ]
+              ],
+              "staffNumber": 13
             },
             {
               "parts": [
@@ -1961,7 +2264,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
+              ],
+              "staffNumber": 14
             }
           ],
           "systemNumber": 1

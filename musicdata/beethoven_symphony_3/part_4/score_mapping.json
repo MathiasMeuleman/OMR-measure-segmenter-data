@@ -4,86 +4,10 @@
       "pageNumber": 1,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 6,
+          "measureStart": 0,
+          "staffs": [
             {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violoncello",
-                  "name": "Violoncello"
-                },
-                {
-                  "id": "Basso",
-                  "name": "Basso"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": null
-            },
-            {
-              "measures": 6,
-              "parts": null
-            },
-            {
-              "measures": 6,
-              "parts": null
-            },
-            {
-              "measures": 6,
-              "parts": null
-            },
-            {
-              "measures": 6,
-              "parts": null
-            },
-            {
-              "measures": 6,
-              "parts": null
-            },
-            {
-              "measures": 6,
-              "parts": null
-            },
-            {
-              "measures": 6,
-              "parts": null
-            }
-          ],
-          "systemNumber": 1
-        },
-        {
-          "parts": [
-            {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -93,10 +17,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -106,10 +30,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -119,10 +43,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -132,10 +56,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -145,10 +69,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 17,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -158,10 +91,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 17,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -171,52 +140,151 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
+              ],
+              "staffNumber": 12
+            }
+          ],
+          "systemNumber": 1
+        },
+        {
+          "measureEnd": 23,
+          "measureStart": 6,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 17,
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in Bb",
+                  "name": "Clarinetto 1 in Bb"
+                },
+                {
+                  "id": "Clarinetto 2 in Bb",
+                  "name": "Clarinetto 2 in Bb"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Eb",
+                  "name": "Corno 1 in Eb"
+                },
+                {
+                  "id": "Corno 2 in Eb",
+                  "name": "Corno 2 in Eb"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
               "parts": [
                 {
                   "id": "Corno 3 in Eb",
                   "name": "Corno 3 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "measures": 17,
+              "parts": [
+                {
+                  "id": "Tromba 1 in Eb",
+                  "name": "Tromba 1 in Eb"
+                },
+                {
+                  "id": "Tromba 2 in Eb",
+                  "name": "Tromba 2 in Eb"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Timpani in Eb,Bb",
                   "name": "Timpani in Eb,Bb"
                 }
-              ]
+              ],
+              "staffNumber": 8
             },
             {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Violino I",
                   "name": "Violino I"
                 }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Violino II",
                   "name": "Violino II"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
-              "measures": 17,
               "parts": [
                 {
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 11
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Basso",
+                  "name": "Basso"
+                }
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2
@@ -227,9 +295,10 @@
       "pageNumber": 2,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 39,
+          "measureStart": 23,
+          "staffs": [
             {
-              "measures": 16,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -239,10 +308,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 16,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -252,10 +321,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 16,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -265,10 +334,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 16,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -278,10 +347,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 16,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -291,10 +360,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 16,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -304,10 +382,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 16,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -317,60 +431,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 16,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 16,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 16,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 16,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 16,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 53,
+          "measureStart": 39,
+          "staffs": [
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -380,10 +451,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -393,10 +464,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -406,10 +477,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 14,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -419,34 +517,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 7
             }
           ],
           "systemNumber": 2
@@ -457,9 +529,37 @@
       "pageNumber": 3,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 67,
+          "measureStart": 53,
+          "staffs": [
             {
-              "measures": 14,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -469,42 +569,44 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 4
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 78,
+          "measureStart": 67,
+          "staffs": [
             {
-              "measures": 11,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 1
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -514,42 +616,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 4
             }
           ],
           "systemNumber": 2
         },
         {
-          "parts": [
+          "measureEnd": 87,
+          "measureStart": 78,
+          "staffs": [
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -559,10 +636,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -572,10 +649,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -585,10 +662,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -598,10 +675,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -611,10 +688,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 9,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -624,43 +737,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 3
@@ -671,9 +749,10 @@
       "pageNumber": 4,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 95,
+          "measureStart": 87,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -683,10 +762,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -696,10 +775,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -709,10 +788,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -722,10 +801,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -735,10 +814,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -748,10 +836,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -761,60 +885,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 104,
+          "measureStart": 95,
+          "staffs": [
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -824,10 +905,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -837,10 +918,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -850,10 +931,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -863,10 +944,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -876,10 +957,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 9,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -889,10 +979,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 9,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -902,52 +1028,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2
@@ -958,9 +1040,10 @@
       "pageNumber": 5,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 113,
+          "measureStart": 104,
+          "staffs": [
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -970,10 +1053,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -983,10 +1066,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -996,10 +1079,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1009,10 +1092,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -1022,10 +1105,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 9,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -1035,151 +1127,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violoncello",
-                  "name": "Violoncello"
-                },
-                {
-                  "id": "Basso",
-                  "name": "Basso"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Timpani in Eb,Bb",
                   "name": "Timpani in Eb,Bb"
                 }
-              ]
+              ],
+              "staffNumber": 8
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Violino I",
                   "name": "Violino I"
                 }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Violino II",
                   "name": "Violino II"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
-            }
-          ],
-          "systemNumber": 1
-        },
-        {
-          "parts": [
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Flauto 1",
-                  "name": "Flauto 1"
-                },
-                {
-                  "id": "Flauto 2",
-                  "name": "Flauto 2"
-                }
-              ]
+              ],
+              "staffNumber": 11
             },
             {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Oboe 1",
-                  "name": "Oboe 1"
-                },
-                {
-                  "id": "Oboe 2",
-                  "name": "Oboe 2"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Clarinetto 1 in Bb",
-                  "name": "Clarinetto 1 in Bb"
-                },
-                {
-                  "id": "Clarinetto 2 in Bb",
-                  "name": "Clarinetto 2 in Bb"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Fagotto 1",
-                  "name": "Fagotto 1"
-                },
-                {
-                  "id": "Fagotto 2",
-                  "name": "Fagotto 2"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Corno 1 in Eb",
-                  "name": "Corno 1 in Eb"
-                },
-                {
-                  "id": "Corno 2 in Eb",
-                  "name": "Corno 2 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Tromba 1 in Eb",
-                  "name": "Tromba 1 in Eb"
-                },
-                {
-                  "id": "Tromba 2 in Eb",
-                  "name": "Tromba 2 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1189,43 +1176,142 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
+              ],
+              "staffNumber": 12
+            }
+          ],
+          "systemNumber": 1
+        },
+        {
+          "measureEnd": 125,
+          "measureStart": 113,
+          "staffs": [
+            {
+              "parts": [
+                {
+                  "id": "Flauto 1",
+                  "name": "Flauto 1"
+                },
+                {
+                  "id": "Flauto 2",
+                  "name": "Flauto 2"
+                }
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 12,
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Clarinetto 1 in Bb",
+                  "name": "Clarinetto 1 in Bb"
+                },
+                {
+                  "id": "Clarinetto 2 in Bb",
+                  "name": "Clarinetto 2 in Bb"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Fagotto 1",
+                  "name": "Fagotto 1"
+                },
+                {
+                  "id": "Fagotto 2",
+                  "name": "Fagotto 2"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Corno 1 in Eb",
+                  "name": "Corno 1 in Eb"
+                },
+                {
+                  "id": "Corno 2 in Eb",
+                  "name": "Corno 2 in Eb"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
               "parts": [
                 {
                   "id": "Corno 3 in Eb",
                   "name": "Corno 3 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "measures": 12,
+              "parts": [
+                {
+                  "id": "Tromba 1 in Eb",
+                  "name": "Tromba 1 in Eb"
+                },
+                {
+                  "id": "Tromba 2 in Eb",
+                  "name": "Tromba 2 in Eb"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violino I",
                   "name": "Violino I"
                 }
-              ]
+              ],
+              "staffNumber": 8
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Violino II",
                   "name": "Violino II"
                 }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Basso",
+                  "name": "Basso"
+                }
+              ],
+              "staffNumber": 11
             }
           ],
           "systemNumber": 2
@@ -1236,9 +1322,10 @@
       "pageNumber": 6,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 138,
+          "measureStart": 125,
+          "staffs": [
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -1248,10 +1335,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1261,46 +1348,57 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Violino I",
                   "name": "Violino I"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Violino II",
                   "name": "Violino II"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 13,
-              "parts": null
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Basso",
+                  "name": "Basso"
+                }
+              ],
+              "staffNumber": 6
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 151,
+          "measureStart": 138,
+          "staffs": [
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1310,10 +1408,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -1323,10 +1421,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -1336,10 +1434,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 13,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1349,10 +1447,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 13,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1362,42 +1487,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 13,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 13,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 13,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
         },
         {
-          "parts": [
+          "measureEnd": 161,
+          "measureStart": 151,
+          "staffs": [
             {
-              "measures": 10,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1407,10 +1507,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 10,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -1420,10 +1520,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 10,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -1433,10 +1533,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 10,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1446,10 +1546,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 10,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1459,34 +1586,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 3
@@ -1497,9 +1598,10 @@
       "pageNumber": 7,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 170,
+          "measureStart": 161,
+          "staffs": [
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1509,10 +1611,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -1522,10 +1624,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -1535,10 +1637,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1548,10 +1650,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -1561,10 +1663,37 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 9,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1574,42 +1703,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 178,
+          "measureStart": 170,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1619,10 +1723,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -1632,10 +1736,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -1645,10 +1749,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1658,10 +1762,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1671,34 +1802,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
@@ -1709,9 +1814,10 @@
       "pageNumber": 8,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 189,
+          "measureStart": 178,
+          "staffs": [
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1721,10 +1827,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -1734,10 +1840,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -1747,10 +1853,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1760,10 +1866,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 11,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1773,42 +1906,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 197,
+          "measureStart": 189,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1818,10 +1926,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -1831,10 +1939,37 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1844,42 +1979,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 6
             }
           ],
           "systemNumber": 2
         },
         {
-          "parts": [
+          "measureEnd": 204,
+          "measureStart": 197,
+          "staffs": [
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1889,10 +1999,37 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -1902,34 +2039,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 5
             }
           ],
           "systemNumber": 3
@@ -1940,9 +2051,10 @@
       "pageNumber": 9,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 212,
+          "measureStart": 204,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -1952,10 +2064,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -1965,10 +2077,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -1978,10 +2090,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -1991,10 +2103,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2004,42 +2143,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 220,
+          "measureStart": 212,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2049,10 +2163,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -2062,10 +2176,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -2075,10 +2189,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -2088,10 +2202,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2101,42 +2242,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 2
         },
         {
-          "parts": [
+          "measureEnd": 228,
+          "measureStart": 220,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2146,10 +2262,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -2159,10 +2275,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -2172,10 +2288,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2185,34 +2328,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 7
             }
           ],
           "systemNumber": 3
@@ -2223,9 +2340,10 @@
       "pageNumber": 10,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 236,
+          "measureStart": 228,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2235,10 +2353,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -2248,10 +2366,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -2261,10 +2379,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -2274,10 +2392,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -2287,10 +2405,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2300,51 +2454,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 244,
+          "measureStart": 236,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2354,10 +2474,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -2367,10 +2487,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -2380,10 +2500,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -2393,10 +2513,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -2406,10 +2526,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2419,43 +2575,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -2466,9 +2587,10 @@
       "pageNumber": 11,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 252,
+          "measureStart": 244,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2478,10 +2600,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -2491,10 +2613,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -2504,10 +2626,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -2517,10 +2639,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2530,42 +2679,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 8
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 261,
+          "measureStart": 252,
+          "staffs": [
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2575,10 +2699,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -2588,10 +2712,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -2601,10 +2725,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -2614,10 +2738,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -2627,10 +2751,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 9,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2640,43 +2800,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -2687,9 +2812,10 @@
       "pageNumber": 12,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 275,
+          "measureStart": 261,
+          "staffs": [
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2699,10 +2825,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -2712,10 +2838,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -2725,10 +2851,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -2738,10 +2864,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 14,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2751,51 +2913,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 285,
+          "measureStart": 275,
+          "staffs": [
             {
-              "measures": 10,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2805,10 +2933,23 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 10,
+              "parts": [
+                {
+                  "id": "Oboe 1",
+                  "name": "Oboe 1"
+                },
+                {
+                  "id": "Oboe 2",
+                  "name": "Oboe 2"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -2818,10 +2959,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 10,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -2831,10 +2972,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 10,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2844,47 +3021,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
-            },
-            {
-              "measures": 10,
-              "parts": null
+              ],
+              "staffNumber": 9
             }
           ],
           "systemNumber": 2
@@ -2895,45 +3033,57 @@
       "pageNumber": 13,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 293,
+          "measureStart": 285,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Violino I",
                   "name": "Violino I"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Violino II",
                   "name": "Violino II"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
-              "parts": null
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                },
+                {
+                  "id": "Basso",
+                  "name": "Basso"
+                }
+              ],
+              "staffNumber": 4
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 301,
+          "measureStart": 293,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -2943,10 +3093,37 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -2956,42 +3133,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 5
             }
           ],
           "systemNumber": 2
         },
         {
-          "parts": [
+          "measureEnd": 309,
+          "measureStart": 301,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -3001,10 +3153,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3014,10 +3166,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3027,51 +3215,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 7
             }
           ],
           "systemNumber": 3
         },
         {
-          "parts": [
+          "measureEnd": 317,
+          "measureStart": 309,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3081,10 +3235,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 2
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3094,43 +3284,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 6
             }
           ],
           "systemNumber": 4
@@ -3141,9 +3296,10 @@
       "pageNumber": 14,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 325,
+          "measureStart": 317,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -3153,10 +3309,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -3166,10 +3322,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -3179,10 +3335,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -3192,10 +3348,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3205,10 +3361,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -3218,10 +3383,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3231,60 +3432,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 337,
+          "measureStart": 325,
+          "staffs": [
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -3294,10 +3452,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -3307,10 +3465,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -3320,10 +3478,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -3333,10 +3491,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3346,10 +3504,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 12,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -3359,10 +3526,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 12,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3372,52 +3575,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2
@@ -3428,9 +3587,10 @@
       "pageNumber": 15,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 348,
+          "measureStart": 337,
+          "staffs": [
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -3440,10 +3600,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -3453,10 +3613,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -3466,10 +3626,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -3479,10 +3639,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3492,10 +3652,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 11,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -3505,10 +3674,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 11,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3518,60 +3723,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 360,
+          "measureStart": 348,
+          "staffs": [
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -3581,10 +3743,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -3594,10 +3756,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -3607,10 +3769,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -3620,10 +3782,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 12,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3633,10 +3795,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 12,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -3646,10 +3817,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 12,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3659,52 +3866,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 12,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2
@@ -3715,9 +3878,10 @@
       "pageNumber": 16,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 371,
+          "measureStart": 360,
+          "staffs": [
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -3727,10 +3891,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -3740,10 +3904,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -3753,10 +3917,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 11,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3766,10 +3930,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 11,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3779,51 +3979,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 11,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 9
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 377,
+          "measureStart": 371,
+          "staffs": [
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -3833,10 +3999,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -3846,10 +4012,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -3859,10 +4025,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -3872,10 +4038,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -3885,10 +4051,55 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -3898,52 +4109,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 11
             }
           ],
           "systemNumber": 2
@@ -3954,9 +4121,10 @@
       "pageNumber": 17,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 383,
+          "measureStart": 377,
+          "staffs": [
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -3966,10 +4134,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -3979,10 +4147,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -3992,10 +4160,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4005,10 +4173,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4018,65 +4186,71 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violoncello",
-                  "name": "Violoncello"
-                },
-                {
-                  "id": "Basso",
-                  "name": "Basso"
-                }
-              ]
-            },
-            {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 3 in Eb",
                   "name": "Corno 3 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Timpani in Eb,Bb",
                   "name": "Timpani in Eb,Bb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Violino I",
                   "name": "Violino I"
                 }
-              ]
+              ],
+              "staffNumber": 8
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Violino II",
                   "name": "Violino II"
                 }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
+              "parts": [
+                {
+                  "id": "Basso",
+                  "name": "Basso"
+                }
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
@@ -4087,9 +4261,10 @@
       "pageNumber": 18,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 389,
+          "measureStart": 383,
+          "staffs": [
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -4099,10 +4274,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -4112,10 +4287,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -4125,10 +4300,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4138,10 +4313,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4151,10 +4326,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -4164,65 +4348,62 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violoncello",
-                  "name": "Violoncello"
-                },
-                {
-                  "id": "Basso",
-                  "name": "Basso"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Timpani in Eb,Bb",
                   "name": "Timpani in Eb,Bb"
                 }
-              ]
+              ],
+              "staffNumber": 8
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Violino I",
                   "name": "Violino I"
                 }
-              ]
+              ],
+              "staffNumber": 9
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Violino II",
                   "name": "Violino II"
                 }
-              ]
+              ],
+              "staffNumber": 10
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Viola",
                   "name": "Viola"
                 }
-              ]
+              ],
+              "staffNumber": 11
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violoncello",
+                  "name": "Violoncello"
+                }
+              ],
+              "staffNumber": 12
+            },
+            {
+              "parts": [
+                {
+                  "id": "Basso",
+                  "name": "Basso"
+                }
+              ],
+              "staffNumber": 13
             }
           ],
           "systemNumber": 1
@@ -4233,9 +4414,10 @@
       "pageNumber": 19,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 395,
+          "measureStart": 389,
+          "staffs": [
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -4245,10 +4427,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -4258,10 +4440,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -4271,10 +4453,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4284,10 +4466,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4297,10 +4479,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -4310,10 +4501,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -4323,60 +4550,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 401,
+          "measureStart": 395,
+          "staffs": [
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -4386,10 +4570,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -4399,10 +4583,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -4412,10 +4596,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4425,10 +4609,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4438,10 +4622,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -4451,10 +4644,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -4464,52 +4693,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2
@@ -4520,9 +4705,10 @@
       "pageNumber": 20,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 407,
+          "measureStart": 401,
+          "staffs": [
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -4532,10 +4718,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -4545,10 +4731,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -4558,10 +4744,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4571,10 +4757,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4584,10 +4770,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -4597,10 +4792,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -4610,60 +4841,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 414,
+          "measureStart": 407,
+          "staffs": [
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -4673,10 +4861,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -4686,10 +4874,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -4699,10 +4887,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4712,10 +4900,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4725,10 +4913,46 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -4738,43 +4962,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 10
             }
           ],
           "systemNumber": 2
@@ -4785,9 +4974,10 @@
       "pageNumber": 21,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 420,
+          "measureStart": 414,
+          "staffs": [
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -4797,10 +4987,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -4810,10 +5000,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4823,10 +5013,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 6,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4836,10 +5026,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -4849,10 +5048,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 6
             },
             {
-              "measures": 6,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 7
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -4862,60 +5097,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 6,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 11
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 427,
+          "measureStart": 420,
+          "staffs": [
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -4925,10 +5117,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -4938,10 +5130,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -4951,10 +5143,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -4964,10 +5156,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -4977,10 +5169,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -4990,10 +5191,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -5003,52 +5240,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2
@@ -5059,9 +5252,10 @@
       "pageNumber": 22,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 436,
+          "measureStart": 427,
+          "staffs": [
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -5071,10 +5265,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 9,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -5084,10 +5278,37 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 9,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 3
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 4
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 5
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -5097,42 +5318,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 9,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 6
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 443,
+          "measureStart": 436,
+          "staffs": [
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -5142,10 +5338,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -5155,10 +5351,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -5168,10 +5364,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -5181,10 +5377,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -5194,10 +5390,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -5207,10 +5412,37 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -5220,43 +5452,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 11
             }
           ],
           "systemNumber": 2
@@ -5267,9 +5464,10 @@
       "pageNumber": 23,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 451,
+          "measureStart": 443,
+          "staffs": [
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -5279,10 +5477,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -5292,10 +5490,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -5305,10 +5503,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -5318,10 +5516,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 8,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -5331,10 +5529,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -5344,10 +5551,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 8,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -5357,60 +5600,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 8,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 458,
+          "measureStart": 451,
+          "staffs": [
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -5420,10 +5620,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -5433,10 +5633,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -5446,10 +5646,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -5459,10 +5659,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -5472,10 +5672,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -5485,10 +5694,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -5498,52 +5743,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2
@@ -5554,9 +5755,10 @@
       "pageNumber": 24,
       "systems": [
         {
-          "parts": [
+          "measureEnd": 465,
+          "measureStart": 458,
+          "staffs": [
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -5566,10 +5768,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -5579,10 +5781,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -5592,10 +5794,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -5605,10 +5807,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 7,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -5618,10 +5820,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -5631,10 +5842,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 7,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -5644,60 +5891,17 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 7,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 1
         },
         {
-          "parts": [
+          "measureEnd": 479,
+          "measureStart": 465,
+          "staffs": [
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Flauto 1",
@@ -5707,10 +5911,10 @@
                   "id": "Flauto 2",
                   "name": "Flauto 2"
                 }
-              ]
+              ],
+              "staffNumber": 1
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Oboe 1",
@@ -5720,10 +5924,10 @@
                   "id": "Oboe 2",
                   "name": "Oboe 2"
                 }
-              ]
+              ],
+              "staffNumber": 2
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Clarinetto 1 in Bb",
@@ -5733,10 +5937,10 @@
                   "id": "Clarinetto 2 in Bb",
                   "name": "Clarinetto 2 in Bb"
                 }
-              ]
+              ],
+              "staffNumber": 3
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Fagotto 1",
@@ -5746,10 +5950,10 @@
                   "id": "Fagotto 2",
                   "name": "Fagotto 2"
                 }
-              ]
+              ],
+              "staffNumber": 4
             },
             {
-              "measures": 14,
               "parts": [
                 {
                   "id": "Corno 1 in Eb",
@@ -5759,10 +5963,19 @@
                   "id": "Corno 2 in Eb",
                   "name": "Corno 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 5
             },
             {
-              "measures": 14,
+              "parts": [
+                {
+                  "id": "Corno 3 in Eb",
+                  "name": "Corno 3 in Eb"
+                }
+              ],
+              "staffNumber": 6
+            },
+            {
               "parts": [
                 {
                   "id": "Tromba 1 in Eb",
@@ -5772,10 +5985,46 @@
                   "id": "Tromba 2 in Eb",
                   "name": "Tromba 2 in Eb"
                 }
-              ]
+              ],
+              "staffNumber": 7
             },
             {
-              "measures": 14,
+              "parts": [
+                {
+                  "id": "Timpani in Eb,Bb",
+                  "name": "Timpani in Eb,Bb"
+                }
+              ],
+              "staffNumber": 8
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino I",
+                  "name": "Violino I"
+                }
+              ],
+              "staffNumber": 9
+            },
+            {
+              "parts": [
+                {
+                  "id": "Violino II",
+                  "name": "Violino II"
+                }
+              ],
+              "staffNumber": 10
+            },
+            {
+              "parts": [
+                {
+                  "id": "Viola",
+                  "name": "Viola"
+                }
+              ],
+              "staffNumber": 11
+            },
+            {
               "parts": [
                 {
                   "id": "Violoncello",
@@ -5785,52 +6034,8 @@
                   "id": "Basso",
                   "name": "Basso"
                 }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Corno 3 in Eb",
-                  "name": "Corno 3 in Eb"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Timpani in Eb,Bb",
-                  "name": "Timpani in Eb,Bb"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino I",
-                  "name": "Violino I"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Violino II",
-                  "name": "Violino II"
-                }
-              ]
-            },
-            {
-              "measures": 14,
-              "parts": [
-                {
-                  "id": "Viola",
-                  "name": "Viola"
-                }
-              ]
+              ],
+              "staffNumber": 12
             }
           ],
           "systemNumber": 2

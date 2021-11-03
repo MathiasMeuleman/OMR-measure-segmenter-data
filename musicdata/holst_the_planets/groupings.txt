@@ -1,7 +1,7 @@
 Piccolo 1,Piccolo 2
-Flute 1,Flute 2:1-112,132-187
-Flute 3,Flute 4:1-112,132-187
-Flute 1,Flute 2,Flute 3:113-131
+Flute 1,Flute 2:1-112,132-187,!48
+Flute 3,Flute 4:1-112,132-187,!48
+Flute 1,Flute 2,Flute 3:48,113-131
 Oboe 1,Oboe 2,Oboe 3
 Clarinet 1 in B♭,Clarinet 2 in B♭,Clarinet 3 in B♭:1-187,!42-43
 Clarinet 1 in A,Clarinet 2 in A,Clarinet 3 in A:1-187,!42-43
@@ -18,7 +18,6 @@ Trumpet 1 in C,Trumpet 2 in C,Trumpet 3 in C,Trumpet 4 in C:113-131,162-187
 Tenor Trombone 1,Tenor Trombone 2:1-161
 Tenor Trombone 1,Tenor Trombone 2,Bass Trombone:162-187
 Bass Trombone,Tuba:113-131
-Snare Drum,Tambourine,Cymbal,Bass Drum,Tam-tam:132,162
 P51-Staff1,P52-Staff1:91-94,132,147-152
 P51-Staff2,P52-Staff2:91-94,132,147-152
 Soprano I,Mezzo I,Alto I:162
